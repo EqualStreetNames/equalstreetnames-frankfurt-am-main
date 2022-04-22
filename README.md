@@ -4,7 +4,7 @@ If you want to replicate the EqualStreetNames project in your city, here is the 
 
 ## Setup
 
-1. Click on the "Use this template" button above
+1. Click on the "Use this template" button above ✅
 
 1. Update the *Overpass* queries :
 
