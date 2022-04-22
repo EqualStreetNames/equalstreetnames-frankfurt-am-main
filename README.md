@@ -52,7 +52,7 @@ If you want to replicate the EqualStreetNames project in your city, here is the 
     - `person`: Name of the person
     - `description`: Description of the person
 
-1. Update the HTML files (replace `MyCity` by the name of your city in **all** `index.html` files, add languages, ...).
+1. Update the HTML files (replace `MyCity` by the name of your city in **all** `index.html` files, add languages, ...). ✅
 
     (*example for Brussels, Belgium*)
 
