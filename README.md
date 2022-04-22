@@ -6,20 +6,20 @@ If you want to replicate the EqualStreetNames project in your city, here is the 
 
 1. Click on the "Use this template" button above ✅
 
-1. Update the *Overpass* queries :
+1. Update the *Overpass* queries : ✅
 
-    `overpass/relation-full-json` (*example for Brussels, Belgium*)
+    `overpass/relation-full-json` (Frankfurt am Main: Wikidata Q1794, admin_level 6)
 
     ```diff
     - ( area["admin_level"=""]["wikidata"=""]; )->.a;
-    + ( area["admin_level"="4"]["wikidata"="Q240"]; )->.a;
+    + ( area["admin_level"="6"]["wikidata"="Q1794"]; )->.a;
     ```
 
     `overpass/way-full-json` (*example for Brussels, Belgium*)
 
     ```diff
     - ( area["admin_level"=""]["wikidata"=""]; )->.a;
-    + ( area["admin_level"="4"]["wikidata"="Q240"]; )->.a;
+    + ( area["admin_level"="6"]["wikidata"="Q1794"]; )->.a;
     ```
 
 1. Find the *OpenStreetMap* relation of your city (example, [Brussels, Belgium](https://www.openstreetmap.org/relation/54094))
