@@ -15,22 +15,22 @@ If you want to replicate the EqualStreetNames project in your city, here is the 
     + ( area["admin_level"="6"]["wikidata"="Q1794"]; )->.a;
     ```
 
-    `overpass/way-full-json` (*example for Brussels, Belgium*)
+    `overpass/way-full-json` (Frankfurt am Main: Wikidata Q1794, admin_level 6)
 
     ```diff
     - ( area["admin_level"=""]["wikidata"=""]; )->.a;
     + ( area["admin_level"="6"]["wikidata"="Q1794"]; )->.a;
     ```
 
-1. Find the *OpenStreetMap* relation of your city (example, [Brussels, Belgium](https://www.openstreetmap.org/relation/54094))
+1. Find the *OpenStreetMap* relation of your city (example, [Frankfurt am Main, Germany](https://www.openstreetmap.org/relation/62400)) ✅
 
-1. Update `config.php` configuration file
+1. Update `config.php` configuration file ✅
 
-    1. **REQUIRED:** Add relation identifier (*example for Brussels, Belgium*).
+    1. **REQUIRED:** Add relation identifier (OSM: 62400).
 
         ```diff
         - 'relationId' => 0,
-        + 'relationId' => 54094,
+        + 'relationId' => 62400,
         ```
 
     1. *Optional:* Choose languages in which you want to extract Wiki informations with `languages` (English `en` by default).
