@@ -551,20 +551,6 @@ way;Q55842834;;Haeussermannstraße;m;Carl Haeußermann
 ;Q28858783;de:Gustav Humser;Humserstraße;m;Gustav Humser
 ;;;Huswertstraße;m;Huswert
 ;;;Huthmacherstraße;m;Franz-Josef Huthmacher
-;;;_Aennchengasse;;
-;;;_Affengasse;;
-;;;_Alter Markt;;
-;;;_Beckergasse;;
-;;;_Bitzweg (alt);;
-;;;_Bockgasse;;
-;;;_Borngasse;;
-;;;_Cromestraße;;
-;;;_Geisgässchen;;
-;;;_Geißbockzeil;;
-;;;_Gelnhäuser Gasse;;
-;;;_Goldhutgasse;;
-;;;_Göringstraße;;
-;;;_Graubengasse;;
 ;;;Abflugring;;
 ;;;Affentorplatz;;
 ;Q153394;;Ahrtalstraße;;
@@ -854,7 +840,7 @@ way;Q1019911;;Bönstädter Straße;;
 ;;;Bundenweg;;
 ;Q2015467;;Bürgeler Straße;;
 ;Q43210;;Burgenlandweg;;
-;;;Bürgermeister-Schubert-Park;;Benno Schubert
+;;;Bürgermeister-Schubert-Park;m;Benno Schubert
 ;Q2179315;;Burgfriedenstraße;;
 way;Q1015073;;Burgholzer Platz;;
 way;Q1015073;;Burgholzer Straße;;
