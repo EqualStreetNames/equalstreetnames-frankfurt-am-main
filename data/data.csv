@@ -340,7 +340,7 @@ way;Q19825012;Bindingstraﬂe;m
 ;Q624456;Bischofsheimer Straﬂe;
 ;;Bischofsweg;
 ;Q836932;Bitterfelder Weg;
-way;Q366649,Q241755;Blanchardstraﬂe;+
+way;"Q366649;Q241755";Blanchardstraﬂe;+
 ;Q241755;Blankenburger Weg;
 ;Q241235;Blankenheimer Straﬂe;
 ;Q25630;Blauenstraﬂe;
@@ -555,7 +555,7 @@ way;Q103555;Eberstadtstraﬂe;m
 ;;Eckhardtstraﬂe;m
 ;Q537985;Edenkobener Straﬂe;
 ;Q685585;Ederstraﬂe;
-way;Q56435227,Q66524;Edingerweg;+
+way;"Q56435227;Q66524";Edingerweg;+
 way;Q8743;Edisonstraﬂe;m
 way;Q76749;Edith-Stein-Weg;f
 way;Q84530;Edmund-Rumpler-Straﬂe;m
@@ -1677,7 +1677,7 @@ way;Q1042305;Mierendorffstraﬂe;m
 ;Q502681;Miltenberger Straﬂe;
 way;Q63882;Miquelallee und Miquelanlage;m
 ;Q6497135;Mithrasstraﬂe;m
-;Q67449,Q77809;Mitscherlichplatz;+
+;"Q67449;Q77809";Mitscherlichplatz;+
 ;;Mittelweg;
 ;Q16293904;Mittlerer Schafhofweg;
 ;;Mockst‰dter Straﬂe;
@@ -1774,7 +1774,7 @@ way;Q118244;Norbert-Wollheim-Platz;m
 ;Q8359;Odenwaldstraﬂe;
 ;Q95673747;Odina-Bott-Platz;f
 ;Q72060230;Odrellstraﬂe;m
-;Q1238577,Q2719403;Oeder Weg;
+;"Q1238577;Q2719403";Oeder Weg;
 ;Q95909;Oeserstraﬂe;m
 ;Q2015283;Oestricher Weg;
 ;Q3042;Offenbacher Landstraﬂe;
@@ -1862,7 +1862,7 @@ way;Q1112030;Philipp-Holzmann-Weg;m
 ;;Philipp-Puth-Straﬂe;m
 ;Q77124;Philipp-Reis-Straﬂe;m
 ;;Philipp-Schnell-Straﬂe;m
-;Q875810,Q90186;Philippsruher Straﬂe;m
+;"Q875810;Q90186";Philippsruher Straﬂe;m
 ;Q14849;Pirmasenser Straﬂe;
 way;Q134741;Pissarroweg;m
 ;Q62432;Platenstraﬂe;m
@@ -2288,7 +2288,7 @@ way;Q103942;Vogtstraﬂe;m
 ;Q66936;Waitzstraﬂe;m
 ;Q24040251;Walburga-Zizka-Weg;f
 ;Q540107;Waldecker Straﬂe;
-;Q712254,Q1041465;Waldfriedstraﬂe;+
+;"Q712254;Q1041465";Waldfriedstraﬂe;+
 ;Q15821335;Waldschmidtstraﬂe;m
 ;;Waldschulstraﬂe;
 ;Q2542588;Wallauer Straﬂe;
@@ -2330,8 +2330,8 @@ way;Q1440251;Walter-Mˆller-Platz;m
 ;Q2557202;Weiﬂfrauenstraﬂe;
 ;Q2062891;Weiﬂkirchener Weg;
 ;;Wellengasse;
-;Q257905,Q503998;Welscher Weg;
-;Q257905,Q503998;Welschgrabenstraﬂe;
+;"Q257905;Q503998";Welscher Weg;
+;"Q257905;Q503998";Welschgrabenstraﬂe;
 ;Q389586;Wendelsplatz;m
 ;Q389586;Wendelsweg;m
 ;;Wenzelweg;m
