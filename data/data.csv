@@ -1,69 +1,69 @@
 type,id,name,gender
 ,,Abflugring,
-,,Abtsg‰ﬂchen,+
-way,Q76416,Achenbachstraﬂe,m
-way,Q118512,Ackermannstraﬂe,m
-way,Q168542,Adalbert-Stifter-Straﬂe,m
-way,Q347385,Adalbertstraﬂe,m
-,,Adam-Heinstadt-Straﬂe,m
-way,Q23060079,Adam-Leis-Straﬂe,m
-way,Q57479,Adam-Opel-Straﬂe,m
+,,Abtsg√§√üchen,+
+way,Q76416,Achenbachstra√üe,m
+way,Q118512,Ackermannstra√üe,m
+way,Q168542,Adalbert-Stifter-Stra√üe,m
+way,Q347385,Adalbertstra√üe,m
+,,Adam-Heinstadt-Stra√üe,m
+way,Q23060079,Adam-Leis-Stra√üe,m
+way,Q57479,Adam-Opel-Stra√üe,m
 way,Q61740,Adam-Riese-Platz,m
-way,Q61740,Adam-Riese-Straﬂe,m
-way,Q354803,Adelheidstraﬂe,f
-,,Adelonstraﬂe,m
+way,Q61740,Adam-Riese-Stra√üe,m
+way,Q354803,Adelheidstra√üe,f
+,,Adelonstra√üe,m
 way,Q1445962,Adickesallee,m
 ,,Adlerflychtplatz,+
-,,Adlerflychtstraﬂe,+
+,,Adlerflychtstra√üe,+
 ,,Adlhochplatz,m
-way,Q362001,Adolf-Haeuser-Straﬂe,m
-way,Q363145,Adolf-Leweke-Straﬂe,m
-way,Q62629,Adolf-Meyer-Straﬂe,m
-,,Adolf-Miersch-Straﬂe,m
-way,Q78422,Adolf-Reichwein-Straﬂe,m
-way,Q57302,Adolfstraﬂe,m
-,,Adolph-Prior-Straﬂe,m
+way,Q362001,Adolf-Haeuser-Stra√üe,m
+way,Q363145,Adolf-Leweke-Stra√üe,m
+way,Q62629,Adolf-Meyer-Stra√üe,m
+,,Adolf-Miersch-Stra√üe,m
+way,Q78422,Adolf-Reichwein-Stra√üe,m
+way,Q57302,Adolfstra√üe,m
+,,Adolph-Prior-Stra√üe,m
 way,Q365596,Adolph-von-Holzhausen-Park,m
 ,,Affentorplatz,
-,Q153394,Ahrtalstraﬂe,
+,Q153394,Ahrtalstra√üe,
 ,Q46033,Airportring,
-,Q320189,Albanusstraﬂe,
-,,Albert-Blank-Straﬂe,m
-way,Q937,Albert-Einstein-Straﬂe,m
-way,Q72060079,Albert-Linel-Straﬂe,m
-way,Q49325,Albert-Schweitzer-Straﬂe,m
-,,Albusstraﬂe,
+,Q320189,Albanusstra√üe,
+,,Albert-Blank-Stra√üe,m
+way,Q937,Albert-Einstein-Stra√üe,m
+way,Q72060079,Albert-Linel-Stra√üe,m
+way,Q49325,Albert-Schweitzer-Stra√üe,m
+,,Albusstra√üe,
 ,Q132990,Alemannenweg,
 way,Q95755,Alexander-Riese-Weg,m
-way,Q8409,Alexanderstraﬂe,m
+way,Q8409,Alexanderstra√üe,m
 way,Q155112,Alfred-Brehm-Platz,m
-way,Q61305,Alfred-Delp-Straﬂe,m
-,,Alfred-Gˆbel-Weg,m
+way,Q61305,Alfred-Delp-Stra√üe,m
+,,Alfred-G√∂bel-Weg,m
 ,,Alfred-Kiefer-Weg,m
-way,Q438501,Alfred-Pfaff-Straﬂe,m
-way,Q76323,Alfred-Wegener-Straﬂe,m
-,Q337389,Alkmenestraﬂe,
-,Q488153,Allendorfer Straﬂe,
-,Q2648528,Allerheiligenstraﬂe,
+way,Q438501,Alfred-Pfaff-Stra√üe,m
+way,Q76323,Alfred-Wegener-Stra√üe,m
+,Q337389,Alkmenestra√üe,
+,Q488153,Allendorfer Stra√üe,
+,Q2648528,Allerheiligenstra√üe,
 ,Q2648528,Allerheiligentor,
-,,Allesinastraﬂe,m
+,,Allesinastra√üe,m
 ,Q2259176,Allmeygang,
 ,,Alois-Brisbois-Weg,m
-,Q569275,Alpenroder Straﬂe,
-,Q488314,Alsfelder Straﬂe,
-,,Alte Falterstraﬂe,
+,Q569275,Alpenroder Stra√üe,
+,Q488314,Alsfelder Stra√üe,
+,,Alte Falterstra√üe,
 ,Q1720,Alte Mainzer Gasse,
 ,,Altebergsweg,
-,,Altebornstraﬂe,
+,,Altebornstra√üe,
 ,Q15976,Altenburger Weg,
-,,Altenhˆferallee,
+,,Altenh√∂ferallee,
 ,,Alter Gerichtsplatz,
 ,,Alt-Erlenbach,
-,,Altheimstraﬂe,m
-,Q442204,Altkˆnigstraﬂe,
+,,Altheimstra√üe,m
+,Q442204,Altk√∂nigstra√üe,
 ,Q314881,Alt-Praunheim,
-,Q674016,Altvaterstraﬂe,
-,Q450726,Alzeyer Straﬂe,
+,Q674016,Altvaterstra√üe,
+,Q450726,Alzeyer Stra√üe,
 ,,Am Abtshof,
 ,,Am Alten Schloss,
 ,,Am Alten See,
@@ -73,7 +73,7 @@ way,Q1010881,Am Bachberg,
 ,,Am Bonifatiusbrunnen,
 ,Q894189,Am Borsdorfer,
 way,Q1011117,Am Burghof,
-,,Am B¸ttelst¸ck,
+,,Am B√ºttelst√ºck,
 ,,Am Dammgraben,
 ,,Am Dornbusch,
 ,,Am Ebelfeld,
@@ -87,9 +87,9 @@ way,Q1011117,Am Burghof,
 ,Q834452,Am Forum,
 ,,Am Galgen,
 ,Q15811978,Am Galgenberg,
-,Q1630455,Am Geistpfˆrtchen,
+,Q1630455,Am Geistpf√∂rtchen,
 ,,Am Gemeindegarten,
-,,Am Ginnheimer W‰ldchen,
+,,Am Ginnheimer W√§ldchen,
 ,Q1666610,Am Goldsteinpark,
 ,Q165368,Am Hauptbahnhof,
 ,,Am Heddernheimer Gaswerk,
@@ -105,7 +105,7 @@ way,Q1011117,Am Burghof,
 ,,Am Kappelgarten,
 ,,Am Kirchberg,
 ,Q1759796,Am Klarapfel,
-,,Am Kˆstrich,
+,,Am K√∂strich,
 ,,Am Kunzengarten,
 ,,Am Lausberg,
 ,,Am Leinritt,
@@ -114,29 +114,29 @@ way,Q1011117,Am Burghof,
 ,Q158746,Am Lindenbaum,
 ,Q1868274,Am Lohrberg,
 ,,Am Lohwald,
-,Q878229,Am Luftbr¸ckendenkmal,
+,Q878229,Am Luftbr√ºckendenkmal,
 ,Q18629002,Am Markt,
 ,Q146186,Am Mispelbusch,
-,,Am M¸hlgraben,
+,,Am M√ºhlgraben,
 ,Q1868274,Am Pfingstlohr,
 ,,Am Posthorn,
 ,,Am Riederbruch,
 ,,Am Riedsteg,
-,,Am Rˆdelheimer Wehr,
-,,Am Rˆmerbrunnen,
-,,Am Rˆmerhof,
+,,Am R√∂delheimer Wehr,
+,,Am R√∂merbrunnen,
+,,Am R√∂merhof,
 ,,Am Rosenberg,
-,,Am R¸tschlehen,
+,,Am R√ºtschlehen,
 ,,Am Saalenbusch,
 ,,Am Salzhaus,
 ,Q1802140,Am Sausee,
-,,Am Schieﬂrain,
+,,Am Schie√ürain,
 ,,Am Seckbacher Preul,
 ,Q1284337,Am Seckbacher Ried,
 ,,Am Seedamm,
 ,,Am Selzerbrunnen,
 ,,Am Spritzenhaus,
-,,Am St‰delshof,+
+,,Am St√§delshof,+
 ,,Am Steinernen Stock,
 ,,Am Stiegelschlag,
 ,Q220036,Am Tiergarten,
@@ -145,806 +145,806 @@ way,Q1011117,Am Burghof,
 ,,Am Wasserpark,
 ,,Am Weidenbaum,
 ,,Am Weigelsgarten,
-,,Am Weimarfloﬂ,
-,,Am Weiﬂen Stein,
-,,Am Weiﬂen Turm,
+,,Am Weimarflo√ü,
+,,Am Wei√üen Stein,
+,,Am Wei√üen Turm,
 ,Q19311618,Am Wiesenhof,
 ,,Am Wingert,
 ,,Am Wingertsgrund,
-,,Amaliestraﬂe,f
+,,Amaliestra√üe,f
 ,Q459098,Ambronenpfad,
-way,Q3355,Amelia-Mary-Earhart-Straﬂe,f
-,,Ammelburgstraﬂe,+
-,Q373902,Amˆneburger Straﬂe,
+way,Q3355,Amelia-Mary-Earhart-Stra√üe,f
+,,Ammelburgstra√üe,+
+,Q373902,Am√∂neburger Stra√üe,
 ,Q474051,Amorbacher Weg,
-way,Q675,AmpËrestraﬂe,m
+way,Q675,Amp√®restra√üe,m
 ,,Amtsgasse,
 ,,An den Bangerten,
 ,,An den Flesch-Werken,
 ,,An den Geiselwiesen,
-,,An den Katharinenhˆfen,f
+,,An den Katharinenh√∂fen,f
 ,,An den Postwiesen,
-,,An den Schieﬂh¸tten,
+,,An den Schie√üh√ºtten,
 ,,An der Alten Ziegelei,
 ,,An der Bitz,
-,,An der F‰hre,
+,,An der F√§hre,
 ,,An der Festeburg,
 way,Q5879,An der Goetheruh,m
 ,Q2233114,An der Gruckau,
 ,Q195116,An der Hauptwache,
 ,,An der Herrenwiese,
 ,,An der Litzelwiese,
-,,An der L¸he,
+,,An der L√ºhe,
 ,Q1670,An der Mainkur,
 ,,An der Mannsfaust,
 ,Q1555119,An der Marienkirche,
-,,An der Praunheimer M¸hle,
+,,An der Praunheimer M√ºhle,
 ,,An der Ringmauer,
 ,Q1895582,An der Rosenkranzkirche,
 ,,An der Ruhbank,
-,,An der Sandelm¸hle,
-,,An der Schwarzbachm¸hle,
+,,An der Sandelm√ºhle,
+,,An der Schwarzbachm√ºhle,
 ,Q895613,An der Staufenmauer,
-,,An der Steinm¸hle,
+,,An der Steinm√ºhle,
 way,Q155534,An der Tillylinde,m
 ,,An der Wildhube,
 ,,An der Wolfsweide,
 ,,An der Zingelswiese,
 way,Q5673,Andersenweg,m
-,,Andreaestraﬂe,f
-way,Q123696,Angelika-Machinek-Straﬂe,f
-,Q57944,Annabergstraﬂe,
-way,Q559741,Anna-Beyer-Straﬂe,f
+,,Andreaestra√üe,f
+way,Q123696,Angelika-Machinek-Stra√üe,f
+,Q57944,Annabergstra√üe,
+way,Q559741,Anna-Beyer-Stra√üe,f
 way,Q208591,Anna-Lindh-Allee,f
 way,Q57393,Anna-Seghers-Pfad,f
-,,Annastraﬂe,f
-way,Q4583,Anne-Frank-Straﬂe,f
-way,Q28465135,Anneliese-Hoevel-Straﬂe,f
-,,Annemarie-Schlordt-Straﬂe,f
+,,Annastra√üe,f
+way,Q4583,Anne-Frank-Stra√üe,f
+way,Q28465135,Anneliese-Hoevel-Stra√üe,f
+,,Annemarie-Schlordt-Stra√üe,f
 way,Q71112,Annette-Kolb-Weg,f
-,Q622562,Anspacher Straﬂe,
+,Q622562,Anspacher Stra√üe,
 ,,Anton-Burger-Weg,m
-way,Q1429,Antoninusstraﬂe,m
-way,Q606474,Antoniterstraﬂe,+
+way,Q1429,Antoninusstra√üe,m
+way,Q606474,Antoniterstra√üe,+
 ,,Anton-Radl-Pfad,m
-,,Anton-Schl¸ter-Straﬂe,+
-way,Q93718,Anzengruberstraﬂe,m
+,,Anton-Schl√ºter-Stra√üe,+
+way,Q93718,Anzengruberstra√üe,m
 ,Q490689,Apoldaer Weg,
-,,Apostelstraﬂe,
+,,Apostelstra√üe,
 ,,Appelsgasse,+
-,Q193335,Aralienstraﬂe,
-way,Q57351,Arndtstraﬂe,m
-,Q696893,Arnoldshainer Straﬂe,
-,,Arnoldstraﬂe,m
-,Q882370,Arnsburger Straﬂe,
-,Q490665,Arnst‰dter Weg,
-,Q504553,Arnsteiner Straﬂe,
-,Q1803066,Arnswalder Straﬂe,
-,Q498078,Arolser Straﬂe,
+,Q193335,Aralienstra√üe,
+way,Q57351,Arndtstra√üe,m
+,Q696893,Arnoldshainer Stra√üe,
+,,Arnoldstra√üe,m
+,Q882370,Arnsburger Stra√üe,
+,Q490665,Arnst√§dter Weg,
+,Q504553,Arnsteiner Stra√üe,
+,Q1803066,Arnswalder Stra√üe,
+,Q498078,Arolser Stra√üe,
 ,,Arthur-Stern-Platz,m
 way,Q712254,Arthur-von-Weinberg-Steg,m
-way,Q712254,Arthur-von-Weinberg-Straﬂe,m
-,Q3942,Aschaffenburger Straﬂe,
-,,Aschebachstraﬂe,
-,Q740947,Assenheimer Straﬂe,
-,Q558494,Aﬂlarer Straﬂe,
-,Q317535,Aﬂmannsh‰user Weg,
-,Q1524,Athener Straﬂe,
+way,Q712254,Arthur-von-Weinberg-Stra√üe,m
+,Q3942,Aschaffenburger Stra√üe,
+,,Aschebachstra√üe,
+,Q740947,Assenheimer Stra√üe,
+,Q558494,A√ülarer Stra√üe,
+,Q317535,A√ümannsh√§user Weg,
+,Q1524,Athener Stra√üe,
 ,Q25307,Atzelbergplatz,
-,Q25307,Atzelbergstraﬂe,
-,,Auerbacher Straﬂe,
-,,Auerfeldstraﬂe,
-way,Q89390,Auerstraﬂe,m
-way,Q86433,Auerswaldstraﬂe,m
+,Q25307,Atzelbergstra√üe,
+,,Auerbacher Stra√üe,
+,,Auerfeldstra√üe,
+way,Q89390,Auerstra√üe,m
+way,Q86433,Auerswaldstra√üe,m
 ,,Auerweg,
 ,Q1868274,Auf dem Lohr,
-,,Auf dem M¸hlberg,
+,,Auf dem M√ºhlberg,
 ,,Auf dem Schafberg,
 ,,Auf der Schanz,
-,,Auf der Schloﬂhecke,
-,,Auf der Steinern Straﬂe,
+,,Auf der Schlo√ühecke,
+,,Auf der Steinern Stra√üe,
 ,,Auf der Steinritz,
-,,Auf der S¸lze,
+,,Auf der S√ºlze,
 ,,Auf der Ulmenklaue,
 ,,Augrabenweg,
-way,Q76520,August-Bebel-Straﬂe,m
-,Q1378395,Augustenburgstraﬂe,
-,,August-Euler-Straﬂe,m
-way,Q762652,August-Laubenheimer-Straﬂe,m
-,,August-Schanz-Straﬂe,m
-,,August-Scheidel-Straﬂe,m
-,,August-Siebert-Straﬂe,m
-way,Q1405,Augustusstraﬂe,m
-,Q156974,Aussiger Straﬂe,
-,Q56558509,Autogenstraﬂe,
-,,Aystettstraﬂe,+
+way,Q76520,August-Bebel-Stra√üe,m
+,Q1378395,Augustenburgstra√üe,
+,,August-Euler-Stra√üe,m
+way,Q762652,August-Laubenheimer-Stra√üe,m
+,,August-Schanz-Stra√üe,m
+,,August-Scheidel-Stra√üe,m
+,,August-Siebert-Stra√üe,m
+way,Q1405,Augustusstra√üe,m
+,Q156974,Aussiger Stra√üe,
+,Q56558509,Autogenstra√üe,
+,,Aystettstra√üe,+
 ,Q5986917,Azaleenweg,
-,Q516552,Babenh‰user Landstraﬂe,
+,Q516552,Babenh√§user Landstra√üe,
 ,Q1671485,Bachforellenweg,
-,,Bachmannstraﬂe,m
+,,Bachmannstra√üe,m
 ,Q25399,Bachstelzenweg,
-,Q829146,Bachstraﬂe,
-,,B‰ckergasse,
-,,B‰ckerweg,
+,Q829146,Bachstra√üe,
+,,B√§ckergasse,
+,,B√§ckerweg,
 ,,Badstubengasse,
-way,Q57078,Baeyerstraﬂe,m
-way,Q152347,Balduinstraﬂe,m
-way,Q79789,Barbarossastraﬂe,m
-way,Q1615766,Barchfeldstraﬂe,+
-,,Barckhausstraﬂe,+
+way,Q57078,Baeyerstra√üe,m
+way,Q152347,Balduinstra√üe,m
+way,Q79789,Barbarossastra√üe,m
+way,Q1615766,Barchfeldstra√üe,+
+,,Barckhausstra√üe,+
 ,,Barodapfad,
-way,Q43982,Bartholom‰usgasse,m
+way,Q43982,Bartholom√§usgasse,m
 ,,Baruch-Baschwitz-Platz,m
-,Q43338,Basaltstraﬂe,
+,Q43338,Basaltstra√üe,
 ,Q78,Baseler Platz,
-,Q78,Baseler Straﬂe,
+,Q78,Baseler Stra√üe,
 ,,Bathgartenweg,
 ,Q552488,Battenberger Weg,
 ,Q240313,Batterie,
-way,Q1693774,Battonnstraﬂe,m
-,,Baumertstraﬂe,m
+way,Q1693774,Battonnstra√üe,m
+,,Baumertstra√üe,m
 ,,Baumweg,
-,,Baustraﬂe,
-,Q558530,Bebraer Straﬂe,
-,,Bechtenwaldstraﬂe,
+,,Baustra√üe,
+,Q558530,Bebraer Stra√üe,
+,,Bechtenwaldstra√üe,
 way,Q255,Beethovenplatz,m
-way,Q255,Beethovenstraﬂe,m
-,Q515385,Belchenstraﬂe,
+way,Q255,Beethovenstra√üe,m
+,Q515385,Belchenstra√üe,
 ,,Bendelgasse,
 ,Q38883,Bendergasse,
 way,Q37610,Ben-Gurion-Ring,m
 ,Q314066,Berger Marktplatz,
-,Q314066,Berger Straﬂe,
+,Q314066,Berger Stra√üe,
 ,Q314067,Berger Weg,
 ,,Bergesgrundweg,
 ,,Bergmannweg,m
 ,Q316764,Berkersheimer Weg,
-,Q64,Berliner Straﬂe,
-way,Q212163,Bernadottestraﬂe,m
+,Q64,Berliner Stra√üe,
+way,Q212163,Bernadottestra√üe,m
 ,Q14938,Bernburger Weg,
-,Q70,Berner Straﬂe,
-,,Bernhard-Becker-Straﬂe,m
+,Q70,Berner Stra√üe,
+,,Bernhard-Becker-Stra√üe,m
 way,Q65906,Bernhard-Grzimek-Allee,m
-way,Q825228,Bernhard-Hermkes-Straﬂe,m
+way,Q825228,Bernhard-Hermkes-Stra√üe,m
 way,Q825596,Bernhard-Mannfeld-Weg,m
-,,Bernusstraﬂe,+
-way,Q38757,Bert-Brecht-Straﬂe,m
-way,Q827689,Bertha-Bagge-Straﬂe,f
+,,Bernusstra√üe,+
+way,Q38757,Bert-Brecht-Stra√üe,m
+way,Q827689,Bertha-Bagge-Stra√üe,f
 way,Q61178,Bertha-Pappenheim-Weg,f
 way,Q18456,Bertha-von-Suttner-Ring,f
-,,Bertholdstraﬂe,m
-,,Bertramstraﬂe,m
-way,Q72678,Beselerstraﬂe,m
-way,Q310201,Bessemerstraﬂe,m
-way,Q254376,Bessie-Coleman-Straﬂe,f
-way,Q95736,Bethmann-Hollweg-Straﬂe,m
-way,Q321195,Bethmannstraﬂe,+
+,,Bertholdstra√üe,m
+,,Bertramstra√üe,m
+way,Q72678,Beselerstra√üe,m
+way,Q310201,Bessemerstra√üe,m
+way,Q254376,Bessie-Coleman-Stra√üe,f
+way,Q95736,Bethmann-Hollweg-Stra√üe,m
+way,Q321195,Bethmannstra√üe,+
 way,Q57236,Bettinaplatz,f
-way,Q57236,Bettinastraﬂe,f
-,Q543583,Betzdorfer Straﬂe,
-,,Beunestraﬂe,
-way,Q102350,Beuthener Straﬂe,
+way,Q57236,Bettinastra√üe,f
+,Q543583,Betzdorfer Stra√üe,
+,,Beunestra√üe,
+way,Q102350,Beuthener Stra√üe,
 ,Q369649,Bickenbacher Weg,
 ,Q314727,Biebergasse,
 ,Q552554,Biedenkopfer Weg,
 ,,Biegweg,
-,Q2112,Bielefelder Straﬂe,
-,,Bild‰ckerstraﬂe,
-,,Billtalstraﬂe,
+,Q2112,Bielefelder Stra√üe,
+,,Bild√§ckerstra√üe,
+,,Billtalstra√üe,
 ,Q863345,Bilsteinweg,
-way,Q19825012,Bindingstraﬂe,m
+way,Q19825012,Bindingstra√üe,m
 ,,Bingelsweg,
-,Q2256,Birminghamstraﬂe,
-,Q552289,Birsteiner Straﬂe,
+,Q2256,Birminghamstra√üe,
+,Q552289,Birsteiner Stra√üe,
 ,Q624456,Bischofsheimer Platz,
-,Q624456,Bischofsheimer Straﬂe,
+,Q624456,Bischofsheimer Stra√üe,
 ,,Bischofsweg,
 ,Q836932,Bitterfelder Weg,
-way,Q366649;Q241755,Blanchardstraﬂe,+
+way,Q366649;Q241755,Blanchardstra√üe,+
 ,Q241755,Blankenburger Weg,
-,Q241235,Blankenheimer Straﬂe,
-,Q25630,Blauenstraﬂe,
+,Q241235,Blankenheimer Stra√üe,
+,Q25630,Blauenstra√üe,
 ,,Blauhandgasse,
-,,Blaul‰ndchenstraﬂe,
+,,Blaul√§ndchenstra√üe,
 ,,Blauwiesenweg,
-way,Q100163675,Bleichstraﬂe,
-,Q19776,Bleidenstraﬂe,
-,Q656004,Bleiweiﬂstraﬂe,
+way,Q100163675,Bleichstra√üe,
+,Q19776,Bleidenstra√üe,
+,Q656004,Bleiwei√üstra√üe,
 ,Q516056,Bockenheimer Anlage,
 ,Q889179,Bockenheimer Warte,
-way,Q123071,Bˆcklinstraﬂe,m
-way,Q87306,Bodelschwinghstraﬂe,m
+way,Q123071,B√∂cklinstra√üe,m
+way,Q87306,Bodelschwinghstra√üe,m
 ,Q146307,Bodenbacher Weg,
-,,Bodenseestraﬂe,
-way,Q77645,Bodenstedtstraﬂe,m
+,,Bodenseestra√üe,
+way,Q77645,Bodenstedtstra√üe,m
 way,Q1465764,Boehlepark,m
-way,Q71334,Bˆhmerstraﬂe,m
-way,Q891540,Bolongarostraﬂe,+
-,Q891989,Bommersheimer Straﬂe,
+way,Q71334,B√∂hmerstra√üe,m
+way,Q891540,Bolongarostra√üe,+
+,Q891989,Bommersheimer Stra√üe,
 ,Q160445,Bonifatiuspark,
-,Q160445,Bonifatiusstraﬂe,
-way,Q1019911,Bˆnst‰dter Straﬂe,
-,,Bornemannstraﬂe,m
-way,Q213595,Bˆrneplatz,m
+,Q160445,Bonifatiusstra√üe,
+way,Q1019911,B√∂nst√§dter Stra√üe,
+,,Bornemannstra√üe,m
+way,Q213595,B√∂rneplatz,m
 ,Q1444995,Bornheimer Landwehr,
-,Q151139,Bˆrsenplatz,
-,Q151139,Bˆrsenstraﬂe,
+,Q151139,B√∂rsenplatz,
+,Q151139,B√∂rsenstra√üe,
 way,Q65271,Borsigallee,m
 way,Q5177066,Boseweg,f
-,Q504565,Boskoopstraﬂe,
-,,Boﬂstraﬂe,+
+,Q504565,Boskoopstra√üe,
+,,Bo√üstra√üe,+
 ,Q610205,Bottenhorner Weg,
-way,Q89185,Bˆttgerstraﬂe,m
-way,Q7294,Brahmsstraﬂe,m
+way,Q89185,B√∂ttgerstra√üe,m
+way,Q7294,Brahmsstra√üe,m
 ,Q1322268,Brand,
 ,Q1208, Q3931,Brandenburger Weg,
-,Q899987,Braubachstraﬂe,
-,,Braumannstraﬂe,+
-,Q525612,Braunfelsstraﬂe,
+,Q899987,Braubachstra√üe,
+,,Braumannstra√üe,+
+,Q525612,Braunfelsstra√üe,
 ,Q2773,Braunschweiger Weg,
-,Q1737,Bregenzer Straﬂe,
+,Q1737,Bregenzer Stra√üe,
 ,Q474827,Breidensteiner Weg,
-,Q18616853,Breitlacher Straﬂe,
-,Q24879, Q1209,Bremer Platz,
-,Q24879, Q1209,Bremer Straﬂe,
-way,Q908810,Brendelstraﬂe,+
+,Q18616853,Breitlacher Stra√üe,
+,Q24879;Q1209,Bremer Platz,
+,Q24879;Q1209,Bremer Stra√üe,
+way,Q908810,Brendelstra√üe,+
 way,Q57235,Brentanopark,m
-,Q1799,Breslauer Straﬂe,
-,Q572075, Q1011184,Breubergstraﬂe,
+,Q1799,Breslauer Stra√üe,
+,Q572075, Q1011184,Breubergstra√üe,
 ,Q759978,Breulsweg,
 way,Q179888,Briandring,m
-,Q634710,Brohltalstraﬂe,
-,,Brommstraﬂe,+
-way,Q55843522,Brˆnnerstraﬂe,m
-,,Broﬂstraﬂe,m
+,Q634710,Brohltalstra√üe,
+,,Brommstra√üe,+
+way,Q55843522,Br√∂nnerstra√üe,m
+,,Bro√üstra√üe,m
 ,,Bruchfeldplatz,
-,,Bruchfeldstraﬂe,
-,,Bruchstraﬂe,
-,Q435406,Br¸ckenstraﬂe,
-,,Br¸ckhofstraﬂe,
-way,Q2793,Br¸der-Grimm-Straﬂe,+
-,Q882370,Bruderhofstraﬂe,
-,Q759978,Br¸hlfeld,
-,Q759978,Br¸hlstraﬂe,
-way,Q364721,Br¸ningstraﬂe,m
+,,Bruchfeldstra√üe,
+,,Bruchstra√üe,
+,Q435406,Br√ºckenstra√üe,
+,,Br√ºckhofstra√üe,
+way,Q2793,Br√ºder-Grimm-Stra√üe,+
+,Q882370,Bruderhofstra√üe,
+,Q759978,Br√ºhlfeld,
+,Q759978,Br√ºhlstra√üe,
+way,Q364721,Br√ºningstra√üe,m
 ,,Brunnenpfad,
 way,Q992982,Bruno-Asch-Anlage,m
-,,Bruno-Poelke-Straﬂe,m
-,,Bruno-St¸rmer-Straﬂe,m
+,,Bruno-Poelke-Stra√üe,m
+,,Bruno-St√ºrmer-Stra√üe,m
 way,Q77490,Buber-Neumann-Weg,f
-,,Buchenrodestraﬂe,
+,,Buchenrodestra√üe,
 ,,Buchgasse,
 ,,Buchrainplatz,
-,,Buchrainstraﬂe,
+,,Buchrainstra√üe,
 ,,Buchscheerfeldweg,
-,,Buchwaldstraﬂe,
-,Q157035,B¸ckeburger Weg,
-,Q1781,Budapester Straﬂe,
-,Q382481,B¸dinger Straﬂe,
+,,Buchwaldstra√üe,
+,Q157035,B√ºckeburger Weg,
+,Q1781,Budapester Stra√üe,
+,Q382481,B√ºdinger Stra√üe,
 ,,Bundenweg,
-,Q2015467,B¸rgeler Straﬂe,
+,Q2015467,B√ºrgeler Stra√üe,
 ,Q43210,Burgenlandweg,
-,,B¸rgermeister-Schubert-Park,m
-,Q2179315,Burgfriedenstraﬂe,
+,,B√ºrgermeister-Schubert-Park,m
+,Q2179315,Burgfriedenstra√üe,
 way,Q1015073,Burgholzer Platz,
-way,Q1015073,Burgholzer Straﬂe,
+way,Q1015073,Burgholzer Stra√üe,
 ,,Burglehen,
-,Q15054382,Burgstraﬂe,
+,Q15054382,Burgstra√üe,
 ,Q150412,Burgunderweg,
-way,Q2172895,Burnitzstraﬂe,m
-,Q569680,Butzbacher Straﬂe,
+way,Q2172895,Burnitzstra√üe,m
+,Q569680,Butzbacher Stra√üe,
 ,Q31550065,Butznickelweg,
-,,Buzzistraﬂe,m
-,,C‰cilie-Breckheimer-Platz,f
-,Q558512,Camberger Straﬂe,
+,,Buzzistra√üe,m
+,,C√§cilie-Breckheimer-Platz,f
+,Q558512,Camberger Stra√üe,
 way,Q93987,Camillo-Sitte-Weg,m
-,,Carbonestraﬂe,
-way,Q40224,Carl-Benz-Straﬂe,m
-way,Q57430,Carl-Goerdeler-Straﬂe,m
+,,Carbonestra√üe,
+way,Q40224,Carl-Benz-Stra√üe,m
+way,Q57430,Carl-Goerdeler-Stra√üe,m
 way,Q72060024,Carl-Heicke-Weg,m
 way,Q15791002,Carl-Hermann-Rudloff-Allee,m
 way,Q67511,Carlo-Schmid-Platz,m
-way,Q107712,Carl-Sonnenschein-Straﬂe,m
+way,Q107712,Carl-Sonnenschein-Stra√üe,m
 way,Q1040802,Carl-Theodor-Reiffenstein-Platz,m
 way,Q85370,Carl-von-Noorden-Platz,m
-way,Q1041465,Carl-von-Weinberg-Straﬂe,m
+way,Q1041465,Carl-von-Weinberg-Stra√üe,m
 ,,Carl-Weigert-Platz,m
-way,Q76833,Carl-Zeiss-Straﬂe,m
-way,Q70703,C‰sar-von-Hofacker-Straﬂe,m
-,,Casimirstraﬂe,m
-,,Casparistraﬂe,m
-,,Cassellastraﬂe,
+way,Q76833,Carl-Zeiss-Stra√üe,m
+way,Q70703,C√§sar-von-Hofacker-Stra√üe,m
+,,Casimirstra√üe,m
+,,Casparistra√üe,m
+,,Cassellastra√üe,
 way,Q81130,Celsiusplatz,m
 way,Q35548,Cezanneweg,m
-way,Q154782,Chamissostraﬂe,m
-,,Charlotte-Schiffler-Straﬂe,f
+way,Q154782,Chamissostra√üe,m
+,,Charlotte-Schiffler-Stra√üe,f
 ,Q164076,Chattenweg,
 ,Q268307,Cheruskerweg,
 way,Q1075165,Chlodwig-Poth-Anlage,m
-,,Christa-Maar-Straﬂe,f
-way,Q66746,Christiane-Vulpius-Straﬂe,f
-,,Christoph-Knips-Straﬂe,m
+,,Christa-Maar-Stra√üe,f
+way,Q66746,Christiane-Vulpius-Stra√üe,f
+,,Christoph-Knips-Stra√üe,m
 way,Q106599,Cimbernweg,
 way,Q132232,Clara-Schumann-Weg,f
 ,,Clementineweg,f
 ,Q14821,Coburger Weg,
-way,Q1730391,Cohausenstraﬂe,m
-,Q130994,Colmarer Straﬂe,
-,,Colsmannstraﬂe,m
-way,Q12735,Comeniusstraﬂe,m
+way,Q1730391,Cohausenstra√üe,m
+,Q130994,Colmarer Stra√üe,
+,,Colsmannstra√üe,m
+way,Q12735,Comeniusstra√üe,m
 ,,Conrad-Weil-Gasse,m
-,,Cordierstraﬂe,m
-,Q6225,Coventrystraﬂe,
-way,Q56538064,Cranachstraﬂe,+
-way,Q215564,Cretzschmarstraﬂe,m
-,,Cronstettenstraﬂe,+
+,,Cordierstra√üe,m
+,Q6225,Coventrystra√üe,
+way,Q56538064,Cranachstra√üe,+
+way,Q215564,Cretzschmarstra√üe,m
+,,Cronstettenstra√üe,+
 way,Q115056,Crutzenkirchweg,
-,,Cunostraﬂe,m
-,Q4197,Cuxhavener Straﬂe,
-way,Q76589,Dahlmannstraﬂe,m
-way,Q57098,Daimlerstraﬂe,m
-way,Q61353,Dalbergstraﬂe,m
-way,Q61353,Dalbergstraﬂe,m
+,,Cunostra√üe,m
+,Q4197,Cuxhavener Stra√üe,
+way,Q76589,Dahlmannstra√üe,m
+way,Q57098,Daimlerstra√üe,m
+way,Q61353,Dalbergstra√üe,m
+way,Q61353,Dalbergstra√üe,m
 way,Q89439,Damaschkeanger,m
-,,Dammstraﬂe,
-way,Q382900,Danneckerstraﬂe,m
-way,Q1067,Dantestraﬂe,m
+,,Dammstra√üe,
+way,Q382900,Danneckerstra√üe,m
+way,Q1067,Dantestra√üe,m
 ,Q1792,Danziger Platz,
-,Q2973,Darmst‰dter Landstraﬂe,
-,,D‰umling,
-way,Q28070906,David-Stempel-Straﬂe,m
-,,De-Bary-Straﬂe,+
-,,Dehnhardtstraﬂe,+
-,Q22951,Deidesheimer Straﬂe,
-,,De-Neufville-Straﬂe,+
+,Q2973,Darmst√§dter Landstra√üe,
+,,D√§umling,
+way,Q28070906,David-Stempel-Stra√üe,m
+,,De-Bary-Stra√üe,+
+,,Dehnhardtstra√üe,+
+,Q22951,Deidesheimer Stra√üe,
+,,De-Neufville-Stra√üe,+
 way,Q2059114,Denisweg,m
-,,Denzerstraﬂe,m
+,,Denzerstra√üe,m
 ,,De-Ridder-Weg,m
-way,Q2908,De-Saint-ExupÈry-Straﬂe,m
+way,Q2908,De-Saint-Exup√©ry-Stra√üe,m
 ,Q487070,Dessauer Weg,
 ,Q3922,Detmolder Platz,
-,Q271654,Deuil-La-Barre-Straﬂe,
+,Q271654,Deuil-La-Barre-Stra√üe,
 ,Q48189,Deutschherrnufer,
-,Q48190,Deutschordensstraﬂe,
-,,Diaminstraﬂe,
+,Q48190,Deutschordensstra√üe,
+,,Diaminstra√üe,
 ,,Diebsgrundweg,
-,Q525493,Dieburger Straﬂe,
-way,Q1679047,Dielmannstraﬂe,m
-,Q708553,Diemelstraﬂe,
-way,Q12674,Dieselstraﬂe,m
+,Q525493,Dieburger Stra√üe,
+way,Q1679047,Dielmannstra√üe,m
+,Q708553,Diemelstra√üe,
+way,Q12674,Dieselstra√üe,m
 way,Q77434,Diesterwegplatz,m
-way,Q77434,Diesterwegstraﬂe,m
-,Q1408837,Dietesheimer Straﬂe,
+way,Q77434,Diesterwegstra√üe,m
+,Q1408837,Dietesheimer Stra√üe,
 way,Q76326,Dietrich-Bonhoeffer-Weg,m
-,,Dietrichstraﬂe,+
-,Q504031,Diezer Straﬂe,
-,Q517381,Dillenburger Straﬂe,
+,,Dietrichstra√üe,+
+,Q504031,Diezer Stra√üe,
+,Q517381,Dillenburger Stra√üe,
 ,Q377603,Dillgasse,
-,,Ditmarstraﬂe,+
+,,Ditmarstra√üe,+
 ,Q131479,Dominikanergasse,
-way,Q1423,Domitianstraﬂe,m
-,Q22547,Donnersbergstraﬂe,
-,,Dorfelder Straﬂe,
-,Q1245773,Dornholzh‰user Straﬂe,
-,Q315358,Dˆrnigheimer Straﬂe,
-,,Dˆrrwiesenstraﬂe,
-,Q1250562,Dortelweiler Straﬂe,
-,,Dottenfeldstraﬂe,
+way,Q1423,Domitianstra√üe,m
+,Q22547,Donnersbergstra√üe,
+,,Dorfelder Stra√üe,
+,Q1245773,Dornholzh√§user Stra√üe,
+,Q315358,D√∂rnigheimer Stra√üe,
+,,D√∂rrwiesenstra√üe,
+,Q1250562,Dortelweiler Stra√üe,
+,,Dottenfeldstra√üe,
 ,,Drachengasse,
-,,Draisbornstraﬂe,
-,Q968826,Dreieichstraﬂe,
-,Q1185719,Dreikˆnigstraﬂe,
-way,Q60217,Droysenstraﬂe,m
-,Q1761,Dubliner Straﬂe,
-way,Q123238,Dufourstraﬂe,m
-way,Q72175,Duisbergstraﬂe,m
+,,Draisbornstra√üe,
+,Q968826,Dreieichstra√üe,
+,Q1185719,Dreik√∂nigstra√üe,
+way,Q60217,Droysenstra√üe,m
+,Q1761,Dubliner Stra√üe,
+way,Q123238,Dufourstra√üe,m
+way,Q72175,Duisbergstra√üe,m
 way,Q12091,Dunantring,m
-way,Q90249,Dunckerstraﬂe,m
-way,Q5580,D¸rerstraﬂe,m
-,Q22901,D¸rkheimer Straﬂe,
-,Q1718,D¸sseldorfer Straﬂe,
+way,Q90249,Dunckerstra√üe,m
+way,Q5580,D√ºrerstra√üe,m
+,Q22901,D√ºrkheimer Stra√üe,
+,Q1718,D√ºsseldorfer Stra√üe,
 ,Q157964,Ebereschenweg,
 way,Q1278862,Eberhard-Beckmann-Anlage,m
-,,Eberhardstraﬂe,m
-,,Ebersheimstraﬂe,m
-way,Q103555,Eberstadtstraﬂe,m
-,Q567565,Echzeller Straﬂe,
-,Q315797,Eckenheimer Landstraﬂe,
-,Q315798,Eckenheimer Schulstraﬂe,
-,Q490453,Eckernfˆrder Straﬂe,
-,,Eckhardtstraﬂe,m
-,Q537985,Edenkobener Straﬂe,
-,Q685585,Ederstraﬂe,
+,,Eberhardstra√üe,m
+,,Ebersheimstra√üe,m
+way,Q103555,Eberstadtstra√üe,m
+,Q567565,Echzeller Stra√üe,
+,Q315797,Eckenheimer Landstra√üe,
+,Q315798,Eckenheimer Schulstra√üe,
+,Q490453,Eckernf√∂rder Stra√üe,
+,,Eckhardtstra√üe,m
+,Q537985,Edenkobener Stra√üe,
+,Q685585,Ederstra√üe,
 way,Q56435227;Q66524,Edingerweg,+
-way,Q8743,Edisonstraﬂe,m
+way,Q8743,Edisonstra√üe,m
 way,Q76749,Edith-Stein-Weg,f
-way,Q84530,Edmund-Rumpler-Straﬂe,m
+way,Q84530,Edmund-Rumpler-Stra√üe,m
 way,Q75786,Eduard-Bernstein-Weg,m
-way,Q60542,Eduard-R¸ppell-Straﬂe,m
-,Q622212,Egelsbacher Straﬂe,
-way,Q74924,Egenolffstraﬂe,m
-,Q782304,Egerl‰nder Straﬂe,
-,,Egestraﬂe,m
-,,Ehingerstraﬂe,m
-way,Q77204,Eichendorffstraﬂe,m
-,,Eichwaldstraﬂe,
-,Q152356,Eifelstraﬂe,
-,Q596073,Einbaumstraﬂe,
+way,Q60542,Eduard-R√ºppell-Stra√üe,m
+,Q622212,Egelsbacher Stra√üe,
+way,Q74924,Egenolffstra√üe,m
+,Q782304,Egerl√§nder Stra√üe,
+,,Egestra√üe,m
+,,Ehingerstra√üe,m
+way,Q77204,Eichendorffstra√üe,m
+,,Eichwaldstra√üe,
+,Q152356,Eifelstra√üe,
+,Q596073,Einbaumstra√üe,
 ,,Einbiglerweg,m
-,,Einsiedlerstraﬂe,
+,,Einsiedlerstra√üe,
 ,Q7070,Eisenacher Weg,
-,Q1313398,Eiserfelder Straﬂe,
+,Q1313398,Eiserfelder Stra√üe,
 ,Q1313447,Eiserne Hand,
-,Q1644,Elbestraﬂe,
-way,Q104712,Elbinger Straﬂe,
+,Q1644,Elbestra√üe,
+way,Q104712,Elbinger Stra√üe,
 ,,Elefantengasse,
-way,Q1069414,Elektronstraﬂe,
-way,Q1328095,Eleonore-Sterling-Straﬂe,f
+way,Q1069414,Elektronstra√üe,
+way,Q1328095,Eleonore-Sterling-Stra√üe,f
 way,Q159862,Elisabethenplatz,f
-way,Q159862,Elisabethenstraﬂe,f
-,,Elisabeth-Kuhn-Straﬂe,f
+way,Q159862,Elisabethenstra√üe,f
+,,Elisabeth-Kuhn-Stra√üe,f
 way,Q65397,Elisabeth-Schwarzhaupt-Anlage,f
 way,Q75976,Elisabeth-Selbert-Platz,f
-way,Q1330382,Elisabeth-Winterhalter-Straﬂe,f
-,,Elkenbachstraﬂe,
-way,Q536309,Ella-Bergmann-Michel-Straﬂe,f
-,,Ellerstraﬂe,
+way,Q1330382,Elisabeth-Winterhalter-Stra√üe,f
+,,Elkenbachstra√üe,
+way,Q536309,Ella-Bergmann-Michel-Stra√üe,f
+,,Ellerstra√üe,
 ,,Elli-Lucht-Park,f
-way,Q63643,Elly-Beinhorn-Straﬂe,f
-way,Q78010,Elly-Heuss-Knapp-Straﬂe,f
+way,Q63643,Elly-Beinhorn-Stra√üe,f
+way,Q78010,Elly-Heuss-Knapp-Stra√üe,f
 ,Q1332639,Elmer Weg,
-way,Q469673,Elsa-Br‰ndstrˆm-Platz,f
-way,Q16831207,Else-Alken-Straﬂe,f
-way,Q1895817,Else-Epstein-Straﬂe,f
-way,Q310285,Elsheimerstraﬂe,m
-,Q275193,Eltviller Straﬂe,
-,Q4174,Emdener Straﬂe,
-way,Q1335952,Emil-Claar-Straﬂe,m
-way,Q1336900,Emil-Sulzbach-Straﬂe,m
-way,Q76425,Emil-von-Behring-Straﬂe,m
-way,Q85483,Emmerich-Josef-Straﬂe,m
-,Q1339692,Emsdorfer Straﬂe,
-,Q490670,Emser Br¸cke,
-,Q490670,Emser Straﬂe,
+way,Q469673,Elsa-Br√§ndstr√∂m-Platz,f
+way,Q16831207,Else-Alken-Stra√üe,f
+way,Q1895817,Else-Epstein-Stra√üe,f
+way,Q310285,Elsheimerstra√üe,m
+,Q275193,Eltviller Stra√üe,
+,Q4174,Emdener Stra√üe,
+way,Q1335952,Emil-Claar-Stra√üe,m
+way,Q1336900,Emil-Sulzbach-Stra√üe,m
+way,Q76425,Emil-von-Behring-Stra√üe,m
+way,Q85483,Emmerich-Josef-Stra√üe,m
+,Q1339692,Emsdorfer Stra√üe,
+,Q490670,Emser Br√ºcke,
+,Q490670,Emser Stra√üe,
 way,Q34787,Engelsplatz,m
 ,,Engelsruhe,
-,Q896126,Engelthaler Straﬂe,
-,Q1343216,Enkheimer Straﬂe,
-,Q1347558,Eppenhainer Straﬂe,
-,Q45347, Q1011635,Eppsteiner Straﬂe,
+,Q896126,Engelthaler Stra√üe,
+,Q1343216,Enkheimer Stra√üe,
+,Q1347558,Eppenhainer Stra√üe,
+,Q45347, Q1011635,Eppsteiner Stra√üe,
 ,,Eptingweg,m
-,Q571748,Erbacher Straﬂe,
-,Q2630687,Erbbaustraﬂe,
+,Q571748,Erbacher Stra√üe,
+,Q2630687,Erbbaustra√üe,
 ,Q1729,Erfurter Weg,
 way,Q57085,Erich-Fromm-Platz,m
-way,Q76546,Erich-K‰stner-Straﬂe,m
+way,Q76546,Erich-K√§stner-Stra√üe,m
 way,Q62185,Erich-Ollenhauer-Ring,m
-,Q287204,Erlenseer Straﬂe,
-way,Q1356105,Erna-Pinner-Straﬂe,f
-way,Q76359,Ernst-Abbe-Straﬂe,m
+,Q287204,Erlenseer Stra√üe,
+way,Q1356105,Erna-Pinner-Stra√üe,f
+way,Q76359,Ernst-Abbe-Stra√üe,m
 way,Q1357273,Ernst-Achilles-Platz,m
-way,Q1357459,Ernst-Balser-Straﬂe,m
-way,Q77105,Ernst-Heinkel-Straﬂe,m
-way,Q15445252,Ernst-Kahn-Straﬂe,m
+way,Q1357459,Ernst-Balser-Stra√üe,m
+way,Q77105,Ernst-Heinkel-Stra√üe,m
+way,Q15445252,Ernst-Kahn-Stra√üe,m
 ,Q61622,Ernst-May-Platz,m
-,,Ernst-Schwendler-Straﬂe,m
-,,Ernst-Wiss-Straﬂe,m
-way,Q57755,Erzbergerstraﬂe,m
-way,Q18821,Eschenbachstraﬂe,m
-,Q450028,Eschersheimer Landstraﬂe,
-,Q1468,Eschweger Straﬂe,
+,,Ernst-Schwendler-Stra√üe,m
+,,Ernst-Wiss-Stra√üe,m
+way,Q57755,Erzbergerstra√üe,m
+way,Q18821,Eschenbachstra√üe,m
+,Q450028,Eschersheimer Landstra√üe,
+,Q1468,Eschweger Stra√üe,
 ,Q3537778,Eselsweg,
-,Q143,Esperantostraﬂe,
-,Q3786,Esslinger Straﬂe,
+,Q143,Esperantostra√üe,
+,Q3786,Esslinger Stra√üe,
 ,,Ettinghausen-Platz,+
-,,Ettlingerstraﬂe,m
-way,Q47695,Euckenstraﬂe,m
-way,Q16937594,Eugen-Blanck-Straﬂe,m
-way,Q1372574,Eugen-Hartmann-Straﬂe,m
-way,Q102773,Eugen-Kaufmann-Straﬂe,m
+,,Ettlingerstra√üe,m
+way,Q47695,Euckenstra√üe,m
+way,Q16937594,Eugen-Blanck-Stra√üe,m
+way,Q1372574,Eugen-Hartmann-Stra√üe,m
+way,Q102773,Eugen-Kaufmann-Stra√üe,m
 way,Q64878,Ewald-Heinrich-von-Kleist-Platz,m
-,,Eysseneckstraﬂe,+
-,,Eyssenstraﬂe,m
-way,Q214579,Eytelweinstraﬂe,m
-way,Q60783,Fabian-von-Schlabrendorff-Straﬂe,m
-,,Fabriciusstraﬂe,m
-,,Fachfeldstraﬂe,
+,,Eysseneckstra√üe,+
+,,Eyssenstra√üe,m
+way,Q214579,Eytelweinstra√üe,m
+way,Q60783,Fabian-von-Schlabrendorff-Stra√üe,m
+,,Fabriciusstra√üe,m
+,,Fachfeldstra√üe,
 ,,Fachweg,
 ,,Fahrgasse,
 ,,Fahrtor,
-,Q1394295,Falkensteiner Straﬂe,
-,Q347336,Falkstraﬂe,
-way,Q76938,Fallerslebenstraﬂe,m
-,,Falltorstraﬂe,
-,,Familie-J¸rges-Platz,+
-,,Farbenstraﬂe,
-,,F‰rberstraﬂe,
+,Q1394295,Falkensteiner Stra√üe,
+,Q347336,Falkstra√üe,
+way,Q76938,Fallerslebenstra√üe,m
+,,Falltorstra√üe,
+,,Familie-J√ºrges-Platz,+
+,,Farbenstra√üe,
+,,F√§rberstra√üe,
 ,,Faulborngasse,
 ,,Faulbrunnenweg,
 ,Q451611, Q650399,Fechenheimer Leinpfad,
-,Q451611, Q650399,Fechenheimer Straﬂe,
-,Q677873,Feldbergstraﬂe,
-,,Feldgerichtstraﬂe,
-,,Feldscheidenstraﬂe,
-way,Q61456,Felix-Dahn-Straﬂe,m
-way,Q70745,Felix-Kracht-Straﬂe,m
-way,Q77097,Felix-Wankel-Straﬂe,m
-way,Q102855,Fellnerstraﬂe,m
-way,Q57077,Ferdinand-Braun-Straﬂe,m
+,Q451611, Q650399,Fechenheimer Stra√üe,
+,Q677873,Feldbergstra√üe,
+,,Feldgerichtstra√üe,
+,,Feldscheidenstra√üe,
+way,Q61456,Felix-Dahn-Stra√üe,m
+way,Q70745,Felix-Kracht-Stra√üe,m
+way,Q77097,Felix-Wankel-Stra√üe,m
+way,Q102855,Fellnerstra√üe,m
+way,Q57077,Ferdinand-Braun-Stra√üe,m
 way,Q1405207,Ferdinand-Dirichs-Weg,m
-,,Ferdinand-Happ-Straﬂe,m
-,,Ferdinand-Hofmann-Straﬂe,m
-way,Q97434,Ferdinand-Kramer-Straﬂe,m
-way,Q57249,Ferdinand-Porsche-Straﬂe,m
+,,Ferdinand-Happ-Stra√üe,m
+,,Ferdinand-Hofmann-Stra√üe,m
+way,Q97434,Ferdinand-Kramer-Stra√üe,m
+way,Q57249,Ferdinand-Porsche-Stra√üe,m
 ,,Ferdinand-Scholling-Ring,m
 way,Q89791,Ferdinand-Schrey-Weg,m
 ,,Festeburgring,
-way,Q61929,Feuerbachstraﬂe,m
-,,Feuerwehrstraﬂe,
-,,Feyerleinstraﬂe,m
-way,Q1693437,Fichardstraﬂe,m
-way,Q102585,Fichtestraﬂe,m
-,,Finkenhofstraﬂe,m
+way,Q61929,Feuerbachstra√üe,m
+,,Feuerwehrstra√üe,
+,,Feyerleinstra√üe,m
+way,Q1693437,Fichardstra√üe,m
+way,Q102585,Fichtestra√üe,m
+,,Finkenhofstra√üe,m
 ,Q1648853,Finthener Weg,
-,Q1419781,Fischbacher Straﬂe,
-,,Fischerfeldstraﬂe,
-way,Q69363,Flaischlenstraﬂe,m
-,,Flanbrechtstraﬂe,m
-,Q1428068,Flaschenburgstraﬂe,
-,,Fleckenb¸hlstraﬂe,m
-,Q3798,Flensburger Straﬂe,
+,Q1419781,Fischbacher Stra√üe,
+,,Fischerfeldstra√üe,
+way,Q69363,Flaischlenstra√üe,m
+,,Flanbrechtstra√üe,m
+,Q1428068,Flaschenburgstra√üe,
+,,Fleckenb√ºhlstra√üe,m
+,Q3798,Flensburger Stra√üe,
 ,Q157449,Fliederweg,
-,,Flinschstraﬂe,
+,,Flinschstra√üe,
 way,Q298845,Florianweg,m
-,Q622593,Flˆrsheimer Straﬂe,
-,Q570394,Florst‰dter Straﬂe,
+,Q622593,Fl√∂rsheimer Stra√üe,
+,Q570394,Florst√§dter Stra√üe,
 ,Q46033,Flughafenstrasse,
-way,Q76632,Fontanestraﬂe,m
-,,Foockenstraﬂe,m
-,,Forsthausstraﬂe,
-way,Q2038,FranÁois-Mitterrand-Platz,m
-,,Francstraﬂe,+
+way,Q76632,Fontanestra√üe,m
+,,Foockenstra√üe,m
+,,Forsthausstra√üe,
+way,Q2038,Fran√ßois-Mitterrand-Platz,m
+,,Francstra√üe,+
 ,Q43482,Frankenallee,
 ,,Frankensteiner Platz,
-,,Frankensteiner Straﬂe,
+,,Frankensteiner Stra√üe,
 ,Q6905,Frankenthaler Weg,
-way,Q34969,Franklinstraﬂe,m
+way,Q34969,Franklinstra√üe,m
 ,,Franz-Diehl-Weg,m
-,,Franz-Henle-Straﬂe,m
-way,Q1389045,Franziska-Kessel-Straﬂe,f
+,,Franz-Henle-Stra√üe,m
+way,Q1389045,Franziska-Kessel-Stra√üe,f
 way,Q91996,Franziusplatz,m
-way,Q91996,Franziusstraﬂe,m
-way,Q905,Franz-Kafka-Straﬂe,m
-way,Q585323,Franz-Lenbach-Straﬂe,m
-,,Franz-R¸cker-Allee,m
-,,Franz-Simon-Straﬂe,m
-way,Q78514,Franz-Werfel-Straﬂe,m
-,Q1451747,Frauenhofstraﬂe,
-way,Q62702,Frauenlobstraﬂe,m
+way,Q91996,Franziusstra√üe,m
+way,Q905,Franz-Kafka-Stra√üe,m
+way,Q585323,Franz-Lenbach-Stra√üe,m
+,,Franz-R√ºcker-Allee,m
+,,Franz-Simon-Stra√üe,m
+way,Q78514,Franz-Werfel-Stra√üe,m
+,Q1451747,Frauenhofstra√üe,
+way,Q62702,Frauenlobstra√üe,m
 ,Q1590109,Frauensteinplatz,
-,Q1590109,Frauensteinstraﬂe,
-way,Q213542,Freiherr-vom-Stein-Straﬂe,m
-,,Freihofstraﬂe,
-way,Q213719,Freiligrathstraﬂe,m
-way,Q77530,Freseniusstraﬂe,m
-,,Freﬂgass,
-,Q61827,Freudenberger Straﬂe,
-,Q516485,Friedberger Landstraﬂe,
+,Q1590109,Frauensteinstra√üe,
+way,Q213542,Freiherr-vom-Stein-Stra√üe,m
+,,Freihofstra√üe,
+way,Q213719,Freiligrathstra√üe,m
+way,Q77530,Freseniusstra√üe,m
+,,Fre√ügass,
+,Q61827,Freudenberger Stra√üe,
+,Q516485,Friedberger Landstra√üe,
 ,Q516485,Friedberger Tor,
 ,,Friedel-Schomann-Weg,m
-,Q1456689,Friedensbr¸cke,
-,Q158021,Friedensstraﬂe,
-,,Friedlebenstraﬂe,m
+,Q1456689,Friedensbr√ºcke,
+,Q158021,Friedensstra√üe,
+,,Friedlebenstra√üe,m
 way,Q76614,Friedrich-Bergius-Weg,m
-way,Q78116,Friedrich-Dessauer-Straﬂe,m
+way,Q78116,Friedrich-Dessauer-Stra√üe,m
 way,Q2646,Friedrich-Ebert-Anlage,m
 ,,Friedrich-Heyer-Weg,m
-,,Friedrich-Kahl-Straﬂe,m
-way,Q84350,Friedrich-Karl-Klausing-Straﬂe,m
-way,Q159917,Friedrich-List-Straﬂe,m
+,,Friedrich-Kahl-Stra√üe,m
+way,Q84350,Friedrich-Karl-Klausing-Stra√üe,m
+way,Q159917,Friedrich-List-Stra√üe,m
 ,,Friedrich-Manz-Weg,m
-way,Q76811,Friedrich-Naumann-Straﬂe,m
-,Q627742,Friedrichsdorfer Straﬂe,
-way,Q1462336,Friedrich-Stampfer-Straﬂe,m
+way,Q76811,Friedrich-Naumann-Stra√üe,m
+,Q627742,Friedrichsdorfer Stra√üe,
+way,Q1462336,Friedrich-Stampfer-Stra√üe,m
 way,Q1462402,Friedrich-Stoltze-Platz,m
-,,Friedrichstraﬂe,m
-way,Q213525,Friedrich-Wilhelm-von-Steuben-Straﬂe,m
-,,Friesstraﬂe,m
-,,Fritscheng‰sschen,m
-way,Q215981,Fritz-Bauer-Straﬂe,m
-way,Q1465764,Fritz-Boehle-Straﬂe,m
-way,Q71365,Fritz-Erler-Straﬂe,m
-way,Q70812,Fritz-Klatte-Straﬂe,m
-,Q492503,Fritzlarer Straﬂe,
+,,Friedrichstra√üe,m
+way,Q213525,Friedrich-Wilhelm-von-Steuben-Stra√üe,m
+,,Friesstra√üe,m
+,,Fritscheng√§sschen,m
+way,Q215981,Fritz-Bauer-Stra√üe,m
+way,Q1465764,Fritz-Boehle-Stra√üe,m
+way,Q71365,Fritz-Erler-Stra√üe,m
+way,Q70812,Fritz-Klatte-Stra√üe,m
+,Q492503,Fritzlarer Stra√üe,
 way,Q125727,Fritz-Neumark-Weg,m
-way,Q76492,Fritz-Reuter-Straﬂe,m
+way,Q76492,Fritz-Reuter-Stra√üe,m
 ,,Fritz-Schubert-Ring,m
 way,Q77353,Fritz-Schumacher-Weg,m
-way,Q99512,Fritz-Tarnow-Straﬂe,m
+way,Q99512,Fritz-Tarnow-Stra√üe,m
 way,Q64791,Fritz-von-Unruh-Anlage,m
 way,Q15449421,Fritz-Wichert-Ring,m
-way,Q76679,Frˆbelstraﬂe,m
-,,Froschh‰user Straﬂe,
-,,Fr¸hmessereiweg,
-,Q1472675,Fuchstanzstraﬂe,
-,Q3963,Fuldaer Straﬂe,
-,,Funckstraﬂe,m
-,,F¸nffingerpl‰tzchen,
-,,F¸rstenbergerstraﬂe,+
-way,Q62137,Gabelsbergerstraﬂe,m
+way,Q76679,Fr√∂belstra√üe,m
+,,Froschh√§user Stra√üe,
+,,Fr√ºhmessereiweg,
+,Q1472675,Fuchstanzstra√üe,
+,Q3963,Fuldaer Stra√üe,
+,,Funckstra√üe,m
+,,F√ºnffingerpl√§tzchen,
+,,F√ºrstenbergerstra√üe,+
+way,Q62137,Gabelsbergerstra√üe,m
 way,Q214320,Gabriel-Riesser-Weg,m
-way,Q65230,Gagernstraﬂe,m
-,,Galgenstraﬂe,
+way,Q65230,Gagernstra√üe,m
+,,Galgenstra√üe,
 ,,Gallusanlage,
-way,Q1589,Galvanistraﬂe,m
-way,Q77475,Ganghoferstraﬂe,m
-,,Gangstraﬂe,
-,,Gark¸chenplatz,
-,,Gartenstraﬂe,
-,,Gaugrafenstraﬂe,
+way,Q1589,Galvanistra√üe,m
+way,Q77475,Ganghoferstra√üe,m
+,,Gangstra√üe,
+,,Gark√ºchenplatz,
+,,Gartenstra√üe,
+,,Gaugrafenstra√üe,
 way,Q37693,Gauguinweg,m
-way,Q6722,Gauﬂstraﬂe,m
-way,Q1372528,Gebeschusstraﬂe,m
-,,Gebr¸der-Hommel-Anlage,+
-way,Q35820,Gebr¸der-Wright-Straﬂe,+
-,Q560940,Gederner Straﬂe,
-way,Q77333,Geibelstraﬂe,m
+way,Q6722,Gau√üstra√üe,m
+way,Q1372528,Gebeschusstra√üe,m
+,,Gebr√ºder-Hommel-Anlage,+
+way,Q35820,Gebr√ºder-Wright-Stra√üe,+
+,Q560940,Gederner Stra√üe,
+way,Q77333,Geibelstra√üe,m
 way,Q16930831,Geierskopfweg,
-way,Q94788858,Geigerstraﬂe,m
+way,Q94788858,Geigerstra√üe,m
 ,Q1498870,Geiselsteinweg,
-,Q558516,Geisenheimer Straﬂe,
-,,Gelastraﬂe,f
-,,Gelbehirschstraﬂe,
-,,Geleitstraﬂe,
-,Q494733,Gelnh‰user Straﬂe,
-,Q505332,Gem¸ndener Straﬂe,
-,Q71,Genfer Straﬂe,
-way,Q55680665,Georg-Allgaier-Straﬂe,m
-way,Q110991,Georg-Baumgarten-Straﬂe,m
-way,Q154014,Georg-B¸chner-Straﬂe,m
+,Q558516,Geisenheimer Stra√üe,
+,,Gelastra√üe,f
+,,Gelbehirschstra√üe,
+,,Geleitstra√üe,
+,Q494733,Gelnh√§user Stra√üe,
+,Q505332,Gem√ºndener Stra√üe,
+,Q71,Genfer Stra√üe,
+way,Q55680665,Georg-Allgaier-Stra√üe,m
+way,Q110991,Georg-Baumgarten-Stra√üe,m
+way,Q154014,Georg-B√ºchner-Stra√üe,m
 ,,Georg-Esser-Anlage,m
 way,Q1504613,Georg-Heck-Weg,m
-way,Q1506053,Georg-Speyer-Straﬂe,m
-,,Georg-Treser-Straﬂe,m
-way,Q99842,Georg-Voigt-Straﬂe,m
-way,Q1506482,Georg-Wolff-Straﬂe,m
-,Q251689,Gerauer Straﬂe,
-,Q1510320,Gerberm¸hle,
-,Q1510320,Gerberm¸hlstraﬂe,
-way,Q57192,Gerhard-Domagk-Straﬂe,m
+way,Q1506053,Georg-Speyer-Stra√üe,m
+,,Georg-Treser-Stra√üe,m
+way,Q99842,Georg-Voigt-Stra√üe,m
+way,Q1506482,Georg-Wolff-Stra√üe,m
+,Q251689,Gerauer Stra√üe,
+,Q1510320,Gerberm√ºhle,
+,Q1510320,Gerberm√ºhlstra√üe,
+way,Q57192,Gerhard-Domagk-Stra√üe,m
 way,Q43523,Gerhart-Hauptmann-Ring,m
-way,Q91477,Gerlachstraﬂe,m
+way,Q91477,Gerlachstra√üe,m
 way,Q328257,Germaniaplatz,f
-way,Q328257,Germaniastraﬂe,f
-way,Q1608590,Gerningstraﬂe,m
-way,Q389985,Gerolsteiner Straﬂe,
-way,Q502767,Gersthofer Straﬂe,
+way,Q328257,Germaniastra√üe,f
+way,Q1608590,Gerningstra√üe,m
+way,Q389985,Gerolsteiner Stra√üe,
+way,Q502767,Gersthofer Stra√üe,
 way,Q21974260,Gerstweg,m
-way,Q61648,Gervinusstraﬂe,m
-way,Q566212,Geschwister-Scholl-Straﬂe,+
-way,Q3874,Gieﬂener Straﬂe,
-,,Gieﬂfeldstraﬂe,
-,,Gilbrechtstraﬂe,m
-,,Ginnheimer M¸hlgasse,
+way,Q61648,Gervinusstra√üe,m
+way,Q566212,Geschwister-Scholl-Stra√üe,+
+way,Q3874,Gie√üener Stra√üe,
+,,Gie√üfeldstra√üe,
+,,Gilbrechtstra√üe,m
+,,Ginnheimer M√ºhlgasse,
 ,,Ginnheimer Stadtweg,
 ,,Ginnheimer Waldgasse,
-way,Q64354,GisËle-Freund-Platz,f
+way,Q64354,Gis√®le-Freund-Platz,f
 way,Q551378,Gladenbacher Weg,
-,,Glaserstraﬂe,
-way,Q637032,Glash¸ttener Straﬂe,
+,,Glaserstra√üe,
+way,Q637032,Glash√ºttener Stra√üe,
 way,Q896266,Glaskopfweg,
-way,Q1530049,Glauburgstraﬂe,+
-way,Q64364,Gleimstraﬂe,m
-way,Q66013,Glogauer Straﬂe,
-way,Q130759,Gluckstraﬂe,m
+way,Q1530049,Glauburgstra√üe,+
+way,Q64364,Gleimstra√üe,m
+way,Q66013,Glogauer Stra√üe,
+way,Q130759,Gluckstra√üe,m
 way,Q5879,Goetheplatz,m
-way,Q5879,Goethestraﬂe,m
-way,Q1405324,Goetzstraﬂe,m
+way,Q5879,Goethestra√üe,m
+way,Q1405324,Goetzstra√üe,m
 ,Q34023,Goldbergweg,
 ,Q34023,Goldgewann,
-,,Goldgrubenstraﬂe,
-,Q1204897,Goldpeppingstraﬂe,
+,,Goldgrubenstra√üe,
+,Q1204897,Goldpeppingstra√üe,
 ,,Golub-Lebedenko-Platz,+
-way,Q1537262,Gontardstraﬂe,+
-way,Q1315809,Gonzenheimer Straﬂe,
-way,Q4077,Gˆrlitzer Straﬂe,
-way,Q215730,Gˆrresstraﬂe,m
-way,Q42193,Gotenstraﬂe,+
-way,Q122370,Gottfried-Keller-Straﬂe,m
-,,Graebestraﬂe,m
+way,Q1537262,Gontardstra√üe,+
+way,Q1315809,Gonzenheimer Stra√üe,
+way,Q4077,G√∂rlitzer Stra√üe,
+way,Q215730,G√∂rresstra√üe,m
+way,Q42193,Gotenstra√üe,+
+way,Q122370,Gottfried-Keller-Stra√üe,m
+,,Graebestra√üe,m
 way,Q19964508,Graf-de-Thoranc-Passage,m
-,,Gr‰fendeichstraﬂe,m
-way,Q82566734,Grafenstraﬂe,+
-way,Q62443,Gr‰fin-Dˆnhoff-Straﬂe,f
-way,Q1288510,Gr‰fstraﬂe,m
+,,Gr√§fendeichstra√üe,m
+way,Q82566734,Grafenstra√üe,+
+way,Q62443,Gr√§fin-D√∂nhoff-Stra√üe,f
+way,Q1288510,Gr√§fstra√üe,m
 ,,Graf-Vollrath-Weg,m
 way,Q21209,Graf-von-Stauffenberg-Allee,m
-,,Gr‰sigter Weg,
+,,Gr√§sigter Weg,
 ,,Gravenbruchring,
 way,Q489226,Gravensteiner-Platz,
 way,Q13298,Grazer Weg,
-way,Q1417951,Gref-Vˆlsing-Straﬂe,+
-,,Greifstraﬂe,m
+way,Q1417951,Gref-V√∂lsing-Stra√üe,+
+,,Greifstra√üe,m
 ,Q4098,Greifswalder Weg,
-,,Grempstraﬂe,+
-,,Gretapfelstraﬂe,
+,,Grempstra√üe,+
+,,Gretapfelstra√üe,
 ,,Grethenweg,f
-way,Q154438,Grillparzerstraﬂe,m
+way,Q154438,Grillparzerstra√üe,m
 ,,Grimoldweg,m
-,,Grommetstraﬂe,+
-,Q1171149,Gronauer Straﬂe,
-,Q914036,Groﬂe Eschenheimer Straﬂe,
-,Q516485,Groﬂe Friedberger Straﬂe,
-,,Groﬂe Gallusstraﬂe,
-,Q156099,Groﬂe Nelkenstraﬂe,
-,,Groﬂe Rittergasse,
-,,Groﬂe Seestraﬂe,
-,Q10878191,Groﬂe Spillingsgasse,
-,Q23390,Groﬂer Hirschgraben,
-way,Q57855,Grotefendstraﬂe,m
-,,Gr¸ndenseestraﬂe,
-,,Gr¸ne Straﬂe,
-,Q1371601,Gr¸ne Weide,
-,,Gr¸neburgpark,
-,,Gruneliusstraﬂe,+
-way,Q64428,Grusonstraﬂe,m
-way,Q1552635,Guaitastraﬂe,+
-way,Q60095,Guerickestraﬂe,m
-way,Q1679074,Guiollettstraﬂe,m
-,,Gummersbergstraﬂe,
-,,Gundelandstraﬂe,m
-way,Q62053,G¸nderrodestraﬂe,f
-,Q1554947,Gundhofstraﬂe,
-,,G¸nter-Vogt-Ring,m
-way,Q1561475,G¸nther-Groenhoff-Straﬂe,m
-,,G¸nthersburgallee,m
-,,G¸nthersburgpark,m
-way,Q64615,G¸ntherstraﬂe,m
-,,Gustav-Behringer-Straﬂe,m
-way,Q58811,Gustav-Freytag-Straﬂe,m
-way,Q7304,Gustav-Mahler-Straﬂe,m
+,,Grommetstra√üe,+
+,Q1171149,Gronauer Stra√üe,
+,Q914036,Gro√üe Eschenheimer Stra√üe,
+,Q516485,Gro√üe Friedberger Stra√üe,
+,,Gro√üe Gallusstra√üe,
+,Q156099,Gro√üe Nelkenstra√üe,
+,,Gro√üe Rittergasse,
+,,Gro√üe Seestra√üe,
+,Q10878191,Gro√üe Spillingsgasse,
+,Q23390,Gro√üer Hirschgraben,
+way,Q57855,Grotefendstra√üe,m
+,,Gr√ºndenseestra√üe,
+,,Gr√ºne Stra√üe,
+,Q1371601,Gr√ºne Weide,
+,,Gr√ºneburgpark,
+,,Gruneliusstra√üe,+
+way,Q64428,Grusonstra√üe,m
+way,Q1552635,Guaitastra√üe,+
+way,Q60095,Guerickestra√üe,m
+way,Q1679074,Guiollettstra√üe,m
+,,Gummersbergstra√üe,
+,,Gundelandstra√üe,m
+way,Q62053,G√ºnderrodestra√üe,f
+,Q1554947,Gundhofstra√üe,
+,,G√ºnter-Vogt-Ring,m
+way,Q1561475,G√ºnther-Groenhoff-Stra√üe,m
+,,G√ºnthersburgallee,m
+,,G√ºnthersburgpark,m
+way,Q64615,G√ºntherstra√üe,m
+,,Gustav-Behringer-Stra√üe,m
+way,Q58811,Gustav-Freytag-Stra√üe,m
+way,Q7304,Gustav-Mahler-Stra√üe,m
 ,,Gustavsallee,m
 ,Q639519,Gustavsburgplatz,
-way,Q8958,Gutenbergstraﬂe,m
-way,Q1444867,G¸terplatz,
-way,Q1557227,Gutleutstraﬂe,
-way,Q76755,Gutzkowstraﬂe,m
-way,Q2086727,Gwinnerstraﬂe,m
-way,Q95229899,H.-P.-M¸ller-Platz,m
+way,Q8958,Gutenbergstra√üe,m
+way,Q1444867,G√ºterplatz,
+way,Q1557227,Gutleutstra√üe,
+way,Q76755,Gutzkowstra√üe,m
+way,Q2086727,Gwinnerstra√üe,m
+way,Q95229899,H.-P.-M√ºller-Platz,m
 ,Q1566480,Haardtwaldplatz,
-,Q1566480,Haardtwaldstraﬂe,
-way,Q1459410,Habelstraﬂe,m
+,Q1566480,Haardtwaldstra√üe,
+way,Q1459410,Habelstra√üe,m
 way,Q65968,Habsburgerallee,+
-,Q534476,Hachenburger Straﬂe,
-,Q565530,Hadamarer Straﬂe,
-way,Q1427,Hadrianstraﬂe,m
-way,Q120054,Haeberlinstraﬂe,m
-way,Q88340,Haenischstraﬂe,m
-way,Q55842834,Haeussermannstraﬂe,m
-,,Hafnerstraﬂe,m
+,Q534476,Hachenburger Stra√üe,
+,Q565530,Hadamarer Stra√üe,
+way,Q1427,Hadrianstra√üe,m
+way,Q120054,Haeberlinstra√üe,m
+way,Q88340,Haenischstra√üe,m
+way,Q55842834,Haeussermannstra√üe,m
+,,Hafnerstra√üe,m
 way,Q46740,Hagebuttenweg,
-,Q62726,Hagenstraﬂe,m
+,Q62726,Hagenstra√üe,m
 ,,Hahnbergweg,
-,Q1538840,Hahnenkammstraﬂe,
-,,Hahnstraﬂe,m
-,Q516448,Haigerer Straﬂe,
+,Q1538840,Hahnenkammstra√üe,
+,,Hahnstra√üe,m
+,Q516448,Haigerer Stra√üe,
 ,Q1686253,Hainer Hof,
 ,Q1012242,Hainer Weg,
 ,,Haingasse,
-,,Haingrabenstraﬂe,
-,Q97738,Hallgartenstraﬂe,m
-,,Halmstraﬂe,
+,,Haingrabenstra√üe,
+,Q97738,Hallgartenstra√üe,m
+,,Halmstra√üe,
 ,Q1055,Hamburger Allee,
-,Q1569334,Hammanstraﬂe,m
-way,Q1267,Hammarskjˆldring,m
+,Q1569334,Hammanstra√üe,m
+way,Q1267,Hammarskj√∂ldring,m
 ,,Hammelsgasse,
 ,Q638667,Hammersbacher Weg,
-,Q3802,Hanauer Landstraﬂe,
-,Q7302,H‰ndelstraﬂe,m
-,Q60025,Hannah-Arendt-Straﬂe,f
+,Q3802,Hanauer Landstra√üe,
+,Q7302,H√§ndelstra√üe,m
+,Q60025,Hannah-Arendt-Stra√üe,f
 ,Q42908,Hansaallee,
-,Q155794,Hans-Bethe-Straﬂe,m
-way,Q105130,Hans-Bˆckler-Straﬂe,m
+,Q155794,Hans-Bethe-Stra√üe,m
+way,Q105130,Hans-B√∂ckler-Stra√üe,m
 ,Q1578895,Hans-Burggraf-Anlage,m
 ,Q49229255,Hans-Eick-Weg,m
 ,Q4498889,Hansenweg,
@@ -952,203 +952,203 @@ way,Q1311559,Hans-Flesch-Platz,m
 ,Q1580198,Hans-Herkommer-Ring,m
 ,,Hans-Kobald-Weg,m
 ,Q1581108,Hans-Loskant-Weg,m
-,Q76734,Hans-Poelzig-Straﬂe,m
-,Q19543,Hans-Sachs-Straﬂe,m
-,Q22692208,Hansteinstraﬂe,m
-,Q678094,Hans-Thoma-Straﬂe,m
-,Q213645,Hardenbergstraﬂe,m
-way,Q85947,Harkortstraﬂe,m
-,Q1586499,Harry-Fuld-Straﬂe,m
+,Q76734,Hans-Poelzig-Stra√üe,m
+,Q19543,Hans-Sachs-Stra√üe,m
+,Q22692208,Hansteinstra√üe,m
+,Q678094,Hans-Thoma-Stra√üe,m
+,Q213645,Hardenbergstra√üe,m
+way,Q85947,Harkortstra√üe,m
+,Q1586499,Harry-Fuld-Stra√üe,m
 ,,Harthweg,
-,Q1587291,Hartmann-Ibach-Straﬂe,m
-,Q325716,Hartmannsweilerstraﬂe,
+,Q1587291,Hartmann-Ibach-Stra√üe,m
+,Q325716,Hartmannsweilerstra√üe,
 ,,Hartmannweg,m
 ,,Hasengasse,
 ,Q214927,Hasselhorstweg,m
-,Q15814461,Hattsteiner Straﬂe,+
+,Q15814461,Hattsteiner Stra√üe,+
 ,,Hauermauerweg,
-,,H‰userhofweg,
-,Q62512,Hebelstraﬂe,m
-,Q216025,Heckerstraﬂe,m
-,,Hedderichstraﬂe,m
-,Q314062,Heddernheimer Landstraﬂe,
-way,Q121245,Hedwig-Dransfeld-Straﬂe,f
-,,Heerstraﬂe,
-,Q670852,Hegarstraﬂe,m
-,Q9235,Hegelstraﬂe,m
-,,Heidelbachstraﬂe,
-,Q2966,Heidelberger Straﬂe,
+,,H√§userhofweg,
+,Q62512,Hebelstra√üe,m
+,Q216025,Heckerstra√üe,m
+,,Hedderichstra√üe,m
+,Q314062,Heddernheimer Landstra√üe,
+way,Q121245,Hedwig-Dransfeld-Stra√üe,f
+,,Heerstra√üe,
+,Q670852,Hegarstra√üe,m
+,Q9235,Hegelstra√üe,m
+,,Heidelbachstra√üe,
+,Q2966,Heidelberger Stra√üe,
 ,Q893979,Heideplatz,
-,Q893979,Heidestraﬂe,
-,,Heidetr‰nkstraﬂe,
-,Q504311,Heigenbr¸cker Weg,
-,Q715,Heilbronner Straﬂe,
+,Q893979,Heidestra√üe,
+,,Heidetr√§nkstra√üe,
+,Q504311,Heigenbr√ºcker Weg,
+,Q715,Heilbronner Stra√üe,
 ,,Heiligenstockweg,
 ,,Heiligkreuzgasse,
-,,Heilmannstraﬂe,m
-,Q1565642,Heilsberger Straﬂe,
+,,Heilmannstra√üe,m
+,Q1565642,Heilsberger Stra√üe,
 ,,Heimatring,
 ,,Heimchenweg,
-,Q44403,Heinestraﬂe,m
-,Q94869431,Heinrich-Baldes-Straﬂe,m
-,,Heinrich-Becker-Straﬂe,m
-,,Heinrich-Berbalk-Straﬂe,m
+,Q44403,Heinestra√üe,m
+,Q94869431,Heinrich-Baldes-Stra√üe,m
+,,Heinrich-Becker-Stra√üe,m
+,,Heinrich-Berbalk-Stra√üe,m
 ,,Heinrich-Bingemer-Weg,m
-way,Q81081071,Heinrich-Bleicher-Straﬂe,m
-,,Heinrich-Hardt-Straﬂe,m
-,Q41257,Heinrich-Hertz-Straﬂe,m
-,Q215724,Heinrich-Hoffmann-Straﬂe,m
-,Q89409462,Heinrich-Hopf-Straﬂe,m
+way,Q81081071,Heinrich-Bleicher-Stra√üe,m
+,,Heinrich-Hardt-Stra√üe,m
+,Q41257,Heinrich-Hertz-Stra√üe,m
+,Q215724,Heinrich-Hoffmann-Stra√üe,m
+,Q89409462,Heinrich-Hopf-Stra√üe,m
 ,,Heinrich-Kegelmann-Weg,m
 ,Q1598054,Heinrich-Kraft-Park,m
 way,Q104281,Heinrich-Lanz-Allee,m
 ,Q72060075,Heinrich-Limpert-Weg,m
-,Q2582,Heinrich-L¸bke-Straﬂe,m
-,Q1598501,Heinrich-Plett-Straﬂe,m
-way,Q1598636,Heinrich-Rˆﬂler-Straﬂe,m
-,Q1598872,Heinrich-Seliger-Straﬂe,m
-,,Heinrich-Stahl-Straﬂe,m
-,Q60094,Heinrichstraﬂe,m
-,Q63191,Heinrich-Tessenow-Straﬂe,m
-,,Heinrich-Wilhelm-Rˆmer-Anlage,m
-,,Heinrich-Zinﬂ-Weg,m
-way,Q113475,Heinz-Herbert-Karry-Straﬂe,m
+,Q2582,Heinrich-L√ºbke-Stra√üe,m
+,Q1598501,Heinrich-Plett-Stra√üe,m
+way,Q1598636,Heinrich-R√∂√üler-Stra√üe,m
+,Q1598872,Heinrich-Seliger-Stra√üe,m
+,,Heinrich-Stahl-Stra√üe,m
+,Q60094,Heinrichstra√üe,m
+,Q63191,Heinrich-Tessenow-Stra√üe,m
+,,Heinrich-Wilhelm-R√∂mer-Anlage,m
+,,Heinrich-Zin√ü-Weg,m
+way,Q113475,Heinz-Herbert-Karry-Stra√üe,m
 ,,Heinz-Raspe-Platz,m
 ,Q1600863,Heinz-Saalig-Weg,m
-,,Heinzstraﬂe,+
-,Q63829,Heisterstraﬂe,m
-,Q1601732,Heldenbergener Straﬂe,
+,,Heinzstra√üe,+
+,Q63829,Heisterstra√üe,m
+,Q1601732,Heldenbergener Stra√üe,
 ,Q968739,Helene-Adler-Weg,f
-,Q75209,Helene-Lange-Straﬂe,f
-,Q3038,Helgol‰nder Straﬂe,
-,Q99915,Hellerhofstraﬂe,m
-,Q60024,Helmholtzstraﬂe,m
+,Q75209,Helene-Lange-Stra√üe,f
+,Q3038,Helgol√§nder Stra√üe,
+,Q99915,Hellerhofstra√üe,m
+,Q60024,Helmholtzstra√üe,m
 way,Q112106,Helmut-Coing-Weg,m
 ,,Helmut-Sittler-Promenade,m
-way,Q133677,Helmut-Walcha-Straﬂe,m
+way,Q133677,Helmut-Walcha-Stra√üe,m
 ,,Hemmerichsweg,
 ,,Hennegasse,m
-,Q57574,Henning-von-Tresckow-Straﬂe,m
-,Q1606160,Henriette-F¸rth-Straﬂe,f
-way,Q20980046,Henry-Budge-Straﬂe,m
-,,Henschelstraﬂe,+
-,,Henselstraﬂe,m
-,Q76685,Herbartstraﬂe,m
-,Q1608077,Herbert-Boehm-Straﬂe,m
-way,Q1432056,Herbert-von-Meister-Straﬂe,m
-,Q392360,Herbesthaler Straﬂe,
-,Q18998,Herborner Straﬂe,
+,Q57574,Henning-von-Tresckow-Stra√üe,m
+,Q1606160,Henriette-F√ºrth-Stra√üe,f
+way,Q20980046,Henry-Budge-Stra√üe,m
+,,Henschelstra√üe,+
+,,Henselstra√üe,m
+,Q76685,Herbartstra√üe,m
+,Q1608077,Herbert-Boehm-Stra√üe,m
+way,Q1432056,Herbert-von-Meister-Stra√üe,m
+,Q392360,Herbesthaler Stra√üe,
+,Q18998,Herborner Stra√üe,
 ,Q1609573,Herchenhainer Weg,
-,Q155547,Herderstraﬂe,m
-,Q96949,Hermann-Brill-Straﬂe,m
-,Q78179,Hermann-Eggert-Straﬂe,m
-,,Hermann-K¸ster-Straﬂe,m
-way,Q1612188,Hermann-M‰ckler-Ring,m
+,Q155547,Herderstra√üe,m
+,Q96949,Hermann-Brill-Stra√üe,m
+,Q78179,Hermann-Eggert-Stra√üe,m
+,,Hermann-K√ºster-Stra√üe,m
+way,Q1612188,Hermann-M√§ckler-Ring,m
 ,Q314895,Hermannspforte,
-,,Hermannstraﬂe,m
+,,Hermannstra√üe,m
 ,Q60803746,Hermann-Waibel-Allee,m
-,Q77796,Hermann-Wendel-Straﬂe,m
+,Q77796,Hermann-Wendel-Stra√üe,m
 ,,Hermesweg,
-,Q70327959,Herrenapfelstraﬂe,
-,Q274344,Herriotstraﬂe,m
-,Q48189,Herrnstraﬂe,
-,Q16145,Hersfelder Straﬂe,
-,Q57945,Herweghstraﬂe,m
-,Q2214979,Herxheimerstraﬂe,m
-,Q895717,Herzbergstraﬂe,
+,Q70327959,Herrenapfelstra√üe,
+,Q274344,Herriotstra√üe,m
+,Q48189,Herrnstra√üe,
+,Q16145,Hersfelder Stra√üe,
+,Q57945,Herweghstra√üe,m
+,Q2214979,Herxheimerstra√üe,m
+,Q895717,Herzbergstra√üe,
 ,Q1615726,Hesselbergweg,
 ,Q529605,Hessenplatz,
-,,Hessestraﬂe,+
+,,Hessestra√üe,+
 ,,Heugasse,
-,Q86649,Heusingerstraﬂe,m
-way,Q1353827,Heussenstammstraﬂe,m
-,,Heussleinstraﬂe,m
-,,Heylstraﬂe,+
-,Q504348,Hildburgh‰user Weg,
-,,Hildegard-Schaeder-Straﬂe,f
+,Q86649,Heusingerstra√üe,m
+way,Q1353827,Heussenstammstra√üe,m
+,,Heussleinstra√üe,m
+,,Heylstra√üe,+
+,Q504348,Hildburgh√§user Weg,
+,,Hildegard-Schaeder-Stra√üe,f
 ,Q70991,Hildegard-von-Bingen-Weg,f
 ,,Hilligengasse,
-,Q15812534,Hinter dem L‰mmchen,
+,Q15812534,Hinter dem L√§mmchen,
 ,Q1802140,Hinter dem Sausee,
 ,,Hintergasse,
-,Q628421,Hirzenhainer Straﬂe,
-,,Hochschildstraﬂe,m
-,Q458205,Hochst‰dter Straﬂe,
-,,Hˆchster Markt,
-,Q1643246,Hˆchster Schloﬂplatz,
-,,Hochstraﬂe,
-,Q542511,Hoechster-Farben-Straﬂe,
-,,Hoffeldstraﬂe,
+,Q628421,Hirzenhainer Stra√üe,
+,,Hochschildstra√üe,m
+,Q458205,Hochst√§dter Stra√üe,
+,,H√∂chster Markt,
+,Q1643246,H√∂chster Schlo√üplatz,
+,,Hochstra√üe,
+,Q542511,Hoechster-Farben-Stra√üe,
+,,Hoffeldstra√üe,
 ,,Hofgartenweg,
-,Q2233111,Hofhausstraﬂe,+
-,Q14896,Hofheimer Straﬂe,
-,,Hofstraﬂe,
+,Q2233111,Hofhausstra√üe,+
+,Q14896,Hofheimer Stra√üe,
+,,Hofstra√üe,
 ,Q1623475,Hohe Kanzel,
-,,Hohe Straﬂe,
-,,Hohemarkstraﬂe,
-,,Hˆhenblick,
-,Q130875,Hohenstaufenstraﬂe,
-,Q640473,Hohensteiner Straﬂe,
-,,Hˆhenstraﬂe,
-,Q1290651,Hoherodskopfstraﬂe,
+,,Hohe Stra√üe,
+,,Hohemarkstra√üe,
+,,H√∂henblick,
+,Q130875,Hohenstaufenstra√üe,
+,Q640473,Hohensteiner Stra√üe,
+,,H√∂henstra√üe,
+,Q1290651,Hoherodskopfstra√üe,
 ,Q51922614,Holbeinsteg,+
-,Q51922614,Holbeinstraﬂe,+
-,Q75889,Hˆlderlinstraﬂe,m
-,,Hˆllbergstraﬂe,
-,Q30684231,Hollerkopfstraﬂe,
+,Q51922614,Holbeinstra√üe,+
+,Q75889,H√∂lderlinstra√üe,m
+,,H√∂llbergstra√üe,
+,Q30684231,Hollerkopfstra√üe,
 ,Q131448,Holunderweg,
 ,,Holzgraben,
-way,Q1261288,Holzhausenstraﬂe,+
+way,Q1261288,Holzhausenstra√üe,+
 ,,Holzhecke,
-,Q1112030,Holzmannstraﬂe,m
-,,Homburger Landstraﬂe,
-,Q4165,Homburger Straﬂe,
+,Q1112030,Holzmannstra√üe,m
+,,Homburger Landstra√üe,
+,Q4165,Homburger Stra√üe,
 ,Q3037417,Homolkaweg,m
-,Q1912718,Honsellbr¸cke,m
-,Q1912718,Honsellstraﬂe,m
-,Q1628326,Hornauer Straﬂe,
-,Q1651849,Hˆrselbergstraﬂe,
+,Q1912718,Honsellbr√ºcke,m
+,Q1912718,Honsellstra√üe,m
+,Q1628326,Hornauer Stra√üe,
+,Q1651849,H√∂rselbergstra√üe,
 way,Q109789,Horst-Lippmann-Platz,m
-way,Q94906682,Horst-Schulmann-Straﬂe,m
-,,Hospitalstraﬂe,
-,Q1630575,Hostatostraﬂe,m
-way,Q825274,Howaldtstraﬂe,m
+way,Q94906682,Horst-Schulmann-Stra√üe,m
+,,Hospitalstra√üe,
+,Q1630575,Hostatostra√üe,m
+way,Q825274,Howaldtstra√üe,m
 ,,Hubertusgasse,
-,Q2572733,Hufnagelstraﬂe,m
-,,H¸gelstraﬂe,
+,Q2572733,Hufnagelstra√üe,m
+,,H√ºgelstra√üe,
 way,Q101935,Hugenottenallee,+
 ,Q61666,Hugo-Eckener-Ring,m
-,Q1635096,Hugo-G¸ldner-Straﬂe,m
-,Q60363,Hugo-Junkers-Straﬂe,m
-,,Hugo-Kallenbach-Straﬂe,m
-,Q86043,Hugo-Sinzheimer-Straﬂe,m
-,Q215747,Hugo-Wolf-Straﬂe,m
-,,H¸hnermarkt (auch Wurstmarkt),
-,,H¸hnerweg,
-way,Q108670228,H¸lya-Platz,f
-,Q77888,Humboldtstraﬂe,m
-,Q1637000,Humbrachtstraﬂe,+
-,Q55010,Humperdinckstraﬂe,m
-,Q28858783,Humserstraﬂe,m
-,Q569692,H¸nfelder Straﬂe,
-,Q602629,Hungener Straﬂe,
-,Q311234,Hunsr¸ckstraﬂe,
-,,Huswertstraﬂe,m
-,,Huthmacherstraﬂe,m
-,,Hydronstraﬂe,
-,,Hynspergstraﬂe,+
-way,Q1037962,Ibellstraﬂe,m
-,Q1656636,Idarwaldstraﬂe,
-,Q525659,Idsteiner Straﬂe,
-,,Ignatz-Bubis-Br¸cke,m
-,Q1658330,Ilbenst‰dter Straﬂe,
-,Q83359078,Ilkenhansstraﬂe,+
+,Q1635096,Hugo-G√ºldner-Stra√üe,m
+,Q60363,Hugo-Junkers-Stra√üe,m
+,,Hugo-Kallenbach-Stra√üe,m
+,Q86043,Hugo-Sinzheimer-Stra√üe,m
+,Q215747,Hugo-Wolf-Stra√üe,m
+,,H√ºhnermarkt (auch Wurstmarkt),
+,,H√ºhnerweg,
+way,Q108670228,H√ºlya-Platz,f
+,Q77888,Humboldtstra√üe,m
+,Q1637000,Humbrachtstra√üe,+
+,Q55010,Humperdinckstra√üe,m
+,Q28858783,Humserstra√üe,m
+,Q569692,H√ºnfelder Stra√üe,
+,Q602629,Hungener Stra√üe,
+,Q311234,Hunsr√ºckstra√üe,
+,,Huswertstra√üe,m
+,,Huthmacherstra√üe,m
+,,Hydronstra√üe,
+,,Hynspergstra√üe,+
+way,Q1037962,Ibellstra√üe,m
+,Q1656636,Idarwaldstra√üe,
+,Q525659,Idsteiner Stra√üe,
+,,Ignatz-Bubis-Br√ºcke,m
+,Q1658330,Ilbenst√§dter Stra√üe,
+,Q83359078,Ilkenhansstra√üe,+
 way,Q85719,Ilse-Bing-Weg,f
-,,Im Braungerˆll,
+,,Im Braunger√∂ll,
 ,Q1378395,Im Burgfeld,
-,,Im Dˆrner,
+,,Im D√∂rner,
 ,,Im Enkheimer Weimerhaus,
-,,Im F¸ldchen,
+,,Im F√ºldchen,
 ,,Im Geeren,
 ,,Im Grund,
 ,,Im Heidenfeld,
@@ -1156,14 +1156,14 @@ way,Q85719,Ilse-Bing-Weg,f
 ,,Im Heisenrath,
 ,,Im Herzen von Europa,
 ,,Im Kammerdorf,
-,,Im Kirschenst¸ck,
+,,Im Kirschenst√ºck,
 ,,Im Klingenfeld,
 ,,Im Mellsig,
 ,,Im Mittleren Sand,
 ,,Im Nardholz,
-,,Im Pr¸fling,
+,,Im Pr√ºfling,
 ,,Im Rebstock,
-,,Im Rosentr‰ger,
+,,Im Rosentr√§ger,
 ,Q317710,Im Sachsenlager,m
 ,,Im Sechholder,
 ,,Im Sperber,
@@ -1178,1308 +1178,1261 @@ way,Q85719,Ilse-Bing-Weg,f
 ,,Im Waldfeld,
 ,,Im Weimel,
 ,,Im Wickengarten,
-,,Im Wˆrth,
+,,Im W√∂rth,
 ,,Im Ziegelfeld,
-,Q213589,Immermannstraﬂe,m
+,Q213589,Immermannstra√üe,m
 ,,In den Aspen,
 ,,In den Biegen,
 ,,In den Grummetwiesen,
 ,,In den Teichen,
-,,In den Zeul‰ckern,
+,,In den Zeul√§ckern,
 ,,In der Beginenklause,
 ,,In der Fuchskaut,
-,,In der K‰tcheslach,
+,,In der K√§tcheslach,
 ,,In der Kron,
-,,In der Kr¸mm,
-,Q834452,In der Rˆmerstadt,
+,,In der Kr√ºmm,
+,Q834452,In der R√∂merstadt,
 ,,In der Sauren Wiese,
 ,,In der Schildwacht,
-,,Inckusstraﬂe,+
-,Q159548,Ingelheimer Straﬂe,
-,Q3004,Ingolst‰dter Straﬂe,
-,Q1663516,Inheidener Straﬂe,
-,Q1548714,Inselsbergstraﬂe,
-,Q5655,Insterburger Straﬂe,
-,Q89165,Intzestraﬂe,m
-way,Q124818,Iselinstraﬂe,m
+,,Inckusstra√üe,+
+,Q159548,Ingelheimer Stra√üe,
+,Q3004,Ingolst√§dter Stra√üe,
+,Q1663516,Inheidener Stra√üe,
+,Q1548714,Inselsbergstra√üe,
+,Q5655,Insterburger Stra√üe,
+,Q89165,Intzestra√üe,m
+way,Q124818,Iselinstra√üe,m
 ,Q14920,Isenburger Schneise,
-,Q698048,Isenburgstraﬂe,+
-way,Q215801,Jacob-Schiff-Straﬂe,m
-,Q88367,Jacobystraﬂe,m
-,Q77098,Jahnstraﬂe,m
-,Q19946273,Jakob-Carl-Junior-Straﬂe,m
-,Q99915,Jakob-Heller-Straﬂe,m
-,Q1679191,Jakob-Latscha-Straﬂe,m
-,Q214010,Jakob-Leisler-Straﬂe,m
+,Q698048,Isenburgstra√üe,+
+way,Q215801,Jacob-Schiff-Stra√üe,m
+,Q88367,Jacobystra√üe,m
+,Q77098,Jahnstra√üe,m
+,Q19946273,Jakob-Carl-Junior-Stra√üe,m
+,Q99915,Jakob-Heller-Stra√üe,m
+,Q1679191,Jakob-Latscha-Stra√üe,m
+,Q214010,Jakob-Leisler-Stra√üe,m
 ,,Jakob-Quirin-Weg,m
-,,Jakobsbrunnenstraﬂe,m
-,Q762142,Jaspertstraﬂe,m
-,Q1684584,Jean-Albert-Schwarz-Straﬂe,m
-,Q53541,Jean-Gardner-Batten-Straﬂe,f
+,,Jakobsbrunnenstra√üe,m
+,Q762142,Jaspertstra√üe,m
+,Q1684584,Jean-Albert-Schwarz-Stra√üe,m
+,Q53541,Jean-Gardner-Batten-Stra√üe,f
 ,,Jean-Kempf-Weg,m
-,Q159700,Jean-Monnet-Straﬂe,m
-,Q77079,Jean-Paul-Straﬂe,m
+,Q159700,Jean-Monnet-Stra√üe,m
+,Q77079,Jean-Paul-Stra√üe,m
 ,Q3150,Jenaer Weg,
 way,Q1687019,Jenny-Apolant-Weg,f
-,Q60808,Joachim-Becher-Straﬂe,m
-,,Joachim-Biermann-Straﬂe,m
-,Q87358,Johanna-Kirchner-Straﬂe,f
+,Q60808,Joachim-Becher-Stra√üe,m
+,,Joachim-Biermann-Stra√üe,m
+,Q87358,Johanna-Kirchner-Stra√üe,f
 ,Q1696981,Johanna-Melber-Weg,f
 way,Q123053,Johanna-Spyri-Weg,f
 way,Q1697015,Johanna-Tesch-Platz,f
 ,Q15984836,Johann-Beyer-Weg,m
 ,Q44015,Johannesallee,m
-,,Johannes-Lamp-Straﬂe,m
-,Q77269,Johann-Georg-Elser-Straﬂe,m
+,,Johannes-Lamp-Stra√üe,m
+,Q77269,Johann-Georg-Elser-Stra√üe,m
 ,Q55842761,Johann-Georg-Fahr-Anlage,m
 ,Q68353,Johann-Halske-Allee,m
-,,Johann-Klohmann-Straﬂe,m
-,,Johann-Klotz-Straﬂe,+
-,,Johann-Sittig-Straﬂe,m
-,,Johann-Usener-Straﬂe,m
-,Q71754,Jordanstraﬂe,m
-,,Josbacher Straﬂe,
-,,Josef-Bautz-Straﬂe,m
+,,Johann-Klohmann-Stra√üe,m
+,,Johann-Klotz-Stra√üe,+
+,,Johann-Sittig-Stra√üe,m
+,,Johann-Usener-Stra√üe,m
+,Q71754,Jordanstra√üe,m
+,,Josbacher Stra√üe,
+,,Josef-Bautz-Stra√üe,m
 ,Q94834202,Josef-Benner-Weg,m
 ,,Josef-Dey-Weg,m
-,,Josef-Eicher-Straﬂe,m
-,,Josef-Fenzl-Straﬂe,m
-,,Josef-May-Straﬂe,+
-,Q75415,Josef-Wirmer-Straﬂe,m
-way,Q128267,Josephskirchstraﬂe,m
-,Q43948,Joseph-von-Fraunhofer-Straﬂe,m
-way,Q1281604,Juchostraﬂe,m
-way,Q1037299,J¸gelstraﬂe,m
-,Q1305986,Jugenheimer Straﬂe,
-,Q1712521,Julius-Brecht-Straﬂe,m
-,Q15452354,Julius-Heyman-Straﬂe,m
+,,Josef-Eicher-Stra√üe,m
+,,Josef-Fenzl-Stra√üe,m
+,,Josef-May-Stra√üe,+
+,Q75415,Josef-Wirmer-Stra√üe,m
+way,Q128267,Josephskirchstra√üe,m
+,Q43948,Joseph-von-Fraunhofer-Stra√üe,m
+way,Q1281604,Juchostra√üe,m
+way,Q1037299,J√ºgelstra√üe,m
+,Q1305986,Jugenheimer Stra√üe,
+,Q1712521,Julius-Brecht-Stra√üe,m
+,Q15452354,Julius-Heyman-Stra√üe,m
 ,Q215630,Julius-Leber-Weg,m
 ,,Julius-Munk-Anlage,m
-,Q1665640,Juliusstraﬂe,m
-,,Junghofstraﬂe,m
-,,Jungmannstraﬂe,m
-,Q99787,Jungstraﬂe,m
-,Q61561,J¸rgen-Ponto-Platz,m
-,Q1714267,Justinianstraﬂe,m
-,Q1714244,Justinuskirchstraﬂe,m
+,Q1665640,Juliusstra√üe,m
+,,Junghofstra√üe,m
+,,Jungmannstra√üe,m
+,Q99787,Jungstra√üe,m
+,Q61561,J√ºrgen-Ponto-Platz,m
+,Q1714267,Justinianstra√üe,m
+,Q1714244,Justinuskirchstra√üe,m
 ,Q1714244,Justinusplatz,m
 ,,Kahnplatz,m
-,,Kaiserhofstraﬂe,
+,,Kaiserhofstra√üe,
 ,,Kaiserplatz,
-way,Q57124,Kaiser-Sigmund-Straﬂe,m
-,Q150652,Kaiserstraﬂe,m
-,,Kalb‰cher Gasse,
-,,Kalkentalstraﬂe,
-,Q2572625,Kallestraﬂe,m
-,Q1722544,Kalmitstraﬂe,
-,,Kaltm¸hle,
-,,Kaltm¸hlstraﬂe,
-,Q160121,Kamelienstraﬂe,
-,Q447986,Kameruner Roseng‰rtchen,
-,Q314746,Kandelstraﬂe,
-,,Kannengieﬂergasse,
-,Q1165331,Kantapfelstraﬂe,
-,Q9312,Kantstraﬂe,m
-,Q1735382,Kapersburgstraﬂe,
-,Q87860,Kapit‰n-Lehmann-Straﬂe,m
-,,Kappusstraﬂe,
-,Q570057,Karbener Straﬂe,
-,Q76736,Karl-Albert-Straﬂe,m
-,,Karl-Bieber-Hˆhe,m
+way,Q57124,Kaiser-Sigmund-Stra√üe,m
+,Q150652,Kaiserstra√üe,m
+,,Kalb√§cher Gasse,
+,,Kalkentalstra√üe,
+,Q2572625,Kallestra√üe,m
+,Q1722544,Kalmitstra√üe,
+,,Kaltm√ºhle,
+,,Kaltm√ºhlstra√üe,
+,Q160121,Kamelienstra√üe,
+,Q447986,Kameruner Roseng√§rtchen,
+,Q314746,Kandelstra√üe,
+,,Kannengie√üergasse,
+,Q1165331,Kantapfelstra√üe,
+,Q9312,Kantstra√üe,m
+,Q1735382,Kapersburgstra√üe,
+,Q87860,Kapit√§n-Lehmann-Stra√üe,m
+,,Kappusstra√üe,
+,Q570057,Karbener Stra√üe,
+,Q76736,Karl-Albert-Stra√üe,m
+,,Karl-Bieber-H√∂he,m
 ,Q94848353,Karl-Blum-Allee,m
-way,Q1303842,Karl-Flesch-Straﬂe,m
+way,Q1303842,Karl-Flesch-Stra√üe,m
 way,Q1401628,Karl-Gerold-Platz,m
 ,Q60318,Karl-Heinrich-Ulrichs-Platz,m
 ,Q76586,Karl-Kautsky-Weg,m
 ,,Karl-Klee-Weg,m
-,Q94855207,Karl-Kˆnig-Weg,m
-,Q20894883,Karl-Kotzenberg-Straﬂe,m
-,Q213662,Karl-Lachmann-Straﬂe,m
-way,Q9061,Karl-Marx-Straﬂe,m
+,Q94855207,Karl-K√∂nig-Weg,m
+,Q20894883,Karl-Kotzenberg-Stra√üe,m
+,Q213662,Karl-Lachmann-Stra√üe,m
+way,Q9061,Karl-Marx-Stra√üe,m
 ,,Karl-Perott-Platz,m
-,,Karl-Pfeuffer-Straﬂe,m
+,,Karl-Pfeuffer-Stra√üe,m
 ,,Karl-Ritscher-Anlage,m
-,Q384544,Karlsbader Straﬂe,
-,Q70538,Karl-Scheele-Straﬂe,m
-,,Karl-Sch¸ler-Weg,m
-,Q1040,Karlsruher Straﬂe,
-way,Q73064,Karl-Stieler-Straﬂe,m
-,Q3044,Karlstraﬂe,m
-,Q77122,Karl-von-Drais-Straﬂe,m
-way,Q94917152,Karl-Wessendorft-Straﬂe,m
+,Q384544,Karlsbader Stra√üe,
+,Q70538,Karl-Scheele-Stra√üe,m
+,,Karl-Sch√ºler-Weg,m
+,Q1040,Karlsruher Stra√üe,
+way,Q73064,Karl-Stieler-Stra√üe,m
+,Q3044,Karlstra√üe,m
+,Q77122,Karl-von-Drais-Stra√üe,m
+way,Q94917152,Karl-Wessendorft-Stra√üe,m
 ,Q1734064,Karmelitergasse,
-,,Kasinostraﬂe,
-,Q2865,Kasseler Straﬂe,
-,Q834452,Kastellstraﬂe,
-,,K‰tcheslachpark,
-,,K‰tcheslachweg,
-,,Katharina-Petri-Straﬂe,f
-way,Q1280232,Katharina-Staritz-Straﬂe,f
+,,Kasinostra√üe,
+,Q2865,Kasseler Stra√üe,
+,Q834452,Kastellstra√üe,
+,,K√§tcheslachpark,
+,,K√§tcheslachweg,
+,,Katharina-Petri-Stra√üe,f
+way,Q1280232,Katharina-Staritz-Stra√üe,f
 ,Q179718,Katharinenpforte,f
-way,Q125288,K‰thchen-Paulus-Straﬂe,f
-,Q77804,K‰the-Kruse-Straﬂe,f
+way,Q125288,K√§thchen-Paulus-Stra√üe,f
+,Q77804,K√§the-Kruse-Stra√üe,f
 ,Q291914,Katherine-Stinson-Weg,f
-,Q588,Kattowitzer Straﬂe,
+,Q588,Kattowitzer Stra√üe,
 ,,Katzenpforte,
 ,Q540860,Kauber Weg,
-,Q564457,Kaufunger Straﬂe,
-,,Kaulbachstraﬂe,+
+,Q564457,Kaufunger Stra√üe,
+,,Kaulbachstra√üe,+
 ,,Kegelbahn,
-,Q87842,Kehreinstraﬂe,m
-,Q639667,Kelkheimer Straﬂe,
+,Q87842,Kehreinstra√üe,m
+,Q639667,Kelkheimer Stra√üe,
 ,Q1738262,Kellerskopfweg,
-,Q635547,Kelsterbacher Straﬂe,
+,Q635547,Kelsterbacher Stra√üe,
 ,Q635547,Kelsterbacher Weg,
-,Q35966,Keltenstraﬂe,+
+,Q35966,Keltenstra√üe,+
 ,Q9696,Kennedyallee,m
-,Q8963,Keplerstraﬂe,m
-,Q1574209,Kesselst‰dter Straﬂe,
-,,Keﬂlerstraﬂe,+
+,Q8963,Keplerstra√üe,m
+,Q1574209,Kesselst√§dter Stra√üe,
+,,Ke√ülerstra√üe,+
 ,Q626805,Kettelerallee,m
 ,,Kettenhofweg,m
-,Q1741299,Kilianst‰dter Straﬂe,
-,Q68325,Kinkelstraﬂe,m
-,Q645736,Kinzigstraﬂe,
+,Q1741299,Kilianst√§dter Stra√üe,
+,Q68325,Kinkelstra√üe,m
+,Q645736,Kinzigstra√üe,
 ,,Kirchgasse,
-,Q569684,Kirchhainer Straﬂe,
-,Q591060,Kirchnerstraﬂe,m
+,Q569684,Kirchhainer Stra√üe,
+,Q591060,Kirchnerstra√üe,m
 ,,Kirschenallee,
-,,Klapperfeldstraﬂe,
+,,Klapperfeldstra√üe,
 ,,Klappergasse,
-,Q94744810,Klarastraﬂe,f
-,,Klauerstraﬂe,m
-way,Q76494,Klaus-Groth-Straﬂe,m
+,Q94744810,Klarastra√üe,f
+,,Klauerstra√üe,m
+way,Q76494,Klaus-Groth-Stra√üe,m
 ,Q77087,Klaus-Mann-Platz,m
-,Q22250654,Kleebergstraﬂe,+
-,,Kleemannstraﬂe,m
-,,Kleestraﬂe,m
-,Q156099,Kleine Nelkenstraﬂe,
+,Q22250654,Kleebergstra√üe,+
+,,Kleemannstra√üe,m
+,,Kleestra√üe,m
+,Q156099,Kleine Nelkenstra√üe,
 ,Q10878191,Kleine Spillingsgasse,
 ,,Kleingartenweg,
-way,Q1413531,Kleinschmidtstraﬂe,m
-,Q28494,Kleiststraﬂe,m
-way,Q107612077,Klemensstraﬂe,m
-,Q31267,Klettenbergstraﬂe,f
-,Q1598008,Kleyerstraﬂe,m
+way,Q1413531,Kleinschmidtstra√üe,m
+,Q28494,Kleiststra√üe,m
+way,Q107612077,Klemensstra√üe,m
+,Q31267,Klettenbergstra√üe,f
+,Q1598008,Kleyerstra√üe,m
 ,Q28499831,Klimsch-Anlage,+
-,Q502934,Klingenberger Straﬂe,
+,Q502934,Klingenberger Stra√üe,
 ,,Klingenweg,
-,Q213549,Klingerstraﬂe,m
-,Q55673461,Klitscherstraﬂe,m
-,Q70103,Kl¸berstraﬂe,m
-,,Kneiselm¸hle,
-,Q1342341,Kniebisstraﬂe,
-,Q97095,Knorrstraﬂe,m
-,,Kobbachstraﬂe,
-,Q3104,Koblenzer Straﬂe,
-,,Kochstraﬂe,f
-,,Kohlbrandstraﬂe,
+,Q213549,Klingerstra√üe,m
+,Q55673461,Klitscherstra√üe,m
+,Q70103,Kl√ºberstra√üe,m
+,,Kneiselm√ºhle,
+,Q1342341,Kniebisstra√üe,
+,Q97095,Knorrstra√üe,m
+,,Kobbachstra√üe,
+,Q3104,Koblenzer Stra√üe,
+,,Kochstra√üe,f
+,,Kohlbrandstra√üe,
 ,Q61090,Kohlrauschweg,m
-,Q1779045,Kolbenbergstraﬂe,
+,Q1779045,Kolbenbergstra√üe,
 ,Q110011,Kolberger Weg,
-way,Q142472,Kollwitzstraﬂe,f
-,Q365,Kˆlner Straﬂe,
-,Q60619,Kolpingstraﬂe,m
-,Q48832812,Komturstraﬂe,
-,Q4120832,Kˆnigsberger Straﬂe,
-,,Kˆnigsbrunnenweg,
-,Q825975,Kˆnigslacherstraﬂe,
-,Q569661,Kˆnigsteiner Straﬂe,
-,Q15450782,Kˆnigswarterstraﬂe,m
-,Q2492,Konrad-Adenauer-Straﬂe,m
-way,Q1126671,Konrad-Broﬂwitz-Straﬂe,m
+way,Q142472,Kollwitzstra√üe,f
+,Q365,K√∂lner Stra√üe,
+,Q60619,Kolpingstra√üe,m
+,Q48832812,Komturstra√üe,
+,Q4120832,K√∂nigsberger Stra√üe,
+,,K√∂nigsbrunnenweg,
+,Q825975,K√∂nigslacherstra√üe,
+,Q569661,K√∂nigsteiner Stra√üe,
+,Q15450782,K√∂nigswarterstra√üe,m
+,Q2492,Konrad-Adenauer-Stra√üe,m
+way,Q1126671,Konrad-Bro√üwitz-Stra√üe,m
 ,Q65340,Konrad-Duden-Weg,m
-,,Konrad-Glatt-Straﬂe,m
+,,Konrad-Glatt-Stra√üe,m
 ,,Konrad-Hoenen-Weg,m
 ,,Konrad-Meyer-Weg,m
-,Q60093,Konrad-Zuse-Straﬂe,m
+,Q60093,Konrad-Zuse-Stra√üe,m
 ,Q165654,Konstablerwache,
-,Q8413,Konstantinstraﬂe,m
-,Q3834,Konstanzer Straﬂe,
-,Q619,Kopernikusstraﬂe,m
-,Q1796583,Kˆpperner Straﬂe,
-,,Kˆrberstraﬂe,m
-,,Korffstraﬂe,
-,Q62344,Kˆrnerstraﬂe,m
+,Q8413,Konstantinstra√üe,m
+,Q3834,Konstanzer Stra√üe,
+,Q619,Kopernikusstra√üe,m
+,Q1796583,K√∂pperner Stra√üe,
+,,K√∂rberstra√üe,m
+,,Korffstra√üe,
+,Q62344,K√∂rnerstra√üe,m
 ,,Kornmarkt,
-,,Koselstraﬂe,m
-,Q478710,Kostheimer Straﬂe,
-,Q76435,Kracauerstraﬂe,m
-,,Kr‰lingweg,
+,,Koselstra√üe,m
+,Q478710,Kostheimer Stra√üe,
+,Q76435,Kracauerstra√üe,m
+,,Kr√§lingweg,
 ,,Kranengasse,
 ,,Kranentrank,
-,Q1166435,Kranichsteiner Straﬂe,
+,Q1166435,Kranichsteiner Stra√üe,
 ,Q1786615,Kransberger Weg,
 ,,Krautmarkt,
-,Q458732,Kreutzerstraﬂe,m
-,Q464488,Kreuzbergstraﬂe,
+,Q458732,Kreutzerstra√üe,m
+,Q464488,Kreuzbergstra√üe,
 ,Q160445,Kreuzerhohl,m
-,Q7047,Kreuznacher Straﬂe,
+,Q7047,Kreuznacher Stra√üe,
 ,,Kreuzweg,
-,Q214249,Kriegkstraﬂe,m
-,Q633636,Krifteler Straﬂe,
-,,Krˆgerstraﬂe,m
-,Q569634,Kronberger Straﬂe,
+,Q214249,Kriegkstra√üe,m
+,Q633636,Krifteler Stra√üe,
+,,Kr√∂gerstra√üe,m
+,Q569634,Kronberger Stra√üe,
 ,,Kronengasse,
-,Q2122684,Kronthaler Straﬂe,
+,Q2122684,Kronthaler Stra√üe,
 ,,Kruggasse,
-,Q188082,Krummauer Straﬂe,
-,,Kr¸mmling,
-,Q455937,Kruppstraﬂe,m
-,,K¸hhornshofweg,m
-,,Kuhwaldstraﬂe,
-,,Kullmannstraﬂe,+
+,Q188082,Krummauer Stra√üe,
+,,Kr√ºmmling,
+,Q455937,Kruppstra√üe,m
+,,K√ºhhornshofweg,m
+,,Kuhwaldstra√üe,
+,,Kullmannstra√üe,+
 ,,Kupferhammer,
-,Q529605,Kurf¸rstenplatz,
-,Q529605,Kurf¸rstenstraﬂe,
-,Q529605,Kurhessenstraﬂe,
-,Q698315,Kurmainzer Straﬂe,m
-,Q148499,Kurmarkstraﬂe,
-,Q1764115,Kurt-Blaum-Straﬂe,m
+,Q529605,Kurf√ºrstenplatz,
+,Q529605,Kurf√ºrstenstra√üe,
+,Q529605,Kurhessenstra√üe,
+,Q698315,Kurmainzer Stra√üe,m
+,Q148499,Kurmarkstra√üe,
+,Q1764115,Kurt-Blaum-Stra√üe,m
 way,Q104743,Kurt-Halbritter-Anlage,m
-,Q57465,Kurt-Schumacher-Straﬂe,m
-,,Kurzrˆderstraﬂe,
-,Q55818005,Lachnerstraﬂe,+
+,Q57465,Kurt-Schumacher-Stra√üe,m
+,,Kurzr√∂derstra√üe,
+,Q55818005,Lachnerstra√üe,+
 ,,Lachweg,
-,Q39155221,Ladenburgstraﬂe,m
-,Q2573880,Lahmeyerstraﬂe,m
-,Q103148,Lahnstraﬂe,
-,Q1553952,Lamboystraﬂe,m
-,Q7052,Landauer Straﬂe,
-,,L‰nderweg,
+,Q39155221,Ladenburgstra√üe,m
+,Q2573880,Lahmeyerstra√üe,m
+,Q103148,Lahnstra√üe,
+,Q1553952,Lamboystra√üe,m
+,Q7052,Landauer Stra√üe,
+,,L√§nderweg,
 ,,Landgraben,
-,,Landgrafenstraﬂe,
-,Q169319,Landgraf-Philipp-Straﬂe,m
-,Q696040,Landgraf-Wilhelm-Straﬂe,m
-,,Landvogtstraﬂe,
-,Q826809,Langenhainer Straﬂe,
-,Q544737,Langenselbolder Straﬂe,
+,,Landgrafenstra√üe,
+,Q169319,Landgraf-Philipp-Stra√üe,m
+,Q696040,Landgraf-Wilhelm-Stra√üe,m
+,,Landvogtstra√üe,
+,Q826809,Langenhainer Stra√üe,
+,Q544737,Langenselbolder Stra√üe,
 ,,Langheckenweg,
 way,Q130900,Langobardenweg,+
-,Q36050,Langweidenstraﬂe,
-,Q75784,Lassallestraﬂe,m
-,Q77470,Laubestraﬂe,m
-,Q78098,Launhardtstraﬂe,m
-,Q290795,Launitzstraﬂe,m
-,Q17590,Laurentiusstraﬂe,m
-,Q32530,Lausitzstraﬂe,
-,Q622569,Lauterbacher Straﬂe,
+,Q36050,Langweidenstra√üe,
+,Q75784,Lassallestra√üe,m
+,Q77470,Laubestra√üe,m
+,Q78098,Launhardtstra√üe,m
+,Q290795,Launitzstra√üe,m
+,Q17590,Laurentiusstra√üe,m
+,Q32530,Lausitzstra√üe,
+,Q622569,Lauterbacher Stra√üe,
 way,Q100073,Leberecht-Migge-Anlage,m
-,Q70585,Legienstraﬂe,m
-,,Lehrbergerstraﬂe,m
-way,Q1455456,Leibbrandstraﬂe,m
-,Q9047,Leibnizstraﬂe,m
+,Q70585,Legienstra√üe,m
+,,Lehrbergerstra√üe,m
+way,Q1455456,Leibbrandstra√üe,m
+,Q9047,Leibnizstra√üe,m
 ,Q1131303,Leimenrode,
 ,Q1815315,Leinwebergasse,
-,Q2079,Leipziger Straﬂe,
-,Q84280,Lenaustraﬂe,m
-,,Lenzenbergstraﬂe,
-,Q1818563,Leo-Gans-Straﬂe,m
+,Q2079,Leipziger Stra√üe,
+,Q84280,Lenaustra√üe,m
+,,Lenzenbergstra√üe,
+,Q1818563,Leo-Gans-Stra√üe,m
 ,Q762,Leonardo-da-Vinci-Allee,m
-,Q1819217,Leonhard-Heiﬂwolf-Straﬂe,m
+,Q1819217,Leonhard-Hei√üwolf-Stra√üe,m
 ,,Leonhardsgasse,
-way,Q12032975,Leopold-Ehrmann-Straﬂe,m
-,Q7243,Leo-Tolstoj-Straﬂe,m
-,Q825538,Lepsiusstraﬂe,m
+way,Q12032975,Leopold-Ehrmann-Stra√üe,m
+,Q7243,Leo-Tolstoj-Stra√üe,m
+,Q825538,Lepsiusstra√üe,m
 ,Q29858,Lerchesbergring,
-,,Lersnerstraﬂe,+
-,Q34628,Lessingstraﬂe,m
+,,Lersnerstra√üe,+
+,Q34628,Lessingstra√üe,m
 ,Q2523928,Lettigkautweg,
 ,,Leuchte,
-,Q505191,Leunastraﬂe,
-,,Leutholdstraﬂe,m
-,Q2938,Leverkuser Straﬂe,
-,Q1822628,Lia-Wˆhr-Platz,f
-,Q632282,Licher Straﬂe,
-,Q469837,Lichtenbergstraﬂe,+
-,Q1590307,Lichtensteinstraﬂe,+
+,Q505191,Leunastra√üe,
+,,Leutholdstra√üe,m
+,Q2938,Leverkuser Stra√üe,
+,Q1822628,Lia-W√∂hr-Platz,f
+,Q632282,Licher Stra√üe,
+,Q469837,Lichtenbergstra√üe,+
+,Q1590307,Lichtensteinstra√üe,+
 ,Q345,Liebfrauenberg,f
-,Q345,Liebfrauenstraﬂe,f
-,Q16571,Liebigstraﬂe,m
-,Q20127,Liebknechtstraﬂe,m
-,Q313965,Liederbacher Straﬂe,
-,Q106274,Liegnitzer Straﬂe,
+,Q345,Liebfrauenstra√üe,f
+,Q16571,Liebigstra√üe,m
+,Q20127,Liebknechtstra√üe,m
+,Q313965,Liederbacher Stra√üe,
+,Q106274,Liegnitzer Stra√üe,
 way,Q1145855,Liesel-Christ-Anlage,f
 ,Q753099,Ligusterweg,
-way,Q21119,Liliencronstraﬂe,m
+way,Q21119,Liliencronstra√üe,m
 ,Q57162,Lilienthalallee,m
-,Q96902,Lili-Schˆnemann-Steige,f
-,,Lilo-G¸nzler-Straﬂe,f
+,Q96902,Lili-Sch√∂nemann-Steige,f
+,,Lilo-G√ºnzler-Stra√üe,f
 ,Q17374397,Limescorso,
 ,Q436543,Limpurgergasse,+
 ,Q1618,Lindberghplatz,m
-,Q567495,Lindleystraﬂe,m
-,,Linkstraﬂe,m
-way,Q1043,LinnÈstraﬂe,m
-,Q56189,Lise-Meitner-Straﬂe,f
-,Q597,Lissabonner Straﬂe,
+,Q567495,Lindleystra√üe,m
+,,Linkstra√üe,m
+way,Q1043,Linn√©stra√üe,m
+,Q56189,Lise-Meitner-Stra√üe,f
+,Q597,Lissabonner Stra√üe,
 ,Q1733918,Lixfelder Weg,
-,Q1695600,LoÎnstraﬂe,m
-,Q1868171,Lˆherstraﬂe,
-,,Lˆhnunggasse,m
-,,Lohoffstraﬂe,m
+,Q1695600,Lo√´nstra√üe,m
+,Q1868171,L√∂herstra√üe,
+,,L√∂hnunggasse,m
+,,Lohoffstra√üe,m
 ,,Lohrgasse,
 ,Q1256252,Lokalbahnhof,
-,Q84,Londoner Straﬂe,
-,Q77486,Lˆnsweg,m
-,Q4168,Loreleistraﬂe,
-,Q1870406,Lorsbacher Straﬂe,
-,Q524939,Lorscher Straﬂe,
-,Q154203,Lortzingstraﬂe,m
+,Q84,Londoner Stra√üe,
+,Q77486,L√∂nsweg,m
+,Q4168,Loreleistra√üe,
+,Q1870406,Lorsbacher Stra√üe,
+,Q524939,Lorscher Stra√üe,
+,Q154203,Lortzingstra√üe,m
 ,Q1515988,Lotte-Specht-Park,f
-,Q841356,Lˆtzener Straﬂe,
-,Q2573986,Lotzstraﬂe,m
+,Q841356,L√∂tzener Stra√üe,
+,Q2573986,Lotzstra√üe,m
 way,Q116822,Louis-Appia-Passage,m
-,Q529,Louis-Pasteur-Straﬂe,m
-,,Lˆwengasse,
-,Q2843,L¸becker Straﬂe,
-,Q15205059,Lucaestraﬂe,m
-,Q980344,Luciusstraﬂe,m
-way,Q112007,Lucy-Hillebrand-Straﬂe,f
-,Q66475,Ludolfusstraﬂe,m
+,Q529,Louis-Pasteur-Stra√üe,m
+,,L√∂wengasse,
+,Q2843,L√ºbecker Stra√üe,
+,Q15205059,Lucaestra√üe,m
+,Q980344,Luciusstra√üe,m
+way,Q112007,Lucy-Hillebrand-Stra√üe,f
+,Q66475,Ludolfusstra√üe,m
 ,,Ludwig-Emmel-Weg,m
 ,Q2496,Ludwig-Erhard-Anlage,m
 way,Q72283,Ludwig-Fulda-Weg,m
-,,Ludwig-Gallmeyer-Straﬂe,m
+,,Ludwig-Gallmeyer-Stra√üe,m
 ,Q1615515,Ludwig-Gehm-Weg,m
-,,Ludwig-Hensler-Straﬂe,m
+,,Ludwig-Hensler-Stra√üe,m
 ,,Ludwig-Jost-Allee,m
 ,,Ludwig-Klemann-Weg,m
-,Q84856,Ludwig-Landmann-Straﬂe,m
-,Q76696,Ludwig-Quidde-Straﬂe,m
-,Q73609,Ludwig-Rehn-Straﬂe,m
-,,Ludwig-Reinheimer-Straﬂe,m
-,Q551896,Ludwig-Richter-Straﬂe,m
-,,Ludwig-Ruppel-Straﬂe,m
+,Q84856,Ludwig-Landmann-Stra√üe,m
+,Q76696,Ludwig-Quidde-Stra√üe,m
+,Q73609,Ludwig-Rehn-Stra√üe,m
+,,Ludwig-Reinheimer-Stra√üe,m
+,Q551896,Ludwig-Richter-Stra√üe,m
+,,Ludwig-Ruppel-Stra√üe,m
 ,Q622,Ludwigsburger Weg,
-,Q21387894,Ludwig-Scriba-Straﬂe,m
-,Q2910,Ludwigshafener Straﬂe,
-,Q152463,Ludwigstraﬂe,m
-,Q57239,Ludwig-Tieck-Straﬂe,m
+,Q21387894,Ludwig-Scriba-Stra√üe,m
+,Q2910,Ludwigshafener Stra√üe,
+,Q152463,Ludwigstra√üe,m
+,Q57239,Ludwig-Tieck-Stra√üe,m
 way,Q11758,Ludwig-Zamenhof-Weg,m
 ,,Luginsland,
 way,Q1285796,Luisenplatz,f
-way,Q1285796,Luisenstraﬂe,f
+way,Q1285796,Luisenstra√üe,f
 ,Q156811,Lupinenweg,
 ,Q877635,Lurgiallee,
-way,Q1169939,Luthmerstraﬂe,m
+way,Q1169939,Luthmerstra√üe,m
 way,Q122293,Luxemburgerallee,+
 ,Q156106,Luzernenweg,
-,Q456,Lyoner Straﬂe,
-,Q2807,Madrider Straﬂe,
+,Q456,Lyoner Stra√üe,
+,Q2807,Madrider Stra√üe,
 ,Q88141,Magda-Spiegel-Weg,f
-,Q490,Mail‰nder Straﬂe,
+,Q490,Mail√§nder Stra√üe,
 ,Q1670,Mainberg,
 ,Q1670,Mainkai,
-,Q1885640,Mainkurstraﬂe,
-,Q1720,Mainzer Landstraﬂe,
-,,Malapertstraﬂe,+
-way,Q1039634,Malﬂstraﬂe,m
-,Q1888379,Mammolshainer Straﬂe,
-,Q543199,Manderscheider Straﬂe,
-,Q2119,Mannheimer Straﬂe,
-way,Q1461288,Manskopfstraﬂe,m
+,Q1885640,Mainkurstra√üe,
+,Q1720,Mainzer Landstra√üe,
+,,Malapertstra√üe,+
+way,Q1039634,Mal√üstra√üe,m
+,Q1888379,Mammolshainer Stra√üe,
+,Q543199,Manderscheider Stra√üe,
+,Q2119,Mannheimer Stra√üe,
+way,Q1461288,Manskopfstra√üe,m
 ,,Marbachweg,
-,Q3869,Marburger Straﬂe,
-,,Margaretenstraﬂe,f
-,Q78858,Margarete-Sch¸tte-Lihotzky-Anlage,f
-,Q69306,Margarete-Steiff-Straﬂe,f
+,Q3869,Marburger Stra√üe,
+,,Margaretenstra√üe,f
+,Q78858,Margarete-Sch√ºtte-Lihotzky-Anlage,f
+,Q69306,Margarete-Steiff-Stra√üe,f
 ,Q214911,Margarete-Susman-Weg,f
 way,Q1466898, Q109648905,Margarete-und-Fritz-Kahl-Anlage,+
 ,,Margarete-Weber-Anlage,f
 way,Q107041,Marianne-Beuchert-Platz,f
-,Q75803,Mariannenstraﬂe,f
+,Q75803,Mariannenstra√üe,f
 ,Q28732941,Marie-Bittorf-Anlage,f
-,Q7186,Marie-Curie-Straﬂe,f
+,Q7186,Marie-Curie-Stra√üe,f
 ,Q85820,Marie-Juchacz-Platz,f
-,Q62365,Marie-Luise-Kaschnitz-Straﬂe,f
-,Q534491,Marienberger Straﬂe,
-,Q71279,Marienburgstraﬂe,
-,Q85086966,Marienstraﬂe,f
-way,Q1430,Mark-Aurel-Straﬂe,m
-,Q209851,Markomannenstraﬂe,+
+,Q62365,Marie-Luise-Kaschnitz-Stra√üe,f
+,Q534491,Marienberger Stra√üe,
+,Q71279,Marienburgstra√üe,
+,Q85086966,Marienstra√üe,f
+way,Q1430,Mark-Aurel-Stra√üe,m
+,Q209851,Markomannenstra√üe,+
 ,Q18629002,Markt,
-,,Marktstraﬂe,
-,,Marquardstraﬂe,+
-,Q160063,Marschnerstraﬂe,m
-,,Martin-Bˆff-Gasse,m
-,Q75184,Martin-Els‰sser-Platz,m
-,Q75184,Martin-Els‰sser-Weg,m
+,,Marktstra√üe,
+,,Marquardstra√üe,+
+,Q160063,Marschnerstra√üe,m
+,,Martin-B√∂ff-Gasse,m
+,Q75184,Martin-Els√§sser-Platz,m
+,Q75184,Martin-Els√§sser-Weg,m
 ,,Martin-Henrich-Anlage,m
 ,Q8027,Martin-Luther-King-Park,m
-,Q9554,Martin-Luther-Straﬂe und Martin-Luther-Platz,m
-,Q94779661,Martin-May-Straﬂe,m
-,Q153839,Martin-Niemˆller-Straﬂe,m
-way,Q133704,Martinskirchstraﬂe,m
+,Q9554,Martin-Luther-Stra√üe und Martin-Luther-Platz,m
+,Q94779661,Martin-May-Stra√üe,m
+,Q153839,Martin-Niem√∂ller-Stra√üe,m
+way,Q133704,Martinskirchstra√üe,m
 way,Q108629,Martin-Weber-Platz,m
-,,Martin-Zahn-Straﬂe,m
-,,Martorffstraﬂe,+
-,Q708333,Mart-Stam-Straﬂe,m
+,,Martin-Zahn-Stra√üe,m
+,,Martorffstra√üe,+
+,Q708333,Mart-Stam-Stra√üe,m
 ,Q1561552,Marxheimer Platz,
-,Q1561552,Marxheimer Straﬂe,
-,,Maﬂbornstraﬂe,
-,Q1907510,Massenheimer Straﬂe,
-,Q158785,Maﬂholderpfad,
+,Q1561552,Marxheimer Stra√üe,
+,,Ma√übornstra√üe,
+,Q1907510,Massenheimer Stra√üe,
+,Q158785,Ma√üholderpfad,
 ,Q97743,Mathildenplatz,f
-,Q97743,Mathildenstraﬂe,f
+,Q97743,Mathildenstra√üe,f
 ,Q5589,Matisseweg,m
-,,Matternstraﬂe,+
+,,Matternstra√üe,+
 ,Q1909716,Matthias-Beltz-Platz,m
-,Q77338,Matthias-Claudius-Straﬂe,m
+,Q77338,Matthias-Claudius-Stra√üe,m
 ,Q315832,Mattiakerweg,+
-,Q316599,Mauritiusstraﬂe,m
-,Q164683,Max-Beckmann-Straﬂe,m
-,Q1912269,Max-Bock-Straﬂe,m
-,Q58978,Max-Born-Straﬂe,m
+,Q316599,Mauritiusstra√üe,m
+,Q164683,Max-Beckmann-Stra√üe,m
+,Q1912269,Max-Bock-Stra√üe,m
+,Q58978,Max-Born-Stra√üe,m
 ,Q1912307,Max-Bromme-Steig,m
-,Q78267,Max-Eyth-Straﬂe,m
+,Q78267,Max-Eyth-Stra√üe,m
 ,,Max-Hartig-Weg,m
-way,Q91836,Max-Hirsch-Straﬂe,m
-,,Max-Holder-Straﬂe,m
-,Q76826,Max-Horkheimer-Straﬂe,m
-,Q150726,Maximilianstraﬂe,m
+way,Q91836,Max-Hirsch-Stra√üe,m
+,,Max-Holder-Stra√üe,m
+,Q76826,Max-Horkheimer-Stra√üe,m
+,Q150726,Maximilianstra√üe,m
 ,Q94381265,Max-Kirschner-Weg,m
 ,Q1912941,Max-Leichter-Weg,m
-,Q9021,Max-Planck-Straﬂe,m
-way,Q109994,Max-Pruss-Straﬂe,m
-,Q1913246,Max-Quarck-Straﬂe,m
-,Q57139,Max-Reger-Straﬂe,m
-,Q57067,Max-von-Laue-Straﬂe,m
+,Q9021,Max-Planck-Stra√üe,m
+way,Q109994,Max-Pruss-Stra√üe,m
+,Q1913246,Max-Quarck-Stra√üe,m
+,Q57139,Max-Reger-Stra√üe,m
+,Q57067,Max-von-Laue-Stra√üe,m
 ,Q44993,Max-von-Pettenkofer-Weg,m
-,Q70100,Maybachstraﬂe,m
-,,Mayfarthstraﬂe,
-,,Mechtildstraﬂe,f
-,Q109057,Mecklenburger Straﬂe,
-,Q1666315,Meerholzer Straﬂe,
-,Q498212,Meersburger Straﬂe,
+,Q70100,Maybachstra√üe,m
+,,Mayfarthstra√üe,
+,,Mechtildstra√üe,f
+,Q109057,Mecklenburger Stra√üe,
+,Q1666315,Meerholzer Stra√üe,
+,Q498212,Meersburger Stra√üe,
 way,Q105392157,Meier-Seligmann-Weg,m
 ,Q487278,Meininger Weg,
 ,Q76325,Melanchthonplatz,m
-,Q1695799,Melchiorstraﬂe,m
-,Q72060134,Melemstraﬂe,+
-,Q464552,Melibocusstraﬂe,
-,Q97003,Melli-Beese-Straﬂe,f
-,Q552495,Melsunger Straﬂe,
-,Q46096,Mendelssohnstraﬂe,m
-,Q6353,Mercatorstraﬂe,m
-,Q213701,Mergenthalerstraﬂe,m
+,Q1695799,Melchiorstra√üe,m
+,Q72060134,Melemstra√üe,+
+,Q464552,Melibocusstra√üe,
+,Q97003,Melli-Beese-Stra√üe,f
+,Q552495,Melsunger Stra√üe,
+,Q46096,Mendelssohnstra√üe,m
+,Q6353,Mercatorstra√üe,m
+,Q213701,Mergenthalerstra√üe,m
 ,Q57968,Merianplatz,m
-,Q57968,Merianstraﬂe,m
-,Q98009,Mertonstraﬂe,m
+,Q57968,Merianstra√üe,m
+,Q98009,Mertonstra√üe,m
 ,Q16130,Merziger Weg,
 ,Q73131,Messelweg,m
-,Q817620,Metzlerstraﬂe,m
-way,Q1448265,Metzstraﬂe,m
-,Q45581,Michaelstraﬂe,m
-,,Michael-Stumpf-Straﬂe,m
-way,Q1042305,Mierendorffstraﬂe,m
-,Q525001,Milseburgstraﬂe,
-,Q502681,Miltenberger Straﬂe,
+,Q817620,Metzlerstra√üe,m
+way,Q1448265,Metzstra√üe,m
+,Q45581,Michaelstra√üe,m
+,,Michael-Stumpf-Stra√üe,m
+way,Q1042305,Mierendorffstra√üe,m
+,Q525001,Milseburgstra√üe,
+,Q502681,Miltenberger Stra√üe,
 way,Q63882,Miquelallee und Miquelanlage,m
-,Q6497135,Mithrasstraﬂe,m
+,Q6497135,Mithrasstra√üe,m
 ,Q67449;Q77809,Mitscherlichplatz,+
 ,,Mittelweg,
 ,Q16293904,Mittlerer Schafhofweg,
-,,Mockst‰dter Straﬂe,
+,,Mockst√§dter Stra√üe,
 ,Q317819,Mombacher Weg,
-,,Mˆnchhofstraﬂe,
-,,Monchstraﬂe,m
+,,M√∂nchhofstra√üe,
+,,Monchstra√üe,m
 ,Q296,Monetweg,m
-,,Monisstraﬂe,+
-,Q632991,Montabaurer Straﬂe,
+,,Monisstra√üe,+
+,Q632991,Montabaurer Stra√üe,
 ,Q193751,Montgolfier-Allee,+
-,Q16007,Mˆrfelder Landstraﬂe,
-,Q1695336,Morgensternstraﬂe,m
-way,Q63699,Mˆrikestraﬂe,m
-,Q75698,Morsestraﬂe,m
-,Q1667,Moselstraﬂe,
-way,Q1463898,Motzstraﬂe,m
-,Q761310,Mousonstraﬂe,m
+,Q16007,M√∂rfelder Landstra√üe,
+,Q1695336,Morgensternstra√üe,m
+way,Q63699,M√∂rikestra√üe,m
+,Q75698,Morsestra√üe,m
+,Q1667,Moselstra√üe,
+way,Q1463898,Motzstra√üe,m
+,Q761310,Mousonstra√üe,m
 ,Q254,Mozartplatz,m
-,Q975223,Muckermannstraﬂe,m
-,,M¸hlbruchstraﬂe,
-,Q639902,M¸hlheimer Straﬂe,
-,,M¸hlweg,
-,,M¸hlwehrstraﬂe,
-,,M¸hlwiesenstraﬂe,
-,,Mulanskystraﬂe,m
-,Q72060185,M¸llerstraﬂe,m
-,Q447072,M¸mlingstraﬂe,
-way,Q102860,Mumm-von-Schwarzenstein-Straﬂe,m
-,Q1726,M¸nchener Straﬂe,
-,Q2740268,M¸nsterer Straﬂe,
-,Q2740268,M¸nsterer Weg,
-,Q570892,M¸nzenberger Straﬂe,
-,,M¸nzgasse,
+,Q975223,Muckermannstra√üe,m
+,,M√ºhlbruchstra√üe,
+,Q639902,M√ºhlheimer Stra√üe,
+,,M√ºhlweg,
+,,M√ºhlwehrstra√üe,
+,,M√ºhlwiesenstra√üe,
+,,Mulanskystra√üe,m
+,Q72060185,M√ºllerstra√üe,m
+,Q447072,M√ºmlingstra√üe,
+way,Q102860,Mumm-von-Schwarzenstein-Stra√üe,m
+,Q1726,M√ºnchener Stra√üe,
+,Q2740268,M√ºnsterer Stra√üe,
+,Q2740268,M√ºnsterer Weg,
+,Q570892,M√ºnzenberger Stra√üe,
+,,M√ºnzgasse,
 ,,Musikantenweg,
-,Q3725942,Myliusstraﬂe,m
+,Q3725942,Myliusstra√üe,m
 ,Q1322268,Nach dem Brand,
-,Q168696,Nahestraﬂe,
+,Q168696,Nahestra√üe,
 ,Q72292,Nansenring,m
-,Q158216,Nassauer Straﬂe,
-,,Nathan-Trier-Straﬂe,m
-,Q16105,Nauheimer Straﬂe,
-way,Q214591,Nebeniusstraﬂe,m
-,Q1673,Neckarstraﬂe,
-way,Q1486432,Neebstraﬂe,m
-,Q76702,Nell-Breuning-Straﬂe,m
+,Q158216,Nassauer Stra√üe,
+,,Nathan-Trier-Stra√üe,m
+,Q16105,Nauheimer Stra√üe,
+way,Q214591,Nebeniusstra√üe,m
+,Q1673,Neckarstra√üe,
+way,Q1486432,Neebstra√üe,m
+,Q76702,Nell-Breuning-Stra√üe,m
 ,Q57074,Nelly-Sachs-Platz,f
-,Q2574314,Nesenstraﬂe,m
-,,Nesselbuschstraﬂe,
+,Q2574314,Nesenstra√üe,m
+,,Nesselbuschstra√üe,
 ,,Neue Gasse,
-,,Neue Kr‰me,
-,Q1720,Neue Mainzer Straﬂe,
-,,Neue Rothofstraﬂe,
+,,Neue Kr√§me,
+,Q1720,Neue Mainzer Stra√üe,
+,,Neue Rothofstra√üe,
 ,,Neue Schlesingergasse,
-,Q1405160,Neuenhainer Straﬂe,
-,Q213595,Neuer Bˆrneplatz,m
+,Q1405160,Neuenhainer Stra√üe,
+,Q213595,Neuer B√∂rneplatz,m
 ,,Neuer Wall,
-,,Neuhauﬂstraﬂe,+
-,,Neuhofstraﬂe,
-,,Neumannstraﬂe,+
+,,Neuhau√üstra√üe,+
+,,Neuhofstra√üe,
+,,Neumannstra√üe,+
 ,Q6880,Neunkircher Weg,
 ,Q1093934,Nibelungenallee,
 ,Q1093934,Nibelungenplatz,
 ,Q834452,Nidacorso,
 ,Q834452,Nidaforum,
-,Q1533241,Niddagaustraﬂe,
-,Q540743,Nidderauer Straﬂe,
+,Q1533241,Niddagaustra√üe,
+,Q540743,Nidderauer Stra√üe,
 ,,Niedergasse,
-,Q427360,Niedernhauser Straﬂe,
+,Q427360,Niedernhauser Stra√üe,
 ,Q1988432,Niederschelder Weg,
-,Q680403,Niersteiner Straﬂe,
-,,Nikolaus-Brum-Straﬂe,m
-,Q44269,Nikolausstraﬂe,m
+,Q680403,Niersteiner Stra√üe,
+,,Nikolaus-Brum-Stra√üe,m
+,Q44269,Nikolausstra√üe,m
 way,Q26401725,Nina-Rubinstein-Weg,f
 ,Q314455,Nistergasse,
 ,Q23810,Nobelring,m
 ,,Nonnenpfad,
 way,Q118244,Norbert-Wollheim-Platz,m
-,Q55899703,Nordheimstraﬂe,m
-,Q489902,Nˆrdlinger Weg,
-,Q182382,N¸rburgstraﬂe,
-,Q2090,N¸rnberger Hof,
-,,Nuﬂgartenstraﬂe,
+,Q55899703,Nordheimstra√üe,m
+,Q489902,N√∂rdlinger Weg,
+,Q182382,N√ºrburgstra√üe,
+,Q2090,N√ºrnberger Hof,
+,,Nu√ügartenstra√üe,
 ,Q105061762,Obere Burggasse,
 ,Q16293904,Oberer Schafhofweg,
-,Q1570397,Oberfeldstraﬂe,
-,Q2009898,Oberhˆchst‰dter Weg,
+,Q1570397,Oberfeldstra√üe,
+,Q2009898,Oberh√∂chst√§dter Weg,
 ,,Oberlindau,
-,,Oberm¸hlgasse,
-,Q2010546,Obernhainer Straﬂe,
+,,Oberm√ºhlgasse,
+,Q2010546,Obernhainer Stra√üe,
 ,Q1743172,Oberschelder Weg,
-,Q569628,Obertsh‰user Weg,
+,Q569628,Obertsh√§user Weg,
 ,Q7044,Oberurseler Weg,
 ,Q1570397,Oberweid,
-,Q8359,Odenwaldstraﬂe,
+,Q8359,Odenwaldstra√üe,
 ,Q95673747,Odina-Bott-Platz,f
-,Q72060230,Odrellstraﬂe,m
+,Q72060230,Odrellstra√üe,m
 ,Q1238577;Q2719403,Oeder Weg,
-,Q95909,Oeserstraﬂe,m
+,Q95909,Oeserstra√üe,m
 ,Q2015283,Oestricher Weg,
-,Q3042,Offenbacher Landstraﬂe,
+,Q3042,Offenbacher Landstra√üe,
 ,,Ohlengarten,+
-,Q1585,Ohmstraﬂe,m
-,Q1670883,Okrifteler Straﬂe,
-,Q44911,Olbrichstraﬂe,m
-,Q53713,Olof-Palme-Straﬂe,m
+,Q1585,Ohmstra√üe,m
+,Q1670883,Okrifteler Stra√üe,
+,Q44911,Olbrichstra√üe,m
+,Q53713,Olof-Palme-Stra√üe,m
 ,Q436079,Opernplatz,
 ,Q212334,Oppauer Weg,
-,Q518690,Oppenheimer Landstraﬂe,
-,Q155483,Oranienstraﬂe,+
-,Q574465,Orber Straﬂe,
-,Q622509,Ortenberger Straﬂe,
-,Q31866852,Orthstraﬂe,m
-,Q60029,Oskar-Schindler-Straﬂe,m
-,Q1704033,Oskar-Sommer-Straﬂe,m
-,Q76456,Oskar-von-Miller-Straﬂe,m
-,Q76358,Ossietzkystraﬂe,m
-,Q2035835,Ostparkstraﬂe,
-,Q103801,Ostpreuﬂenstraﬂe,
-,Q55676420,Oswaltstraﬂe,m
+,Q518690,Oppenheimer Landstra√üe,
+,Q155483,Oranienstra√üe,+
+,Q574465,Orber Stra√üe,
+,Q622509,Ortenberger Stra√üe,
+,Q31866852,Orthstra√üe,m
+,Q60029,Oskar-Schindler-Stra√üe,m
+,Q1704033,Oskar-Sommer-Stra√üe,m
+,Q76456,Oskar-von-Miller-Stra√üe,m
+,Q76358,Ossietzkystra√üe,m
+,Q2035835,Ostparkstra√üe,
+,Q103801,Ostpreu√üenstra√üe,
+,Q55676420,Oswaltstra√üe,m
 ,Q69311,Ottilie-Wildermuth-Weg,f
-way,Q2038352,Otto-Brenner-Straﬂe,m
+way,Q2038352,Otto-Brenner-Stra√üe,m
 ,Q94794619,Otto-Ernst-Weg,m
 ,Q47532212,Otto-Fleck-Schneise,m
 ,Q57065,Otto-Hahn-Platz,m
-,,Otto-Horn-Straﬂe,m
-way,Q1408154,Otto-Loewe-Straﬂe,m
-,Q94784812,Otto-Meﬂmer-Straﬂe,m
-,Q72357,Otto-Schott-Straﬂe,m
-,Q43915,Ottostraﬂe,m
-,Q569095,Otzbergstraﬂe,
-way,Q107758,Overbergstraﬂe,m
-,Q72060255,Palleskestraﬂe,m
-,Q663149,Palmengartenstraﬂe,
-,Q67162,Palmstraﬂe,m
-,Q98701,Paquetstraﬂe,m
+,,Otto-Horn-Stra√üe,m
+way,Q1408154,Otto-Loewe-Stra√üe,m
+,Q94784812,Otto-Me√ümer-Stra√üe,m
+,Q72357,Otto-Schott-Stra√üe,m
+,Q43915,Ottostra√üe,m
+,Q569095,Otzbergstra√üe,
+way,Q107758,Overbergstra√üe,m
+,Q72060255,Palleskestra√üe,m
+,Q663149,Palmengartenstra√üe,
+,Q67162,Palmstra√üe,m
+,Q98701,Paquetstra√üe,m
 ,Q2283914,Paradiesgasse,m
 ,Q157638,Parlamentsplatz,
-,Q157638,Parlamentsstraﬂe,
+,Q157638,Parlamentsstra√üe,
 ,,Parrotweg,m
-,Q86573,Parsevalstraﬂe,m
-,Q73347,Passavantstraﬂe,m
-,Q1648771,Paul-Apel-Straﬂe,m
+,Q86573,Parsevalstra√üe,m
+,Q73347,Passavantstra√üe,m
+,Q1648771,Paul-Apel-Stra√üe,m
 ,Q2058741,Paul-Arnsberg-Platz,m
-,,Paul-Bode-Straﬂe,m
-,Q57089,Paul-Ehrlich-Straﬂe,m
+,,Paul-Bode-Stra√üe,m
+,Q57089,Paul-Ehrlich-Stra√üe,m
 ,Q76331,Paul-Gerhardt-Ring,m
-,Q76487,Paul-Heyse-Straﬂe,m
+,Q76487,Paul-Heyse-Stra√üe,m
 ,Q57244,Paul-Hindemith-Anlage,m
-,Q18026925,Paulistraﬂe,m
+,Q18026925,Paulistra√üe,m
 ,,Paul-Kirchhof-Platz,m
 way,Q102799,Paul-Kornfeld-Weg,m
-,,Paul-Schwerin-Straﬂe,m
+,,Paul-Schwerin-Stra√üe,m
 ,Q198106,Paulsplatz,
-,Q60104,Paul-Tillich-Straﬂe,m
+,Q60104,Paul-Tillich-Stra√üe,m
 ,,Paul-Wempe-Allee,m
 way,Q105428,Pestalozziplatz,m
-way,Q105428,Pestalozzistraﬂe,m
-,Q76726,Peter-Behrens-Straﬂe,m
-way,Q105069427,Peter-Bied-Straﬂe,m
-,Q7173116,Peter-Bˆhler-Straﬂe,m
+way,Q105428,Pestalozzistra√üe,m
+,Q76726,Peter-Behrens-Stra√üe,m
+way,Q105069427,Peter-Bied-Stra√üe,m
+,Q7173116,Peter-B√∂hler-Stra√üe,m
 ,,Peter-Fischer-Allee,m
-way,Q61218,Peter-Henlein-Straﬂe,m
-,Q1247627,Petersstraﬂe,
-,Q215838,Peter-Zenger-Straﬂe,m
-,Q804757,Petterweilstraﬂe,m
+way,Q61218,Peter-Henlein-Stra√üe,m
+,Q1247627,Petersstra√üe,
+,Q215838,Peter-Zenger-Stra√üe,m
+,Q804757,Petterweilstra√üe,m
 ,,Pfaffenwiese,
-,Q326359,Pf‰lzer Straﬂe,
-,,Pfannm¸llerstraﬂe,m
+,Q326359,Pf√§lzer Stra√üe,
+,,Pfannm√ºllerstra√üe,m
 ,Q60835797,Pfarrer-Perabo-Platz,m
-,,Pfeiferstraﬂe,+
+,,Pfeiferstra√üe,+
 ,Q1563381,Pferdskopfweg,
-,Q39864,Pfingstbrunnenstraﬂe,
-,Q39864,Pfingstweidstraﬂe,
+,Q39864,Pfingstbrunnenstra√üe,
+,Q39864,Pfingstweidstra√üe,
 ,Q11464,Pflugspfad,
-,,Pflugstraﬂe,+
+,,Pflugstra√üe,+
 ,,Pfortengartenweg,
-,Q3046,Pforzheimer Straﬂe,
-,Q710962,Pfungststraﬂe,m
-,,Philipp-Fleck-Straﬂe,m
+,Q3046,Pforzheimer Stra√üe,
+,Q710962,Pfungststra√üe,m
+,,Philipp-Fleck-Stra√üe,m
 way,Q1112030,Philipp-Holzmann-Weg,m
 ,,Philippine-Schulz-Weg,f
-,,Philipp-Puth-Straﬂe,m
-,Q77124,Philipp-Reis-Straﬂe,m
-,,Philipp-Schnell-Straﬂe,m
-,Q875810;Q90186,Philippsruher Straﬂe,m
-,Q14849,Pirmasenser Straﬂe,
+,,Philipp-Puth-Stra√üe,m
+,Q77124,Philipp-Reis-Stra√üe,m
+,,Philipp-Schnell-Stra√üe,m
+,Q875810;Q90186,Philippsruher Stra√üe,m
+,Q14849,Pirmasenser Stra√üe,
 way,Q134741,Pissarroweg,m
-,Q62432,Platenstraﬂe,m
+,Q62432,Platenstra√üe,m
 ,Q41304,Platz der Republik,
 ,,Plessengasse,+
-,Q21559224,Plieningerstraﬂe,m
-,,Polizeimeister-Kaspar-Straﬂe,m
-,Q104520,Pommernstraﬂe,
-,,Porthstraﬂe,+
-,,Porzellanhofstraﬂe,
-,,Pr‰chterstraﬂe,+
-,Q1085,Prager Straﬂe,
-way,Q113077,Prieﬂnitzstraﬂe,m
-,,Prieststraﬂe,m
+,Q21559224,Plieningerstra√üe,m
+,,Polizeimeister-Kaspar-Stra√üe,m
+,Q104520,Pommernstra√üe,
+,,Porthstra√üe,+
+,,Porzellanhofstra√üe,
+,,Pr√§chterstra√üe,+
+,Q1085,Prager Stra√üe,
+way,Q113077,Prie√ünitzstra√üe,m
+,,Prieststra√üe,m
 ,Q1545313,Propst-Goebels-Weg,m
-way,Q1449787,P¸tzerstraﬂe,m
-,Q170208,Qu‰kerplatz,
-,,Querstraﬂe,
-,,Quirinsstraﬂe,m
-way,Q60647,Raabestraﬂe,m
+way,Q1449787,P√ºtzerstra√üe,m
+,Q170208,Qu√§kerplatz,
+,,Querstra√üe,
+,,Quirinsstra√üe,m
+way,Q60647,Raabestra√üe,m
 ,,Rabenkopfweg,
-,,Radilostraﬂe,m
-,,Rahmhofstraﬂe,
-way,Q45141,Raiffeisenstraﬂe,m
-,Q45025,Raimundstraﬂe,m
-,,Rangenbergstraﬂe,
-,,Rappstraﬂe,m
+,,Radilostra√üe,m
+,,Rahmhofstra√üe,
+way,Q45141,Raiffeisenstra√üe,m
+,Q45025,Raimundstra√üe,m
+,,Rangenbergstra√üe,
+,,Rappstra√üe,m
 ,,Rapunzelgasse,
 ,,Rasselweg,
-,Q1692218,Rat-Beil-Straﬂe,m
+,Q1692218,Rat-Beil-Stra√üe,m
 ,Q2132613,Rathausgasse,
 way,Q135645,Rathenauplatz,m
 ,Q2133139,Rauenthaler Weg,
 ,,Raugasse,+
-,,Rauschenbachstraﬂe,m
-,Q627435,Rauschenberger Straﬂe,
-way,Q1458237,Ravensteinstraﬂe,m
-,,Rebg‰rten,
-,Q1622897,Rebstˆcker Straﬂe,
-,Q1622897,Rebstˆcker Weg,
-,,Rechneigrabenstraﬂe,
-,,Reichelstraﬂe,m
-,Q2139177,Reichenbacher Straﬂe,
-,Q2179315,Reichsburgstraﬂe,
-,,Reichsforststraﬂe,
-,Q1550132,Reifenberger Straﬂe,
+,,Rauschenbachstra√üe,m
+,Q627435,Rauschenberger Stra√üe,
+way,Q1458237,Ravensteinstra√üe,m
+,,Rebg√§rten,
+,Q1622897,Rebst√∂cker Stra√üe,
+,Q1622897,Rebst√∂cker Weg,
+,,Rechneigrabenstra√üe,
+,,Reichelstra√üe,m
+,Q2139177,Reichenbacher Stra√üe,
+,Q2179315,Reichsburgstra√üe,
+,,Reichsforststra√üe,
+,Q1550132,Reifenberger Stra√üe,
 ,Q519454,Reinborner Weg,
-,Q68936871,Reineckstraﬂe,+
-way,Q1318777,Reinganumstraﬂe,m
-,,Reinhardstraﬂe,+
-,Q5598,Rembrandtstraﬂe,m
-,Q2143835,Rendeler Straﬂe,
-,Q2299367,Renettenstraﬂe,
-,Q519450,Renneroder Straﬂe,
+,Q68936871,Reineckstra√üe,+
+way,Q1318777,Reinganumstra√üe,m
+,,Reinhardstra√üe,+
+,Q5598,Rembrandtstra√üe,m
+,Q2143835,Rendeler Stra√üe,
+,Q2299367,Renettenstra√üe,
+,Q519450,Renneroder Stra√üe,
 ,Q139056,Rennsteig,
 ,Q39931,Renoirallee,m
-,Q67036,Rethelstraﬂe,m
+,Q67036,Rethelstra√üe,m
 ,,Reuterweg,
 ,,Reversbrunnenweg,
-,,Rhaban-Frˆhlich-Straﬂe,m
-,Q152243,Rheinlandstraﬂe,
-,Q584,Rheinstraﬂe,
-,Q602,Rhonestraﬂe,
-,Q148988,Rhˆnstraﬂe,
+,,Rhaban-Fr√∂hlich-Stra√üe,m
+,Q152243,Rheinlandstra√üe,
+,Q584,Rheinstra√üe,
+,Q602,Rhonestra√üe,
+,Q148988,Rh√∂nstra√üe,
 ,Q22691,Ribisweg,
-way,Q60785,Ricarda-Huch-Straﬂe,f
+way,Q60785,Ricarda-Huch-Stra√üe,f
 way,Q2149080,Richard-Biringer-Weg,m
-,Q88753,Richard-Breitenfeld-Straﬂe,m
+,Q88753,Richard-Breitenfeld-Stra√üe,m
 ,Q708145,Richard-Herrmann-Platz,m
-way,Q13894,Richard-Strauﬂ-Allee,m
-,Q1511,Richard-Wagner-Straﬂe,m
+way,Q13894,Richard-Strau√ü-Allee,m
+,Q1511,Richard-Wagner-Stra√üe,m
 ,Q94843579,Richard-Weidlich-Platz,m
-,,Ricky-Adler-Straﬂe,m
+,,Ricky-Adler-Stra√üe,m
 ,,Riedbergallee,
-,Q1405385,Riederhofstraﬂe,
-,,Riederspieﬂstraﬂe,
-,,Riedhalsstraﬂe,
+,Q1405385,Riederhofstra√üe,
+,,Riederspie√üstra√üe,
+,,Riedhalsstra√üe,
 ,,Riedhofweg,
-,Q76483,Rilkestraﬂe,m
-,Q552038,Ringelnatzg‰sschen,m
-,,Ringelstraﬂe,
+,Q76483,Rilkestra√üe,m
+,Q552038,Ringelnatzg√§sschen,m
+,,Ringelstra√üe,
 ,,Risselsteinweg,
-,Q2154926,Rita-Maiburg-Straﬂe,f
-,Q214977,Robert-Blum-Straﬂe,m
-,Q71032,Robert-Bosch-Straﬂe,m
-,Q71031,Robert-Bunsen-Straﬂe,m
-,Q2156890,Robert-Diﬂmann-Straﬂe,m
-,Q70300,Robert-Gernhardt-Br¸cke,m
+,Q2154926,Rita-Maiburg-Stra√üe,f
+,Q214977,Robert-Blum-Stra√üe,m
+,Q71032,Robert-Bosch-Stra√üe,m
+,Q71031,Robert-Bunsen-Stra√üe,m
+,Q2156890,Robert-Di√ümann-Stra√üe,m
+,Q70300,Robert-Gernhardt-Br√ºcke,m
 ,Q37193,Robert-Koch-Allee,m
-,Q57171,Robert-Mayer-Straﬂe,m
-,,Robert-Schnitzer-Straﬂe,m
-way,Q63695,Rodbertusstraﬂe,m
-,Q314187,Rˆdelheimer Landstraﬂe,
-,Q314187,Rˆdelheimer Parkweg,
-,,Rˆderbergweg,
-,,Rˆderichstraﬂe,m
-,Q1666677,Rodheimer Straﬂe,
-,,Rohlederstraﬂe,m
+,Q57171,Robert-Mayer-Stra√üe,m
+,,Robert-Schnitzer-Stra√üe,m
+way,Q63695,Rodbertusstra√üe,m
+,Q314187,R√∂delheimer Landstra√üe,
+,Q314187,R√∂delheimer Parkweg,
+,,R√∂derbergweg,
+,,R√∂derichstra√üe,m
+,Q1666677,Rodheimer Stra√üe,
+,,Rohlederstra√üe,m
 ,,Rohmerplatz,m
-,,Rohmerstraﬂe,m
-,,Rohrbachstraﬂe,+
-,,Rˆhrborngasse,
-,,Rombergstraﬂe,
-,Q175771,Romroder Straﬂe,
-,Q622215,Ronneburgstraﬂe,
-,Q35149,Rˆntgenstraﬂe,m
-way,Q7231,Rosa-Luxemburg-Straﬂe,f
+,,Rohmerstra√üe,m
+,,Rohrbachstra√üe,+
+,,R√∂hrborngasse,
+,,Rombergstra√üe,
+,Q175771,Romroder Stra√üe,
+,Q622215,Ronneburgstra√üe,
+,Q35149,R√∂ntgenstra√üe,m
+way,Q7231,Rosa-Luxemburg-Stra√üe,f
 way,Q105367403,Rosa-Marx-Weg,f
-way,Q93841,Roseggerstraﬂe,m
-,,Rosenbergerstraﬂe,f
-,Q99783,Rose-Schlˆsinger-Anlage,f
-,,Roﬂbachstraﬂe,m
-,Q1727287,Roﬂdorfer Straﬂe,
-,Q2167693,Rossertstraﬂe,
-,Q1141723,Rossittener Straﬂe,
-,Q2171357,Roﬂkopfstraﬂe,
-,,Roﬂmarkt,
-,Q2861,Rostocker Straﬂe,
+way,Q93841,Roseggerstra√üe,m
+,,Rosenbergerstra√üe,f
+,Q99783,Rose-Schl√∂singer-Anlage,f
+,,Ro√übachstra√üe,m
+,Q1727287,Ro√üdorfer Stra√üe,
+,Q2167693,Rossertstra√üe,
+,Q1141723,Rossittener Stra√üe,
+,Q2171357,Ro√ükopfstra√üe,
+,,Ro√ümarkt,
+,Q2861,Rostocker Stra√üe,
 ,,Rotenbuschweg,
 ,Q76988,Rothschildallee,m
-,,Rotlintstraﬂe,f
-,Q213943,Rotteckstraﬂe,m
+,,Rotlintstra√üe,f
+,Q213943,Rotteckstra√üe,m
 ,Q82960,Rottweiler Platz,
-,Q82960,Rottweiler Straﬂe,
-,Q5599,Rubensstraﬂe,m
-,Q60644,R¸ckertstraﬂe,m
-,Q2172330,Rudolf-Amthauer-Straﬂe,m
-,Q70890,Rudolf-Breitscheid-Straﬂe,m
-,Q57848,Rudolf-Hilferding-Straﬂe,m
+,Q82960,Rottweiler Stra√üe,
+,Q5599,Rubensstra√üe,m
+,Q60644,R√ºckertstra√üe,m
+,Q2172330,Rudolf-Amthauer-Stra√üe,m
+,Q70890,Rudolf-Breitscheid-Stra√üe,m
+,Q57848,Rudolf-Hilferding-Stra√üe,m
 ,Q1749135,Rudolf-Menzer-Anlage,m
-way,Q1593671,Rudolf-Presber-Straﬂe,m
-,Q2173791,Rudolf-Sch‰fer-Anlage,m
+way,Q1593671,Rudolf-Presber-Stra√üe,m
+,Q2173791,Rudolf-Sch√§fer-Anlage,m
 ,Q97133,Rudolf-Schwarz-Platz,m
-,Q76956,Rudolfstraﬂe,m
-way,Q1253884,Rugierstraﬂe,+
-,,R¸hlstraﬂe,m
-,Q368434,R¸melinstraﬂe,m
-,Q635806,Runkeler Straﬂe,
-,Q1281901,Ruppertshainer Straﬂe,
-,Q57326,Ruprechtstraﬂe,m
-,Q4031,R¸sselsheimer Straﬂe,
-,Q55914932,Russingerstraﬂe,m
-,,R¸sterstraﬂe,
-,Q91649,Ruth-Moufang-Straﬂe,f
+,Q76956,Rudolfstra√üe,m
+way,Q1253884,Rugierstra√üe,+
+,,R√ºhlstra√üe,m
+,Q368434,R√ºmelinstra√üe,m
+,Q635806,Runkeler Stra√üe,
+,Q1281901,Ruppertshainer Stra√üe,
+,Q57326,Ruprechtstra√üe,m
+,Q4031,R√ºsselsheimer Stra√üe,
+,Q55914932,Russingerstra√üe,m
+,,R√ºsterstra√üe,
+,Q91649,Ruth-Moufang-Stra√üe,f
 ,Q542329,Saalburgallee,
-,Q542329,Saalburgstraﬂe,
-,Q155984,Saalfelder Straﬂe,
+,Q542329,Saalburgstra√üe,
+,Q155984,Saalfelder Stra√üe,
 ,Q1439172,Saalgasse,
-,Q1724,Saarbr¸cker Straﬂe,
-,Q151535,Sachsenh‰user Landwehrweg,
-,Q151535,Sachsenh‰user Ufer,
-,Q151535,Sachsenh‰user Warte,
+,Q1724,Saarbr√ºcker Stra√üe,
+,Q151535,Sachsenh√§user Landwehrweg,
+,Q151535,Sachsenh√§user Ufer,
+,Q151535,Sachsenh√§user Warte,
 ,,Sackgasse,
-,Q2214823,Salm¸nsterer Straﬂe,
-,Q624093,Salzschlirfer Straﬂe,
+,Q2214823,Salm√ºnsterer Stra√üe,
+,Q624093,Salzschlirfer Stra√üe,
 ,,Samstagsberg,
 ,Q16293904,Sandgasse,
-,Q16293904,Sandhˆfer Allee,
-,Q16293904,Sandhˆfer Wiesen,
-,Q16293904,Sandhofstraﬂe,
-,,Sandplackenstraﬂe,
+,Q16293904,Sandh√∂fer Allee,
+,Q16293904,Sandh√∂fer Wiesen,
+,Q16293904,Sandhofstra√üe,
+,,Sandplackenstra√üe,
 ,,Sandweg,
-,Q187834,Saonestraﬂe,
+,Q187834,Saonestra√üe,
 ,,Sauerackerweg,m
-,Q19278903,Sauerstraﬂe,m
-,Q76892,Savignystraﬂe,m
-,Q550815,Schadowstraﬂe,m
-,,Sch‰fergasse,
-,,Sch‰fers G‰rten,+
-way,Q70650,Sch‰fflestraﬂe,m
-,,Schalksbornstraﬂe,
+,Q19278903,Sauerstra√üe,m
+,Q76892,Savignystra√üe,m
+,Q550815,Schadowstra√üe,m
+,,Sch√§fergasse,
+,,Sch√§fers G√§rten,+
+way,Q70650,Sch√§fflestra√üe,m
+,,Schalksbornstra√üe,
 ,,Schalkwiesenweg,
-,,Sch‰rfeng‰ﬂchen,
-,,Schaubstraﬂe,m
+,,Sch√§rfeng√§√üchen,
+,,Schaubstra√üe,m
 ,,Schaumainkai,
-,Q445892,Schaumburger Straﬂe,+
-,Q9082,Scheffelstraﬂe,m
-,,Scheidstraﬂe,+
-,,Scheidswaldstraﬂe,
-,Q21544305,Schellenbergstraﬂe,m
-,Q60070,Schellingstraﬂe,m
+,Q445892,Schaumburger Stra√üe,+
+,Q9082,Scheffelstra√üe,m
+,,Scheidstra√üe,+
+,,Scheidswaldstra√üe,
+,Q21544305,Schellenbergstra√üe,m
+,Q60070,Schellingstra√üe,m
 ,Q2233111,Schelmenburgplatz,+
 ,Q2233111,Schelmenweg,+
-,Q1539094,Schenckstraﬂe,m
-,Q71616,Schenkendorfstraﬂe,m
-,,Schifferstraﬂe,
-,Q22670,Schillerstraﬂe,m
+,Q1539094,Schenckstra√üe,m
+,Q71616,Schenkendorfstra√üe,m
+,,Schifferstra√üe,
+,Q22670,Schillerstra√üe,m
 ,Q129018,Schlehenweg,
-,Q76747,Schleidenstraﬂe,m
-way,Q1692462,Schlettweinstraﬂe,m
-,Q1735093,Schlickstraﬂe,m
-,Q27329688,Schliephakestraﬂe,m
+,Q76747,Schleidenstra√üe,m
+way,Q1692462,Schlettweinstra√üe,m
+,Q1735093,Schlickstra√üe,m
+,Q27329688,Schliephakestra√üe,m
 ,Q129018,Schlinkenweg,
-,Q828314,Schloﬂborner Straﬂe,
-,,Schloﬂstraﬂe,
-,Q2078127,Schmickbr¸cke,m
-,Q2078127,Schmickstraﬂe,m
-,,Schmidtstraﬂe,m
+,Q828314,Schlo√üborner Stra√üe,
+,,Schlo√üstra√üe,
+,Q2078127,Schmickbr√ºcke,m
+,Q2078127,Schmickstra√üe,m
+,,Schmidtstra√üe,m
 ,,Schnurgasse,
-,,Schˆnbornstraﬂe,+
-,Q214012,Schˆnstraﬂe,m
-,Q17310130,Schˆnwetterstraﬂe,m
-,Q26368,Schottener Straﬂe,
+,,Sch√∂nbornstra√üe,+
+,Q214012,Sch√∂nstra√üe,m
+,Q17310130,Sch√∂nwetterstra√üe,m
+,Q26368,Schottener Stra√üe,
 ,Q153160,Schreberweg,m
-,Q364184,Schreyerstraﬂe,m
+,Q364184,Schreyerstra√üe,m
 ,,Schuhgasse,
-way,Q215961,Schulze-Delitzsch-Straﬂe,m
-,,Sch¸ttenhelmweg,m
-,,Sch¸tzenstraﬂe,
-,,Schwabstraﬂe,m
-,Q632432,Schwalbacher Straﬂe,
-,Q314381,Schwanheimer Bahnstraﬂe,
-,Q64615,Schwarzburgstraﬂe,m
-,Q4204,Schwarzwaldstraﬂe,
+way,Q215961,Schulze-Delitzsch-Stra√üe,m
+,,Sch√ºttenhelmweg,m
+,,Sch√ºtzenstra√üe,
+,,Schwabstra√üe,m
+,Q632432,Schwalbacher Stra√üe,
+,Q314381,Schwanheimer Bahnstra√üe,
+,Q64615,Schwarzburgstra√üe,m
+,Q4204,Schwarzwaldstra√üe,
 ,,Schwedenkronenplatz,
 ,Q2487,Schwedenpfad,
-,Q99362,Schwedlerbr¸cke,m
-,Q99362,Schwedlerstraﬂe,m
-,Q39,Schweizer Straﬂe,
+,Q99362,Schwedlerbr√ºcke,m
+,Q99362,Schwedlerstra√üe,m
+,Q39,Schweizer Stra√üe,
 ,Q885444,Schwertfegergasse,
-,Q45075,Sebastian-Kneipp-Straﬂe,m
-,Q2263045,Sebastian-Rinz-Straﬂe,m
+,Q45075,Sebastian-Kneipp-Stra√üe,m
+,Q2263045,Sebastian-Rinz-Stra√üe,m
 ,Q314890,Seckbacher Bitzweg,
-,Q314890,Seckb‰cher Gasse,
+,Q314890,Seckb√§cher Gasse,
 ,Q314890,Seckbacher Klemmenweg,
-,Q314890,Seckbacher Landstraﬂe,
-,Q184371,Sedanstraﬂe,
+,Q314890,Seckbacher Landstra√üe,
+,Q184371,Sedanstra√üe,
 ,,Seegewann,
-,Q2264963,Seeheimer Straﬂe,
-,,Seehofstraﬂe,
+,Q2264963,Seeheimer Stra√üe,
+,,Seehofstra√üe,
 ,,Seehofsweg,
-,Q2265216,Seelenberger Straﬂe,
+,Q2265216,Seelenberger Stra√üe,
 ,,Seibertsgasse,+
 ,,Seilerbahn,
-,,Seilerstraﬂe,
-way,Q44519,Selma-Lagerlˆf-Straﬂe,f
+,,Seilerstra√üe,
+way,Q44519,Selma-Lagerl√∂f-Stra√üe,f
 ,Q98077,Senckenberganlage,m
 ,Q161048,Senefelderweg,m
-,Q1828900,Seulberger Straﬂe,
-,Q77451,Seumestraﬂe,m
-way,Q1442,Severusstraﬂe,m
+,Q1828900,Seulberger Stra√üe,
+,Q77451,Seumestra√üe,m
+way,Q1442,Severusstra√üe,m
 ,,Siboldgasse,m
-,Q170352,Siebenb¸rgenstraﬂe,+
-,Q3167,Siegener Straﬂe,
-,,Siegfried-Gˆﬂling-Weg,m
-,Q58577,Siemensstraﬂe,m
-,,Sieringstraﬂe,m
-,Q75994,Siesmayerstraﬂe,m
-,Q9215,Sigmund-Freud-Straﬂe,m
-,,Silberbornstraﬂe,+
-,Q700090,Silcherstraﬂe,m
-,,Silostraﬂe,
+,Q170352,Siebenb√ºrgenstra√üe,+
+,Q3167,Siegener Stra√üe,
+,,Siegfried-G√∂√üling-Weg,m
+,Q58577,Siemensstra√üe,m
+,,Sieringstra√üe,m
+,Q75994,Siesmayerstra√üe,m
+,Q9215,Sigmund-Freud-Stra√üe,m
+,,Silberbornstra√üe,+
+,Q700090,Silcherstra√üe,m
+,,Silostra√üe,
 ,Q8605,Simon-Bolivar-Anlage,m
-,,Simon-Ochs-Straﬂe,m
-,Q64856,Simsonstraﬂe,m
-,Q800773,Sindlinger Bahnstraﬂe,
+,,Simon-Ochs-Stra√üe,m
+,Q64856,Simsonstra√üe,m
+,Q800773,Sindlinger Bahnstra√üe,
 ,Q627276,Sinner Weg,
-way,Q119260,Siolistraﬂe,m
-,Q39785,Sodener Straﬂe,
+way,Q119260,Siolistra√üe,m
+,Q39785,Sodener Stra√üe,
 ,Q315397,Solmspark,+
-,Q315397,Solmsstraﬂe,+
-way,Q132197,Sˆmmerringstraﬂe,m
-,,Sondershausenstraﬂe,f
-way,Q216389,Sonnemannstraﬂe,m
-,Q549971,Sontraer Straﬂe,
-,Q2302569,Soonwaldstraﬂe,
-,Q70840,Sophienstraﬂe,f
-,,Sophie-Rosenthal-Straﬂe,f
+,Q315397,Solmsstra√üe,+
+way,Q132197,S√∂mmerringstra√üe,m
+,,Sondershausenstra√üe,f
+way,Q216389,Sonnemannstra√üe,m
+,Q549971,Sontraer Stra√üe,
+,Q2302569,Soonwaldstra√üe,
+,Q70840,Sophienstra√üe,f
+,,Sophie-Rosenthal-Stra√üe,f
 ,Q62404,Sophie-von-La-Roche-Weg,f
-,Q146521,Sorbenstraﬂe,
-way,Q1289999,Souchaystraﬂe,m
-,,Speckg‰ﬂchen,
+,Q146521,Sorbenstra√üe,
+way,Q1289999,Souchaystra√üe,m
+,,Speckg√§√üchen,
 ,,Speckgasse,
 ,,Speckweg,
 ,Q159558,Speierlingweg,
-way,Q311231,Spenerstraﬂe,m
-,Q182470,Spessartstraﬂe,
-,Q6829,Speyerer Straﬂe,
-way,Q1081948,Spielmannstraﬂe,m
+way,Q311231,Spenerstra√üe,m
+,Q182470,Spessartstra√üe,
+,Q6829,Speyerer Stra√üe,
+way,Q1081948,Spielmannstra√üe,m
 ,,Spielsgasse,
-,Q57226,Spohrstraﬂe,m
-,,St.-George-Straﬂe,m
-way,Q109963,St‰delstraﬂe,m
-way,Q1098828,Stalburgstraﬂe,m
-,Q106268,Stargarder Straﬂe,
-,Q2332860,Starkenburger Straﬂe,
-,Q1567088,Staufenstraﬂe,
-,Q78491,Stefan-Zweig-Straﬂe,m
-,Q63434,Stegerwaldstraﬂe,m
-,Q1313525,Stegstraﬂe,
-,,Stein‰ckerstraﬂe,
-,Q263974,Steinauer Straﬂe,
+,Q57226,Spohrstra√üe,m
+,,St.-George-Stra√üe,m
+way,Q109963,St√§delstra√üe,m
+way,Q1098828,Stalburgstra√üe,m
+,Q106268,Stargarder Stra√üe,
+,Q2332860,Starkenburger Stra√üe,
+,Q1567088,Staufenstra√üe,
+,Q78491,Stefan-Zweig-Stra√üe,m
+,Q63434,Stegerwaldstra√üe,m
+,Q1313525,Stegstra√üe,
+,,Stein√§ckerstra√üe,
+,Q263974,Steinauer Stra√üe,
 ,Q622573,Steinbacher Hohl,
 ,,Steingasse,
-,Q1691774,Steinhausenstraﬂe,m
+,Q1691774,Steinhausenstra√üe,m
 ,Q2341232,Steinkopfweg,
-,Q85077,Steinlestraﬂe,m
-,,Steinmetzstraﬂe,m
-,,Steinritzstraﬂe,
+,Q85077,Steinlestra√üe,m
+,,Steinmetzstra√üe,m
+,,Steinritzstra√üe,
 ,,Steinrutsch,
-,,Steinstraﬂe,
+,,Steinstra√üe,
 ,,Steinweg,
-,Q57773616,Stephan-Heise-Straﬂe,m
-,Q215482,Stephanstraﬂe,m
-way,Q133614,Stephensonstraﬂe,m
-,,Sterlepperstraﬂe,+
-,,Sternbr¸cke,
-,,Stettenstraﬂe,+
-,Q393,Stettiner Straﬂe,
-,,Steuernagelstraﬂe,m
-,Q2348559,Stierst‰dter Straﬂe,
-,Q1254043,Stiftstraﬂe,
-,Q1778152,Stockheimer Straﬂe,
-way,Q1462402,Stoltzestraﬂe,m
+,Q57773616,Stephan-Heise-Stra√üe,m
+,Q215482,Stephanstra√üe,m
+way,Q133614,Stephensonstra√üe,m
+,,Sterlepperstra√üe,+
+,,Sternbr√ºcke,
+,,Stettenstra√üe,+
+,Q393,Stettiner Stra√üe,
+,,Steuernagelstra√üe,m
+,Q2348559,Stierst√§dter Stra√üe,
+,Q1254043,Stiftstra√üe,
+,Q1778152,Stockheimer Stra√üe,
+way,Q1462402,Stoltzestra√üe,m
 ,,Storchgasse,
-,,Stˆrchleinsgasse,
+,,St√∂rchleinsgasse,
 ,Q2352972,Strahlenberger Hof,+
 ,Q2352972,Strahlenberger Weg,+
-,Q4065,Stralsunder Straﬂe,
-,Q6602,Straﬂburger Straﬂe,
+,Q4065,Stralsunder Stra√üe,
+,Q6602,Stra√üburger Stra√üe,
 way,Q103955,Stresemannallee,m
-,Q1576540,Stroofstraﬂe,m
-way,Q108294869,Strubbergstraﬂe,m
-,,Stupanusstraﬂe,m
-,Q1022,Stuttgarter Straﬂe,
-,,St¸tzel‰ckerweg,
-,Q663389,Sudetenstraﬂe,+
-,Q624417,Sulzbacher Straﬂe,
-,Q2161,Tacitusstraﬂe,m
+,Q1576540,Stroofstra√üe,m
+way,Q108294869,Strubbergstra√üe,m
+,,Stupanusstra√üe,m
+,Q1022,Stuttgarter Stra√üe,
+,,St√ºtzel√§ckerweg,
+,Q663389,Sudetenstra√üe,+
+,Q624417,Sulzbacher Stra√üe,
+,Q2161,Tacitusstra√üe,m
 ,Q147552,Tagetesweg,
 ,,Tannenkopfweg,
-,Q329833,Tarnowitzer Straﬂe,
-,Q1530755,Taschnerstraﬂe,
+,Q329833,Tarnowitzer Stra√üe,
+,Q1530755,Taschnerstra√üe,
 ,Q895530,Taufsteinweg,
 ,Q882275,Taunusanlage,
-,Q882275,Taunusstraﬂe,
+,Q882275,Taunusstra√üe,
 ,Q882275,Taunustor,
-,Q75854,Telemannstraﬂe,m
+,Q75854,Telemannstra√üe,m
 ,,Tempelgasse,
-,Q146342,Teplitz-Schˆnauer-Straﬂe,
-way,Q1479849,Tevesstraﬂe,m
-way,Q104106,Textorstraﬂe,m
-way,Q102453,Thea-Rasche-Straﬂe,f
-,Q998394,Theobald-Christ-Straﬂe,m
-,Q91527,Theobald-Ziegler-Straﬂe,m
+,Q146342,Teplitz-Sch√∂nauer-Stra√üe,
+way,Q1479849,Tevesstra√üe,m
+way,Q104106,Textorstra√üe,m
+way,Q102453,Thea-Rasche-Stra√üe,f
+,Q998394,Theobald-Christ-Stra√üe,m
+,Q91527,Theobald-Ziegler-Stra√üe,m
 ,Q61259,Theodor-Fischer-Weg,m
 way,Q107855,Theodor-Haubach-Weg,m
 ,Q2594,Theodor-Heuss-Allee,m
-,Q72060206,Theodor-Neub¸rger-Straﬂe,m
+,Q72060206,Theodor-Neub√ºrger-Stra√üe,m
 ,Q2418346,Theodor-Stern-Kai,m
-,Q26993,Theodor-Storm-Straﬂe,m
-,Q2418376,Theodor-Thomas-Straﬂe,m
+,Q26993,Theodor-Storm-Stra√üe,m
+,Q2418376,Theodor-Thomas-Stra√üe,m
 ,Q152388,Theodor-W.-Adorno-Platz,m
 ,,Therese-Herger-Anlage,f
-,Q98715,Thielenstraﬂe,m
-,,Thiotmannstraﬂe,m
+,Q98715,Thielenstra√üe,m
+,,Thiotmannstra√üe,m
 ,Q47812,Thorwaldsenplatz,m
-,Q47812,Thorwaldsenstraﬂe,m
-,Q1267457,Throner Straﬂe,
-,Q15832935,Thudichumstraﬂe,m
+,Q47812,Thorwaldsenstra√üe,m
+,Q1267457,Throner Stra√üe,
+,Q15832935,Thudichumstra√üe,m
 ,Q2116135,Thurn-und-Taxis-Platz,+
-way,Q1407,Tiberiusstraﬂe,m
+way,Q1407,Tiberiusstra√üe,m
 ,Q86614,Tilly-Edinger-Platz,f
-,Q155534,Tillystraﬂe,m
-,Q5647,Tilsiter Straﬂe,
-,Q896346,Tischbeinstraﬂe,+
+,Q155534,Tillystra√üe,m
+,Q5647,Tilsiter Stra√üe,
+,Q896346,Tischbeinstra√üe,+
 way,Q1421,Tituscorso,m
-way,Q1421,Titusstraﬂe,m
-,Q606480,Tˆngesgasse,
-,Q1658326,Toni-Sender-Straﬂe,f
-,,Tˆplitzstraﬂe,+
-,,Tornowstraﬂe,m
-way,Q1425,Trajanstraﬂe,m
-,Q1435624,Trakehner Straﬂe,
-,,Tr‰nkweg,
-,Q634084,Treburer Straﬂe,
-,Q2451216,Treisberger Straﬂe,
+way,Q1421,Titusstra√üe,m
+,Q606480,T√∂ngesgasse,
+,Q1658326,Toni-Sender-Stra√üe,f
+,,T√∂plitzstra√üe,+
+,,Tornowstra√üe,m
+way,Q1425,Trajanstra√üe,m
+,Q1435624,Trakehner Stra√üe,
+,,Tr√§nkweg,
+,Q634084,Treburer Stra√üe,
+,Q2451216,Treisberger Stra√üe,
 ,Q15139928,Treunerweg,+
-,,Triebstraﬂe,
-,Q559202,Trifelsstraﬂe,
-,,Triftstraﬂe,
-,,Tr¸mpertstraﬂe,m
-,Q57386,Tucholskystraﬂe,m
-,Q495,Turiner Straﬂe,
-,Q1698933,Turmstraﬂe,
-,Q332952,‹berlinger Weg,
-way,Q61058,Uhlandstraﬂe,m
-,Q15428534,Uhlfelderstraﬂe,m
-,Q131113,Ulmenstraﬂe,
-,Q82566734,Ulrichstraﬂe,+
+,,Triebstra√üe,
+,Q559202,Trifelsstra√üe,
+,,Triftstra√üe,
+,,Tr√ºmpertstra√üe,m
+,Q57386,Tucholskystra√üe,m
+,Q495,Turiner Stra√üe,
+,Q1698933,Turmstra√üe,
+,Q332952,√úberlinger Weg,
+way,Q61058,Uhlandstra√üe,m
+,Q15428534,Uhlfelderstra√üe,m
+,Q131113,Ulmenstra√üe,
+,Q82566734,Ulrichstra√üe,+
 way,Q105061762,Untere Burggasse,+
-,,Untere R¸tzelstraﬂe,
+,,Untere R√ºtzelstra√üe,
 ,,Unterer Atzemer,
 ,,Untermainkai,
 ,,Urnbergweg,
 ,Q7044,Urseler Weg,
-,Q78394,Ursinusstraﬂe,m
-,Q877836,Usastraﬂe,
-,Q622565,Usinger Straﬂe,
-,Q108301,Utrillostraﬂe,m
+,Q78394,Ursinusstra√üe,m
+,Q877836,Usastra√üe,
+,Q622565,Usinger Stra√üe,
+,Q108301,Utrillostra√üe,m
 ,,Valentin-Schmetzer-Weg,m
-way,Q122319,Valentin-Senger-Straﬂe,m
-,Q216596,Varrentrappstraﬂe,m
-,Q94902447,Vatterstraﬂe,m
+way,Q122319,Valentin-Senger-Stra√üe,m
+,Q216596,Varrentrappstra√üe,m
+,Q94902447,Vatterstra√üe,m
 ,Q574400,Victor-Gollancz-Weg,m
-,,Victor-Slotosch-Straﬂe,m
-,,Vierh‰usergasse,
-,Q16082,Vilbeler Landstraﬂe,
-,Q16082,Vilbeler Straﬂe,
-,,Voelckerstraﬂe,+
-,Q317074,Vogelsbergstraﬂe,
-,,Vogelstraﬂe,m
-,Q187843,Vogesenstraﬂe,
-way,Q103942,Vogtstraﬂe,m
+,,Victor-Slotosch-Stra√üe,m
+,,Vierh√§usergasse,
+,Q16082,Vilbeler Landstra√üe,
+,Q16082,Vilbeler Stra√üe,
+,,Voelckerstra√üe,+
+,Q317074,Vogelsbergstra√üe,
+,,Vogelstra√üe,m
+,Q187843,Vogesenstra√üe,
+way,Q103942,Vogtstra√üe,m
 ,Q97525,Volgersbrunnenweg,m
-,Q14876,Vˆlklinger Straﬂe,
-,,Volkshausstraﬂe,
-,,Volpenhennstraﬂe,m
-,Q680,Voltastraﬂe,m
+,Q14876,V√∂lklinger Stra√üe,
+,,Volkshausstra√üe,
+,,Volpenhennstra√üe,m
+,Q680,Voltastra√üe,m
 ,Q25662,Wacholderweg,
-,Q558612,W‰chtersbacher Straﬂe,
-,,Waidmannstraﬂe,
-,Q66936,Waitzstraﬂe,m
+,Q558612,W√§chtersbacher Stra√üe,
+,,Waidmannstra√üe,
+,Q66936,Waitzstra√üe,m
 ,Q24040251,Walburga-Zizka-Weg,f
-,Q540107,Waldecker Straﬂe,
-,Q712254;Q1041465,Waldfriedstraﬂe,+
-,Q15821335,Waldschmidtstraﬂe,m
-,,Waldschulstraﬂe,
-,Q2542588,Wallauer Straﬂe,
-,Q13487088,Walldorfer Straﬂe,
+,Q540107,Waldecker Stra√üe,
+,Q712254;Q1041465,Waldfriedstra√üe,+
+,Q15821335,Waldschmidtstra√üe,m
+,,Waldschulstra√üe,
+,Q2542588,Wallauer Stra√üe,
+,Q13487088,Walldorfer Stra√üe,
 ,,Wallfahrtsweg,
-,,Wallstraﬂe,
-,Q216944,Walnuﬂweg,
+,,Wallstra√üe,
+,Q216944,Walnu√üweg,
 ,,Walter-Abschlag-Weg,m
-,Q61071,Walter-Gropius-Straﬂe,m
-way,Q1310436,Walter-Hesselbach-Straﬂe,m
-,Q2545117,Walter-Kolb-Straﬂe,m
-way,Q1770830,Walter-Leiske-Straﬂe,m
-way,Q1440251,Walter-Mˆller-Platz,m
-,Q57125,Walter-Nernst-Straﬂe,m
+,Q61071,Walter-Gropius-Stra√üe,m
+way,Q1310436,Walter-Hesselbach-Stra√üe,m
+,Q2545117,Walter-Kolb-Stra√üe,m
+way,Q1770830,Walter-Leiske-Stra√üe,m
+way,Q1440251,Walter-M√∂ller-Platz,m
+,Q57125,Walter-Nernst-Stra√üe,m
 ,Q1639547,Walter-Schwagenscheidt-Platz,m
-,Q2547520,Walter-vom-Rath-Straﬂe,m
+,Q2547520,Walter-vom-Rath-Stra√üe,m
 ,Q698426,Walther-von-Cronberg-Platz,m
-,,Wanebachstraﬂe,m
-,Q270,Warschauer Straﬂe,
-,Q151545,Wartburgstraﬂe,
-,Q2210631,Warteg‰ﬂchen,
-,Q896719,Wasgaustraﬂe,
-,Q1510320,Wasserhofstraﬂe,
-,Q154812,Weberstraﬂe,m
+,,Wanebachstra√üe,m
+,Q270,Warschauer Stra√üe,
+,Q151545,Wartburgstra√üe,
+,Q2210631,Warteg√§√üchen,
+,Q896719,Wasgaustra√üe,
+,Q1510320,Wasserhofstra√üe,
+,Q154812,Weberstra√üe,m
 ,Q23004,Weckmarkt,
 ,,Wed,
-,Q1741785,Wegscheidestraﬂe,
-,Q628442,Wehrheimer Straﬂe,
-,,Wehrhofstraﬂe,
-,,Wehrstraﬂe,
-,Q831279,Weidenauer Straﬂe,
-,,Weidenbornstraﬂe,
-,Q1594479,Weilbacher Straﬂe,
-,,Weilbrunnstraﬂe,m
-,Q573599,Weilburger Straﬂe,
-,Q3955,Weimarer Straﬂe,
-,Q15808046,Weism¸llerstraﬂe,m
-,,Weiﬂadlergasse,
-,Q2557202,Weiﬂfrauenstraﬂe,
-,Q2062891,Weiﬂkirchener Weg,
+,Q1741785,Wegscheidestra√üe,
+,Q628442,Wehrheimer Stra√üe,
+,,Wehrhofstra√üe,
+,,Wehrstra√üe,
+,Q831279,Weidenauer Stra√üe,
+,,Weidenbornstra√üe,
+,Q1594479,Weilbacher Stra√üe,
+,,Weilbrunnstra√üe,m
+,Q573599,Weilburger Stra√üe,
+,Q3955,Weimarer Stra√üe,
+,Q15808046,Weism√ºllerstra√üe,m
+,,Wei√üadlergasse,
+,Q2557202,Wei√üfrauenstra√üe,
+,Q2062891,Wei√ükirchener Weg,
 ,,Wellengasse,
 ,Q257905;Q503998,Welscher Weg,
-,Q257905;Q503998,Welschgrabenstraﬂe,
+,Q257905;Q503998,Welschgrabenstra√üe,
 ,Q389586,Wendelsplatz,m
 ,Q389586,Wendelsweg,m
 ,,Wenzelweg,m
-,Q2560878,Werner-Bockelmann-Straﬂe,m
+,Q2560878,Werner-Bockelmann-Stra√üe,m
 ,Q240032,Werner-von-Ursel-Platz,m
-,Q6424,Werrastraﬂe,
-,Q61912,Wertheimer Straﬂe,
-,Q1650,Weserstraﬂe,
-,,Westenbergerstraﬂe,+
-,Q1292177,Westerbachstraﬂe,
-,Q640966,Westerwaldstraﬂe,
-,Q161947,Westpreuﬂenstraﬂe,
-,Q702755,Wetteraustraﬂe,
-,Q4178,Wetzlarer Straﬂe,
-,Q73048,Wichernstraﬂe,m
+,Q6424,Werrastra√üe,
+,Q61912,Wertheimer Stra√üe,
+,Q1650,Weserstra√üe,
+,,Westenbergerstra√üe,+
+,Q1292177,Westerbachstra√üe,
+,Q640966,Westerwaldstra√üe,
+,Q161947,Westpreu√üenstra√üe,
+,Q702755,Wetteraustra√üe,
+,Q4178,Wetzlarer Stra√üe,
+,Q73048,Wichernstra√üe,m
 ,Q147337,Wickenweg,
-,Q2567626,Wickerer Straﬂe,
-,Q996358,Wicker-Frosch-Straﬂe,m
-,Q154010,Wielandstraﬂe,m
-,Q1741,Wiener Straﬂe,
-,Q1721,Wiesbadener Straﬂe,
-,,Wiesenh¸ttenplatz,m
-,,Wiesenh¸ttenstraﬂe,m
-,,Wiesenstraﬂe,
-way,Q45337,Wildenbruchstraﬂe,m
-,Q516462,Wildunger Straﬂe,
-,,Wilhelm-Beckel-Straﬂe,m
+,Q2567626,Wickerer Stra√üe,
+,Q996358,Wicker-Frosch-Stra√üe,m
+,Q154010,Wielandstra√üe,m
+,Q1741,Wiener Stra√üe,
+,Q1721,Wiesbadener Stra√üe,
+,,Wiesenh√ºttenplatz,m
+,,Wiesenh√ºttenstra√üe,m
+,,Wiesenstra√üe,
+way,Q45337,Wildenbruchstra√üe,m
+,Q516462,Wildunger Stra√üe,
+,,Wilhelm-Beckel-Stra√üe,m
 ,Q2571704,Wilhelm-Beer-Weg,m
-way,Q109540,Wilhelm-Busch-Straﬂe,m
-,Q94760522,Wilhelm-Epstein-Straﬂe,m
-,Q2572609,Wilhelm-Fay-Straﬂe,m
-,,Wilhelm-Flˆgel-Ring,m
-way,Q1462974,Wilhelm-Grandhomme-Straﬂe,m
-way,Q1284419,Wilhelm-Gutbrod-Straﬂe,m
-,Q57966,Wilhelm-Hauff-Straﬂe,m
+way,Q109540,Wilhelm-Busch-Stra√üe,m
+,Q94760522,Wilhelm-Epstein-Stra√üe,m
+,Q2572609,Wilhelm-Fay-Stra√üe,m
+,,Wilhelm-Fl√∂gel-Ring,m
+way,Q1462974,Wilhelm-Grandhomme-Stra√üe,m
+way,Q1284419,Wilhelm-Gutbrod-Stra√üe,m
+,Q57966,Wilhelm-Hauff-Stra√üe,m
 ,Q87410,Wilhelmine-Reichard-Weg,f
-,Q76224,Wilhelm-Kobelt-Straﬂe,m
+,Q76224,Wilhelm-Kobelt-Stra√üe,m
 ,,Wilhelm-Koppel-Weg,m
-,Q213868,Wilhelm-Leuschner-Straﬂe,m
-,,Wilhelm-Meiﬂ-Straﬂe,m
+,Q213868,Wilhelm-Leuschner-Stra√üe,m
+,,Wilhelm-Mei√ü-Stra√üe,m
 ,Q94804821,Wilhelm-Roser-Weg,m
 ,Q315398,Wilhelmsbader Weg,
-,Q57403,Wilhelm-Schickard-Straﬂe,m
+,Q57403,Wilhelm-Schickard-Stra√üe,m
 ,,Wilhelm-Schmelz-Weg,m
-,Q3857,Wilhelmshavener Straﬂe,
-,Q447441,Wilhelmshˆher Straﬂe,
-,Q75803,Willemerstraﬂe,f
+,Q3857,Wilhelmshavener Stra√üe,
+,Q447441,Wilhelmsh√∂her Stra√üe,
+,Q75803,Willemerstra√üe,f
 ,,Willemineallee,f
-,,Willibrachtstraﬂe,m
+,,Willibrachtstra√üe,m
 ,,Willi-Petri-Steg,m
-way,Q100288,Willmannstraﬂe,m
-,Q879135,Willy-Berking-Straﬂe,m
+way,Q100288,Willmannstra√üe,m
+,Q879135,Willy-Berking-Stra√üe,m
 ,Q2514,Willy-Brandt-Platz,m
 ,Q159844,Wim-Duisenberg-Platz,m
-,,Windeckstraﬂe,
-,,Windm¸hlstraﬂe,
-,Q533645,Windthorststraﬂe,m
-,,Wingertstraﬂe,
-,,Winterbachstraﬂe,m
-,,Winterstraﬂe,m
-,Q7030,Wismarer Straﬂe,
+,,Windeckstra√üe,
+,,Windm√ºhlstra√üe,
+,Q533645,Windthorststra√üe,m
+,,Wingertstra√üe,
+,,Winterbachstra√üe,m
+,,Winterstra√üe,m
+,Q7030,Wismarer Stra√üe,
 way,Q131621,Wittelsbacherallee,+
-,Q760821,Wˆhlerstraﬂe,m
-way,Q16937579,Wolfgang-Bangert-Straﬂe,m
-,Q539592,Wolfhagener Straﬂe,
-,Q96519,Wolf-Heidenheim-Straﬂe,m
-,,Wolfsgangstraﬂe,
-,Q621894,Wˆllst‰dter Straﬂe,
-,,Woogstraﬂe,
-,Q3852,Wormser Straﬂe,
-,Q2060706,Wˆrsdorfer Straﬂe,
-,Q1665640,Wurmbachstraﬂe,m
-,Q2999,W¸rzburger Straﬂe,
-,,Xaver-Fendt-Straﬂe,m
-,Q146641,Zanderstraﬂe,
-,Q148463,Zaubernuﬂallee,
-,,Zehnmorgenstraﬂe,
+,Q760821,W√∂hlerstra√üe,m
+way,Q16937579,Wolfgang-Bangert-Stra√üe,m
+,Q539592,Wolfhagener Stra√üe,
+,Q96519,Wolf-Heidenheim-Stra√üe,m
+,,Wolfsgangstra√üe,
+,Q621894,W√∂llst√§dter Stra√üe,
+,,Woogstra√üe,
+,Q3852,Wormser Stra√üe,
+,Q2060706,W√∂rsdorfer Stra√üe,
+,Q1665640,Wurmbachstra√üe,m
+,Q2999,W√ºrzburger Stra√üe,
+,,Xaver-Fendt-Stra√üe,m
+,Q146641,Zanderstra√üe,
+,Q148463,Zaubernu√üallee,
+,,Zehnmorgenstra√üe,
 ,Q184664,Zehntgasse,
 ,Q184664,Zehnthofgasse,
 ,Q177120,Zeil,
 ,,Zeilweg,
 ,Q5261336,Zeisigweg,
-,,Zeiﬂelstraﬂe,
-,Q58857,Zelterstraﬂe,m
-,Q1053529,Zentgrafenstraﬂe,
+,,Zei√üelstra√üe,
+,Q58857,Zelterstra√üe,m
+,Q1053529,Zentgrafenstra√üe,
 ,Q84574521,Zentmarkweg,
 ,Q75780,Zeppelinallee,m
-,,Zeul‰ckerstraﬂe,+
+,,Zeul√§ckerstra√üe,+
 ,,Ziegelei-Allee,
 ,,Ziegelgasse,
-,,Ziegelh¸ttenweg,
-,Q198792,Ziegenhainer Straﬂe,
-,Q498211,Zillestraﬂe,m
+,,Ziegelh√ºttenweg,
+,Q198792,Ziegenhainer Stra√üe,
+,Q498211,Zillestra√üe,m
 ,Q154549,Zimmerweg,
 ,Q76336,Zinzendorfweg,m
-way,Q104883023,Zobelstraﬂe,m
-,,Zorbachstraﬂe,+
-,,Zuckschwerdtstraﬂe,m
+way,Q104883023,Zobelstra√üe,m
+,,Zorbachstra√üe,+
+,,Zuckschwerdtstra√üe,m
 ,,Zum Stulen,
-,,Zum-Jungen-Straﬂe,+
+,,Zum-Jungen-Stra√üe,+
 ,,Zur Frankenfurt,
-,Q315209,Zur Kalbacher Hˆhe,
-,Q72,Z¸richer Straﬂe,
+,Q315209,Zur Kalbacher H√∂he,
+,Q72,Z√ºricher Stra√üe,
 ,Q16891766,Zwingergasse,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
