@@ -377,7 +377,7 @@ way,Q5177066,Boseweg,f
 way,Q89185,Böttgerstraße,m
 way,Q7294,Brahmsstraße,m
 ,Q1322268,Brand,
-,Q1208, Q3931,Brandenburger Weg,
+,Q1208;Q3931,Brandenburger Weg,
 ,Q899987,Braubachstraße,
 ,,Braumannstraße,+
 ,Q525612,Braunfelsstraße,
@@ -390,7 +390,7 @@ way,Q7294,Brahmsstraße,m
 way,Q908810,Brendelstraße,+
 way,Q57235,Brentanopark,m
 ,Q1799,Breslauer Straße,
-,Q572075, Q1011184,Breubergstraße,
+,Q572075;Q1011184,Breubergstraße,
 ,Q759978,Breulsweg,
 way,Q179888,Briandring,m
 ,Q634710,Brohltalstraße,
@@ -611,7 +611,7 @@ way,Q34787,Engelsplatz,m
 ,Q896126,Engelthaler Straße,
 ,Q1343216,Enkheimer Straße,
 ,Q1347558,Eppenhainer Straße,
-,Q45347, Q1011635,Eppsteiner Straße,
+,Q45347;Q1011635,Eppsteiner Straße,
 ,,Eptingweg,m
 ,Q571748,Erbacher Straße,
 ,Q2630687,Erbbaustraße,
@@ -661,8 +661,8 @@ way,Q76938,Fallerslebenstraße,m
 ,,Färberstraße,
 ,,Faulborngasse,
 ,,Faulbrunnenweg,
-,Q451611, Q650399,Fechenheimer Leinpfad,
-,Q451611, Q650399,Fechenheimer Straße,
+,Q451611;Q650399,Fechenheimer Leinpfad,
+,Q451611;Q650399,Fechenheimer Straße,
 ,Q677873,Feldbergstraße,
 ,,Feldgerichtstraße,
 ,,Feldscheidenstraße,
@@ -1585,7 +1585,7 @@ way,Q1461288,Manskopfstraße,m
 ,Q78858,Margarete-Schütte-Lihotzky-Anlage,f
 ,Q69306,Margarete-Steiff-Straße,f
 ,Q214911,Margarete-Susman-Weg,f
-way,Q1466898, Q109648905,Margarete-und-Fritz-Kahl-Anlage,+
+way,Q1466898;Q109648905,Margarete-und-Fritz-Kahl-Anlage,+
 ,,Margarete-Weber-Anlage,f
 way,Q107041,Marianne-Beuchert-Platz,f
 ,Q75803,Mariannenstraße,f
