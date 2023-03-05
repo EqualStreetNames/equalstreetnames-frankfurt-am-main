@@ -33,7 +33,7 @@ If you want to replicate the EqualStreetNames project in your city, here is the 
         + 'relationId' => 62400,
         ```
 
-    1. *Optional:* Choose languages in which you want to extract Wiki informations with `languages` (English `en` by default).
+    1. *Optional:* Choose languages in which you want to extract Wiki informations with `languages` (English `en` by default). ✅ added 'de'
 
     1. *Optional:* You can exclude ways or relations by adding the ways identifier in `exclude.way` and adding the relations identifier in `exclude.relation`.
 
