@@ -340,7 +340,7 @@ way;Q19825012;Bindingstraﬂe;m;Conrad Binding
 ;Q624456;Bischofsheimer Straﬂe;;
 ;;Bischofsweg;;
 ;Q836932;Bitterfelder Weg;;
-way;"Q366649;Q241755";Blanchardstraﬂe;+;Jean-Pierre Blanchard, Sophie Blanchard
+way;Q366649,Q241755;Blanchardstraﬂe;+;Jean-Pierre Blanchard, Sophie Blanchard
 ;Q241755;Blankenburger Weg;;
 ;Q241235;Blankenheimer Straﬂe;;
 ;Q25630;Blauenstraﬂe;;
@@ -555,7 +555,7 @@ way;Q103555;Eberstadtstraﬂe;m;Rudolf Eberstadt
 ;;Eckhardtstraﬂe;m;Ludwig Friedrich Leonhard Eckhardt
 ;Q537985;Edenkobener Straﬂe;;
 ;Q685585;Ederstraﬂe;;
-way;"Q56435227;Q66524";Edingerweg;+;Anna Edinger, Ludwig Edinger
+way;Q56435227,Q66524;Edingerweg;+;Anna Edinger, Ludwig Edinger
 way;Q8743;Edisonstraﬂe;m;Thomas Alva Edison
 way;Q76749;Edith-Stein-Weg;f;Edith Stein
 way;Q84530;Edmund-Rumpler-Straﬂe;m;Edmund Rumpler
@@ -1677,7 +1677,7 @@ way;Q1042305;Mierendorffstraﬂe;m;Carlo Mierendorff
 ;Q502681;Miltenberger Straﬂe;;
 way;Q63882;Miquelallee und Miquelanlage;m;Johannes von Miquel
 ;Q6497135;Mithrasstraﬂe;m;Mithras
-;"Q67449;Q77809";Mitscherlichplatz;+;Alexander und Margarete Mitscherlich
+;Q67449,Q77809;Mitscherlichplatz;+;Alexander und Margarete Mitscherlich
 ;;Mittelweg;;
 ;Q16293904;Mittlerer Schafhofweg;;
 ;;Mockst‰dter Straﬂe;;
@@ -1862,7 +1862,7 @@ way;Q1112030;Philipp-Holzmann-Weg;m;Johann Philipp Holzmann
 ;;Philipp-Puth-Straﬂe;m;Philipp Puth
 ;Q77124;Philipp-Reis-Straﬂe;m;Philipp Reis
 ;;Philipp-Schnell-Straﬂe;m;Philipp Schnell 
-;"Q875810;Q90186";Philippsruher Straﬂe;m;Philipp Reinhard
+;Q875810,Q90186;Philippsruher Straﬂe;m;Philipp Reinhard
 ;Q14849;Pirmasenser Straﬂe;;
 way;Q134741;Pissarroweg;m;Camille Pissarro
 ;Q62432;Platenstraﬂe;m;August von Platen-Hallerm¸nde
@@ -2288,7 +2288,7 @@ way;Q103942;Vogtstraﬂe;m;Nicolaus Vogt
 ;Q66936;Waitzstraﬂe;m;Georg Waitz
 ;Q24040251;Walburga-Zizka-Weg;f;Walburga Zizka
 ;Q540107;Waldecker Straﬂe;;
-;"Q712254;Q1041465";Waldfriedstraﬂe;+;Arthur von Weinberg und Carl von Weinberg
+;Q712254,Q1041465;Waldfriedstraﬂe;+;Arthur von Weinberg und Carl von Weinberg
 ;Q15821335;Waldschmidtstraﬂe;m;Johann Martin Waldschmidt
 ;;Waldschulstraﬂe;;
 ;Q2542588;Wallauer Straﬂe;;
