@@ -9,7 +9,6 @@ Barchfeldstraße,wikidata,,Q1615766,way
 Bethmannstraße,wikidata,,Q321195,way
 "Beuthener Straße",wikidata,,Q102350,way
 Bleichstraße,wikidata,,Q100163675,way
-"Bockenheimer Warte",wikidata,,Q889179,relation
 Bolongarostraße,wikidata,,Q891540,way
 Brendelstraße,wikidata,,Q908810,way
 Brüder-Grimm-Straße,wikidata,,Q2793,way
@@ -33,6 +32,7 @@ Gref-Völsing-Straße,wikidata,,Q1417951,way
 Guaitastraße,wikidata,,Q1552635,way
 Habsburgerallee,wikidata,,Q65968,way
 Hagebuttenweg,wikidata,,Q46740,way
+Hannelore-Elsner-Platz,wikidata,,Q889179,relation
 "Hattsteiner Straße",wikidata,,Q15814461,way
 "Höchster Schloßplatz",wikidata,,Q1643246,way
 Hofhausstraße,wikidata,,Q2233111,way
@@ -249,6 +249,7 @@ Altvaterstraße,,,,way
 "Am Hollgraben",,,,way
 "Am Höllsteg",,,,way
 "Am Holzpförtchen",,,,way
+"Am Homburger Berg",,,,way
 "Am Honigberg",,,,way
 "Am Hopfenbrunnen",,,,way
 "Am Hopfengarten",,,,way
@@ -609,6 +610,7 @@ Blumenstraße,,,,way
 Blütenweg,,,,way
 "Bockenheimer Anlage",,,,way
 "Bockenheimer Landstraße",,,,way
+"Bockenheimer Warte",,,,relation
 "Bockenheimer Wiesenweg",,,,way
 "Bodenbacher Weg",,,,way
 Bodenseestraße,,,,way
@@ -1103,7 +1105,7 @@ Gräfendeichstraße,,,,way
 Grasmückenweg,,,,way
 Grastränkschneise,,,,way
 "Grauer Stein",,,,way
-"Gravensteiner Platz",,,,way
+Gravensteiner-Platz,,,,way
 "Grazer Weg",,,,way
 Greifstraße,,,,way
 "Greifswalder Weg",,,,way
@@ -1165,7 +1167,6 @@ Hafentunnel,,,,way
 Haferackerschneise,,,,way
 Häfnerschneise,,,,way
 Hafnerstraße,,,,way
-Häfnerweg,,,,way
 Hahnbergweg,,,,way
 Hahnenkammstraße,,,,way
 Hahnstraße,,,,way
@@ -1479,6 +1480,7 @@ Kaisertannenweg,,,,way
 "Kalbacher Hauptstraße",,,,way
 "Kalbacher Niddapfad",,,,way
 "Kalbacher Stadtpfad",,,,way
+"Kalbacher Weg",,,,way
 Kalkentalstraße,,,,way
 Kalmitstraße,,,,way
 Kaltmühle,,,,way
