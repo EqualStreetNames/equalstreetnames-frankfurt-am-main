@@ -2,6 +2,7 @@ name,source,gender,wikidata,type
 Adelheidstraße,wikidata,,Q354803,way
 "Am Bachberg",wikidata,,Q1010881,way
 "Am Burghof",wikidata,,Q1011117,way
+"Am Hauptbahnhof",wikidata,,Q165368,way
 "An der Hauptwache",wikidata,,Q195116,way
 Antoniterstraße,wikidata,,Q606474,way
 Barchfeldstraße,wikidata,,Q1615766,way
@@ -228,7 +229,6 @@ Altvaterstraße,,,,way
 "Am Hainborn",,,,way
 "Am Hang",,,,way
 "Am Hasensprung",,,,way
-"Am Hauptbahnhof",,,,way
 "Am Heddernheimer Gaswerk",,,,way
 "Am Henninger Turm",,,,way
 "Am Hennsee",,,,way
@@ -1331,7 +1331,7 @@ Hugo-Stinnes-Straße,,,,way
 Hühnermarkt,,,,way
 Hühnerweg,,,,way
 Hullach,,,,way
-Hülya-Platz,,,,way
+Hülya-Platz,,,,relation
 "Hünfelder Straße",,,,way
 "Hungener Straße",,,,way
 Hunsrückstraße,,,,way
@@ -1548,7 +1548,7 @@ Kirchgasse,,,,way
 "Kirchhainer Straße",,,,way
 Kirchhofsweg,,,,way
 Kirchpfad,,,,way
-Kirchplatz,,,,way
+Kirchplatz,,,,relation+way
 Kirchschneise,,,,way
 Kirschalenschneise,,,,way
 Kirschbaumweg,,,,way
