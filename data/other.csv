@@ -2,9 +2,9 @@ name,source,gender,wikidata,type
 Adelheidstraße,wikidata,,Q354803,way
 "Am Bachberg",wikidata,,Q1010881,way
 "Am Burghof",wikidata,,Q1011117,way
-"Am Hauptbahnhof",wikidata,,Q165368,way
 "An der Hauptwache",wikidata,,Q195116,way
 Antoniterstraße,wikidata,,Q606474,way
+"Aßlarer Straße",wikidata,,Q558494,way
 Barchfeldstraße,wikidata,,Q1615766,way
 "Berger Marktplatz",wikidata,,Q314066,way
 Bethmannstraße,wikidata,,Q321195,way
@@ -18,8 +18,10 @@ Brüder-Grimm-Straße,wikidata,,Q2793,way
 Cimbernweg,wikidata,,Q106599,way
 Cranachstraße,wikidata,,Q56538064,way
 Crutzenkirchweg,wikidata,,Q115056,way
+"Dillenburger Straße",wikidata,,Q517381,way
 "Elbinger Straße",wikidata,,Q104712,way
 Elektronstraße,wikidata,,Q1069414,way
+"Eschersheimer Landstraße",wikidata,,Q450028,way
 Gebrüder-Wright-Straße,wikidata,,Q35820,way
 Germaniaplatz,wikidata,,Q328257,way
 Germaniastraße,wikidata,,Q328257,way
@@ -35,6 +37,7 @@ Habsburgerallee,wikidata,,Q65968,way
 Hagebuttenweg,wikidata,,Q46740,way
 Hannelore-Elsner-Platz,wikidata,,Q889179,relation
 "Hattsteiner Straße",wikidata,,Q15814461,way
+"Heddernheimer Landstraße",wikidata,,Q314062,way
 "Höchster Schloßplatz",wikidata,,Q1643246,way
 Hofhausstraße,wikidata,,Q2233111,way
 Holbeinsteg,wikidata,,Q51922614,way
@@ -54,6 +57,7 @@ Lachnerstraße,wikidata,,Q55818005,way
 Langobardenweg,wikidata,,Q130900,way
 Lichtenbergstraße,wikidata,,Q469837,way
 Lichtensteinstraße,wikidata,,Q1590307,way
+Limescorso,wikidata,,Q17374397,way
 Limpurgergasse,wikidata,,Q436543,way
 Luxemburgerallee,wikidata,,Q122293,way
 Mattiakerweg,wikidata,,Q315832,way
@@ -61,6 +65,9 @@ Melemstraße,wikidata,,Q72060134,way
 Michaelstraße,wikidata,,Q45581,way
 Mithrasstraße,wikidata,,Q6497135,way
 Montgolfier-Allee,wikidata,,Q193751,way
+Nidacorso,wikidata,,Q17374397;Q834452,way
+Nidaforum,wikidata,,Q834452,way
+"Niederurseler Landstraße",wikidata,,Q316073,way
 "Obere Burggasse",wikidata,,Q105061762,way
 Oranienstraße,wikidata,,Q155483,way
 "Philippsruher Straße",wikidata,,Q875810;Q90186,way
@@ -70,10 +77,12 @@ Rugierstraße,wikidata,,Q1253884,way
 Schelmenburgplatz,wikidata,,Q2233111,way
 Schelmenweg,wikidata,,Q2233111,way
 Siebenbürgenstraße,wikidata,,Q170352,way
+"Sinner Weg",wikidata,,Q627276,way
 Solmsstraße,wikidata,,Q315397,way
 "Strahlenberger Weg",wikidata,,Q2352972,way
 Sudetenstraße,wikidata,,Q663389,way
 Thurn-und-Taxis-Platz,wikidata,,Q2116135,relation
+Tischbeinstraße,wikidata,,Q896346,way
 Ulrichstraße,wikidata,,Q82566734,way
 "Untere Burggasse",wikidata,,Q105061762,way
 Wittelsbacherallee,wikidata,,Q131621,way
@@ -229,6 +238,7 @@ Altvaterstraße,,,,way
 "Am Hainborn",,,,way
 "Am Hang",,,,way
 "Am Hasensprung",,,,way
+"Am Hauptbahnhof",,,,way
 "Am Heddernheimer Gaswerk",,,,way
 "Am Henninger Turm",,,,way
 "Am Hennsee",,,,way
@@ -476,7 +486,6 @@ Arthur-Stern-Platz,,,,way
 Aschebachstraße,,,,way
 "Assenheimer Straße",,,,way
 Astronomenweg,,,,way
-"Aßlarer Straße",,,,way
 "Aßmannshäuser Weg",,,,way
 "Athener Straße",,,,way
 Atzelbergplatz,,,,way
@@ -659,6 +668,7 @@ Brentanostraße,,,,way
 Breubergstraße,,,,way
 Breuerwiesenstraße,,,,way
 Breulsweg,,,,way
+Brigitte-Frauendorf-Straße,,,,way
 Brohltalstraße,,,,way
 Brommstraße,,,,way
 Broßstraße,,,,way
@@ -778,7 +788,6 @@ Diemelstraße,,,,way
 Dietrichstraße,,,,way
 Diezelschneise,,,,way
 "Diezer Straße",,,,way
-"Dillenburger Straße",,,,way
 Dillgasse,,,,way
 Distelrasen,,,,way
 Ditmarstraße,,,,way
@@ -817,6 +826,7 @@ Ebertschneise,,,,way
 "Eckernförder Straße",,,,way
 Eckhardtstraße,,,,way
 Eckstraße,,,,way
+Eco-Kart,,,,way
 "Edenkobener Straße",,,,way
 Ederstraße,,,,way
 "Egelsbacher Straße",,,,way
@@ -881,7 +891,6 @@ Erzweg,,,,way
 "Eschenheimer Anlage",,,,way
 "Eschenheimer Tor",,,,way
 "Eschenheimer Turm",,,,relation
-"Eschersheimer Landstraße",,,,way
 "Eschweger Straße",,,,way
 Eselsweg,,,,way
 Eskişehirplatz,,,,way
@@ -1039,6 +1048,7 @@ Gartenschneise,,,,way
 Gartenstraße,,,,way
 Gärtnerweg,,,,way
 Gasleitungsschneise,,,,way
+"Gateway Gardens Plaza",,,,way
 Gaugrafenstraße,,,,way
 Gebrüder-Hommel-Anlage,,,,way
 "Gederner Straße",,,,way
@@ -1092,6 +1102,7 @@ Goldbergweg,,,,way
 Goldgewann,,,,way
 Goldgrubenstraße,,,,way
 Goldhutgasse,,,,way
+Goldina-Hirschberg-Straße,,,,way
 Goldpeppingstraße,,,,way
 Goldregenstraße,,,,way
 Goldsteinschneise,,,,way
@@ -1206,7 +1217,6 @@ Hauer-Mauer-Weg,,,,way
 Heckenrosenweg,,,,way
 Hedderichstraße,,,,way
 "Heddernheimer Kirchstraße",,,,way
-"Heddernheimer Landstraße",,,,way
 "Heddernheimer Steg",,,,way
 Heerstraße,,,,way
 Heidelbachstraße,,,,way
@@ -1345,7 +1355,6 @@ Idarwaldstraße,,,,way
 "Ilbenstädter Straße",,,,relation
 Iltispfad,,,,way
 "Im Bleichgarten",,,,way
-"Im Brandsee",,,,way
 "Im Braungeröll",,,,way
 "Im Brombeerfeld",,,,way
 "Im Burgfeld",,,,way
@@ -1452,10 +1461,12 @@ Jakobsweg,,,,way
 Jasminweg,,,,way
 Jean-Kempf-Weg,,,,way
 "Jenaer Weg",,,,way
+Joachim-Biermann-Straße,,,,way
 Johann-Klohmann-Straße,,,,way
 Johann-Klotz-Straße,,,,way
 Johann-Sittig-Straße,,,,way
 Johann-Usener-Straße,,,,way
+Johanna-Zittel-Straße,,,,way
 Johannes-Lamp-Straße,,,,way
 Johanniskirchplatz,,,,way
 "Josbacher Straße",,,,way
@@ -1503,6 +1514,7 @@ Karl-Schüler-Weg,,,,way
 "Karlsbader Straße",,,,way
 "Karlsruher Straße",,,,way
 Karmelitergasse,,,,way
+Karoline-Veith-Straße,,,,way
 Karolingerweg,,,,way
 Karpfengasse,,,,way
 Karpfenweg,,,,way
@@ -1705,7 +1717,6 @@ Liefersteinschneise,,,,way
 "Liegnitzer Straße",,,,way
 Ligusterweg,,,,way
 Lilo-Günzler-Straße,,,,way
-Limescorso,,,,way
 Lindenallee,,,,way
 Lindenau,,,,way
 Lindenbaum,,,,way
@@ -1775,6 +1786,7 @@ Marderweg,,,,way
 Margaretenstraße,,,,way
 Margeritenweg,,,,way
 Maria-Ward-Platz,,,,way
+Marie-Pfungst-Platz,,,,way
 "Marienberger Straße",,,,way
 Marienburgstraße,,,,way
 "Märker Straße",,,,way
@@ -1795,6 +1807,7 @@ Martorffstraße,,,,way
 "Marxheimer Straße",,,,way
 "Massenheimer Straße",,,,way
 Maßbornstraße,,,,way
+Mathilde-Maier-Straße,,,,way
 Matternstraße,,,,way
 Mauerweg,,,,way
 Maulbeerstraße,,,,way
@@ -1815,6 +1828,7 @@ Mendelssohnweg,,,,way
 Mertonpassage,,,,way
 Merzenstraße,,,,way
 "Merziger Weg",,,,way
+Meta-Gadesmann-Straße,,,,way
 Metzstraße,,,,way
 Michael-Stumpf-Straße,,,,way
 Milanschneise,,,,way
@@ -1844,7 +1858,6 @@ Mühlbruchstraße,,,,way
 Mühlgasse,,,,way
 "Mühlheimer Straße",,,,way
 Mühlschneise,,,,way
-Mühlweg,,,,way
 Mühlwehrstraße,,,,way
 Mühlwiesenstraße,,,,way
 Mulanskystraße,,,,way
@@ -1892,8 +1905,6 @@ Neuwiesenschneise,,,,way
 Neuwiesenstraße,,,,way
 Nibelungenallee,,,,way
 Nibelungenplatz,,,,way
-Nidacorso,,,,way
-Nidaforum,,,,way
 Niddablick,,,,way
 "Niddabrücke Blauer Steg",,,,way
 Niddagaustraße,,,,way
@@ -1914,7 +1925,6 @@ Niedergasse,,,,way
 "Niederräder Landstraße",,,,way
 "Niederräder Ufer",,,,way
 "Niederschelder Weg",,,,way
-"Niederurseler Landstraße",,,,way
 "Niederurseler Steg",,,,way
 Niedwiesenstraße,,,,way
 Niemandsfeld,,,,way
@@ -2331,7 +2341,6 @@ Silostraße,,,,way
 Simon-Ochs-Straße,,,,way
 "Sindlinger Bahnstraße",,,,way
 "Sindlinger Straße",,,,way
-"Sinner Weg",,,,way
 Sirenenstraße,,,,way
 Skyline-Panorama,,,,way
 Skylineblick,,,,way
@@ -2346,6 +2355,7 @@ Sorbenstraße,,,,way
 "Sossenheimer Kirchberg",,,,way
 "Sossenheimer Mühlgasse",,,,way
 "Sossenheimer Riedstraße",,,,way
+"Sossenheimer Straße",,,,way
 "Sossenheimer Weg",,,,way
 "Sossenheimer Wehrsteg",,,,way
 Spatzengasse,,,,way
@@ -2511,6 +2521,7 @@ Usastraße,,,,way
 "Usinger Straße",,,,relation
 Utrilloweg,,,,way
 Valentin-Schmetzer-Weg,,,,way
+Valentina-Archipow-Straße,,,,way
 Vereinsstraße,,,,relation
 "Verlängerter Gruftenweg",,,,way
 Victor-Slotosch-Straße,,,,way
@@ -2550,6 +2561,7 @@ Waldstraße,,,,way
 Wallfahrtsweg,,,,way
 Wallstraße,,,,way
 Walter-Abschlag-Weg,,,,way
+"Walter-Möller Platz",,,,way
 Walter-Weisbecker-Weg,,,,way
 Wanebachhöfchen,,,,way
 Wanebachstraße,,,,way
