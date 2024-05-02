@@ -172,6 +172,7 @@ Celsiusplatz,wikidata,M,Q81130,way
 Cézanneweg,wikidata,M,Q35548,way
 Chamissostraße,wikidata,M,Q154782,way
 Chlodwig-Poth-Anlage,wikidata,M,Q1075165,way
+Clemensstraße,wikidata,M,Q107612077,way
 Cohausenstraße,wikidata,M,Q1730391,way
 Cretzschmarstraße,wikidata,M,Q215564,way
 Dahlmannstraße,wikidata,M,Q76589,way
@@ -362,6 +363,7 @@ Heinz-Saalig-Weg,wikidata,M,Q1600863,way
 Heisterstraße,wikidata,M,Q63829,way
 Hellerhofstraße,wikidata,M,Q99915,way
 Helmholtzstraße,wikidata,M,Q60024,way
+Helmut-Coing-Weg,wikidata,M,Q112106,way
 Helmut-Walcha-Straße,wikidata,M,Q133677,way
 Henning-von-Tresckow-Straße,wikidata,M,Q57574,way
 Henry-Budge-Straße,wikidata,M,Q20980046,way
@@ -555,7 +557,6 @@ Max-Born-Straße,wikidata,M,Q58978,way
 Max-Bromme-Steig,wikidata,M,Q1912307,way
 Max-Eyth-Straße,wikidata,M,Q78267,way
 Max-Hirsch-Straße,wikidata,M,Q91836,way
-Max-Horkheimer-Straße,wikidata,M,Q76826,way
 Max-Kirschner-Weg,wikidata,M,Q94381265,way
 Max-Leichter-Weg,wikidata,M,Q1912941,way
 Max-Planck-Straße,wikidata,M,Q9021,way
@@ -755,7 +756,7 @@ Theodor-Neubürger-Straße,wikidata,M,Q72060206,way
 Theodor-Stern-Kai,wikidata,M,Q2418346,way
 Theodor-Storm-Straße,wikidata,M,Q26993,way
 Theodor-Thomas-Straße,wikidata,M,Q2418376,way
-Theodor-W.-Adorno-Platz,wikidata,M,Q152388,relation
+Theodor-W.-Adorno-Platz,wikidata,M,Q152388,relation+way
 Thielenstraße,wikidata,M,Q98715,way
 Thorwaldsenplatz,wikidata,M,Q47812,way
 Thorwaldsenstraße,wikidata,M,Q47812,way
