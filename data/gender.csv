@@ -42,6 +42,7 @@ Helene-Adler-Weg,wikidata,F,Q968739,way
 Helene-Lange-Straße,wikidata,F,Q75209,way
 Henriette-Fürth-Straße,wikidata,F,Q1606160,way
 Hildegard-von-Bingen-Weg,wikidata,F,Q70991,way
+Hülya-Platz,wikidata,F,Q108670228,relation
 Ilse-Bing-Straße,wikidata,F,Q85719,way
 Jean-Gardner-Batten-Straße,wikidata,F,Q53541,way
 Jenny-Apolant-Weg,wikidata,F,Q1687019,way
@@ -54,6 +55,7 @@ Katharinenpforte,wikidata,F,Q179718,way
 Käthchen-Paulus-Straße,wikidata,F,Q125288,way
 Käthe-Kruse-Straße,wikidata,F,Q77804,way
 Klarastraße,wikidata,F,Q94744810,way
+"Kleine Seestraße",wikidata,F,Q108670228,way
 Klettenbergstraße,wikidata,F,Q31267,way
 Kollwitzstraße,wikidata,F,Q142472,way
 Liebfrauenberg,wikidata,F,Q345,relation+way
@@ -701,7 +703,7 @@ Schellingstraße,wikidata,M,Q60070,way
 Schenckstraße,wikidata,M,Q1539094,way
 Schenkendorfstraße,wikidata,M,Q71616,way
 Schiller-Passage,wikidata,M,Q22670,way
-Schillerstraße,wikidata,M,Q22670,relation+way
+Schillerstraße,wikidata,M,Q22670,way
 Schleidenstraße,wikidata,M,Q76747,way
 Schlettweinstraße,wikidata,M,Q1692462,way
 Schlickstraße,wikidata,M,Q1735093,way

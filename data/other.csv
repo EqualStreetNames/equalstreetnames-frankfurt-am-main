@@ -1,5 +1,6 @@
 name,source,gender,wikidata,type
 Adelheidstraße,wikidata,,Q354803,way
+Airportring,wikidata,,Q117156404;Q46033,way
 Altkönigstraße,wikidata,,Q442204,way
 "Am Bachberg",wikidata,,Q1010881,way
 "Am Burghof",wikidata,,Q1011117,way
@@ -52,7 +53,7 @@ Elektronstraße,wikidata,,Q1069414,way
 "Emser Brücke",wikidata,,Q490670,way
 "Eppsteiner Straße",wikidata,,Q45347,way
 "Eschenheimer Anlage",wikidata,,Q450028,way
-"Eschenheimer Tor",wikidata,,Q883643,way
+"Eschenheimer Tor",wikidata,,Q883643,relation+way
 "Eschersheimer Landstraße",wikidata,,Q450028,way
 "Esslinger Straße",wikidata,,Q3786,way
 Europa-Allee,wikidata,,Q46,way
@@ -179,7 +180,7 @@ Stegstraße,wikidata,,Q1313525,way
 Sudetenstraße,wikidata,,Q663389,way
 Taunusanlage,wikidata,,Q158884,way
 Taunusstraße,wikidata,,Q158884,way
-Thurn-und-Taxis-Platz,wikidata,,Q2116135,relation
+Thurn-und-Taxis-Platz,wikidata,,Q2116135,way
 Tischbeinstraße,wikidata,,Q896346,way
 "Turiner Straße",wikidata,,Q495,way
 Ulrichstraße,wikidata,,Q82566734,way
@@ -212,7 +213,6 @@ Ahornstraße,,,,way
 Ährenstraße,,,,way
 Ahrtalstraße,,,,way
 "Airport City Mall",,,,way
-Airportring,,,,way
 Akazienallee,,,,way
 Akazienstraße,,,,way
 Albanusstraße,,,,way
@@ -1399,7 +1399,6 @@ Hugo-Stinnes-Straße,,,,way
 Hühnermarkt,,,,way
 Hühnerweg,,,,way
 Hullach,,,,way
-Hülya-Platz,,,,relation
 "Hünfelder Straße",,,,way
 "Hungener Straße",,,,way
 Hunsrückstraße,,,,way
@@ -1632,7 +1631,6 @@ Kleestraße,,,,way
 "Kleine Nelkenstraße",,,,way
 "Kleine Rittergasse",,,,way
 "Kleine Schüttgrabenstraße",,,,way
-"Kleine Seestraße",,,,way
 "Kleine Spillingsgasse",,,,relation
 "Kleine Wiesenau",,,,way
 "Kleiner Hirschgraben",,,,way
