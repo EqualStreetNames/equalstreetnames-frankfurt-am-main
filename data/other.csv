@@ -227,6 +227,7 @@ Alkmenestraße,,,,way
 Allerheiligenstraße,,,,way
 Allerheiligentor,,,,way
 Allesinastraße,,,,way
+Allianz-Passage,,,,way
 Allmeygang,,,,way
 Alois-Brisbois-Weg,,,,way
 Alois-Eckert-Straße,,,,way
@@ -1064,6 +1065,7 @@ Frankenallee,,,,way
 "Frankensteiner Platz",,,,way
 "Frankensteiner Straße",,,,way
 "Frankenthaler Weg",,,,way
+"Frankfurt (Main) Galluswarte",,,,relation
 "Frankfurter Straße",,,,way
 Franz-Diehl-Weg,,,,way
 Franz-Rücker-Allee,,,,way
@@ -1387,6 +1389,7 @@ Horles,,,,way
 "Hornauer Straße",,,,way
 Hörselbergstraße,,,,way
 Hortensienring,,,,way
+Hospitalplatz,,,,way
 Hospitalstraße,,,,way
 Hubertusgasse,,,,way
 Hügelschneise,,,,way
@@ -2050,7 +2053,7 @@ Philosophenweg,,,,way
 Platanenstraße,,,,way
 Platanenweg,,,,way
 "Platz der Einheit",,,,way
-"Platz der Republik",,,,way
+"Platz der Republik",,,,relation+way
 "Platz der vergessenen Kinder",,,,way
 Plessengasse,,,,way
 Polizeimeister-Kaspar-Straße,,,,way
